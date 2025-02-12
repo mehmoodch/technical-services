@@ -1,66 +1,4 @@
-<!DOCTYPE html>
-<html data-wf-domain="https://rashedmts.ae/index.html" data-wf-page="65fd82d8b2eb03f687d0e205" data-wf-site="64c93da6f9f661cffa20dfee"
-  lang="en">
-
-
-<head>
-  <meta charset="utf-8" />
-  <title>Handyman Residential &amp; Commercial Specialist Home Modification Services</title>
-  <meta
-    content="Find the best Handyman for residential &amp;amp; commercial home services. Get a quote now and make your home perfect with our expert services!"
-    name="description" />
-  <meta content="Home Modification &amp; Handyman Services" property="og:title" />
-  <meta
-    content="rashedmts offers reliable and affordable home modification and handyman services backed by over 25 years of experience. Schedule your service today!"
-    property="og:description" />
-  <meta
-    content="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/653ebdef0c6cbb7e612b3871_Screenshot%202023-10-29%20at%203.17.32%20PM.jpg"
-    property="og:image" />
-  <meta content="Home Modification &amp; Handyman Services" property="twitter:title" />
-  <meta
-    content="rashedmts offers reliable and affordable home modification and handyman services backed by over 25 years of experience. Schedule your service today!"
-    property="twitter:description" />
-  <meta
-    content="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/653ebdef0c6cbb7e612b3871_Screenshot%202023-10-29%20at%203.17.32%20PM.jpg"
-    property="twitter:image" />
-  <meta property="og:type" content="website" />
-  <meta content="summary_large_image" name="twitter:card" />
-  <meta content="width=device-width, initial-scale=1" name="viewport" />
-  <link href="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/css/handypro.155e2615f.min.css" rel="stylesheet"
-    type="text/css" />
-  <link href="https://fonts.googleapis.com/" rel="preconnect" />
-  <link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="anonymous" />
-  <script src="../ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
-  <script
-    type="text/javascript">WebFont.load({ google: { families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Varela Round:400", "Reenie Beanie:regular"] } });</script>
-  <script
-    type="text/javascript">!function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);</script>
-  <link href="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64f0f236541d8ebe682cfbc3_ copy.svg"
-    rel="shortcut icon" type="image/x-icon" />
-  <link href="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/65fdf184c51d68e1f8c6c7b7_Artboard.png"
-    rel="apple-touch-icon" />
-  <link href="index.html" rel="canonical" />
-  <style>
-    body {
-      -moz-osx-font-smoothing: grayscale;
-      -webkit-font-smoothing: antialiased;
-    }
-
-    select {
-      -webkit-appearance: none;
-    }
-  </style>
-  <!-- Google Tag Manager -->
-  <script>(function (w, d, s, l, i) {
-      w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-          new Date().getTime(), event: 'gtm.js'
-      }); var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-          '../www.googletagmanager.com/gtm5445.html?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-NMHJV9MF');</script>
-  <!-- End Google Tag Manager -->
-</head>
+<?php include 'header.php';?>
 
 <body>
   <div id="Top" class="back-to-top-container">
@@ -80,7 +18,7 @@
           data-src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64d67a4520567bb2db7aeeab_lottieflow-chat-17-6-f95603-easey.json"
           data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg"
           data-default-duration="1.4666666666666666" data-duration="0" data-ix2-initial-state="0"></div>
-        <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3e-5da6ec3b" class="phone-number-text">(800) 942-6394</div>
+        <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3e-5da6ec3b" class="phone-number-text">+971-505936597</div>
       </a></div>
     <div class="main-container">
       <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
@@ -413,12 +351,7 @@
   </div>
   <div class="page-wrapper">
     <div class="hero-section-3">
-      <div class="floating-reviews-wrapper">
-        <div class="w-embed w-script">
-          <script src="../static.elfsight.com/platform/platform.js" async></script>
-          <div class="elfsight-app-942110d7-f098-4d5f-b0ee-b106b857c542" data-elfsight-app-lazy></div>
-        </div>
-      </div>
+      
       <div class="hero-section-3-container">
         <div class="container hero-section-3-content center">
           <h1 class="h1-thin">Handyman For Residential &amp; Commercial</h1>
@@ -455,7 +388,7 @@
             src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/651477546bea48b1e8807088_Goldman-Sachs-Small-Business-Alumni-768x362-1 (1).webp"
             alt="" class="logo-row-item" />
           <div class="w-embed"><a
-              href="https://www.bbb.org/us/mi/farmington/profile/handyman/handypro-handyman-service-inc-0332-32020168/#sealclick"
+              href="#"
               target="_blank" rel="nofollow"><img
                 src="../seal-easternmichigan.bbb.org/seals/blue-seal-200-42-bbb-32020168.html" style="border: 0;"
                 alt="rashedmts Handyman Service, Inc. BBB Business Review" /></a></div><img
@@ -722,7 +655,8 @@
           <div class="container-large align-center">
             <div class="service-rich-text w-richtext">
               <h2><strong>Here for You When Life Happens</strong></h2>
-              <p><strong><em>Professional Handyman Home Repair Service<br /></em></strong><br />At Rashedmts, we are more
+              <p><strong><em>Professional Handyman Home Repair Service<br /></em></strong><br />At Rashedmts, we are
+                more
                 than just repair and home safety professionals – we are homeowners like you.<br /><br />We understand
                 how hard it can be to tackle that improvement project you have been envisioning in your head. Rashedmts
                 delivers more than just a quick fix or temporary solution. We provide quality, lasting solutions that
@@ -747,7 +681,7 @@
               <p>We have a responsibility to deliver the level of craftsmanship we would want to be provided to us, our
                 families, and our homes. Rashedmts also offers convenient scheduling via our website and TruztPro mobile
                 app to make our services even more seamless.</p>
-              <p>We provide handyman services to homes and businesses throughout The USA. No handyman job is too big or
+              <p>We provide handyman services to homes and businesses throughout The UAE. No handyman job is too big or
                 too small for our handyman pro tradesmen and women. From simple door locks and our furniture assembly
                 service, to interior and exterior painting. Plus fully ADA compliant home modifications such as grab bar
                 installation, right up to wheelchair ramps for homes.</p>
@@ -1146,7 +1080,7 @@
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "Rashedmts",
-  "image": "https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93ecf583591b233e7f535_HandyPro%20Logo.png",
+  "image": "https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts-logo.png",
   "@id": "https://maps.app.goo.gl/22sqoeM63Lj8xRs36",
   "url": "https://www.rashedmts.ae",
   "telephone": "+18009426394",
@@ -1564,7 +1498,7 @@
       <div class="main-container">
         <div class="footer-1-top-row bottom-margin"><a href="index.html" aria-current="page"
             class="footer-2-logo w-inline-block w--current"><img
-              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93ecf583591b233e7f535_HandyPro Logo.webp"
+              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts-logo.png"
               alt="Handyman Services by Rashedmts" /></a><a
             href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557" target="_blank"
             class="button w-inline-block">
@@ -1580,18 +1514,20 @@
               focused on handicap home modifications, and home modifications for disabled and or elderly people. We are
               experts at design and modifications to ensure that elderly people can stay in their homes and enjoy life
               to the full.<br />‍<br />Our senior handy services also include grab bar installation, handicap ramps,
-              wheelchair lifts and much more.<br />‍<br />Arrange a visit today for advice on how Rashedmts can help with
+              wheelchair lifts and much more.<br />‍<br />Arrange a visit today for advice on how Rashedmts can help
+              with
               you home modification needs.</p>
           </div>
         </div>
         <div class="footer-2-top-row grid">
           <div>
             <div id="w-node-_91438ee7-0d91-1ced-868b-a962491ca2df-9d3b08c6" class="container-small">
-              <div><span class="Rashedmts-2">Rashedmts<sup>®</sup></span> offers reliable and affordable home modification
+              <div><span class="Rashedmts-2">Rashedmts<sup>®</sup></span> offers reliable and affordable home
+                modification
                 and handyman services backed by over 25 years of experience. Schedule your service today!</div>
             </div>
-            <div class="button-wrapper grid _6"><a id="w-node-ae8bed50-d87c-8c8d-360f-a0d358aa7a61-9d3b08c6"
-                href="#" target="_blank" class="social-button w-inline-block">
+            <div class="button-wrapper grid _6"><a id="w-node-ae8bed50-d87c-8c8d-360f-a0d358aa7a61-9d3b08c6" href="#"
+                target="_blank" class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"
                     class="iconify iconify--simple-icons" width="100%" height="100%" preserveAspectRatio="xMidYMid meet"
@@ -1609,8 +1545,8 @@
                       d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95">
                     </path>
                   </svg></div>
-              </a><a id="w-node-_534b135c-0c76-a3ab-5226-6911e11ceaca-9d3b08c6"
-                href="#" target="_blank" class="social-button w-inline-block">
+              </a><a id="w-node-_534b135c-0c76-a3ab-5226-6911e11ceaca-9d3b08c6" href="#" target="_blank"
+                class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--bx"
                     width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
@@ -1622,8 +1558,8 @@
                       d="M20.533 6.111A4.605 4.605 0 0 0 17.9 3.479a6.606 6.606 0 0 0-2.186-.42c-.963-.042-1.268-.054-3.71-.054s-2.755 0-3.71.054a6.554 6.554 0 0 0-2.184.42a4.6 4.6 0 0 0-2.633 2.632a6.585 6.585 0 0 0-.419 2.186c-.043.962-.056 1.267-.056 3.71c0 2.442 0 2.753.056 3.71c.015.748.156 1.486.419 2.187a4.61 4.61 0 0 0 2.634 2.632a6.584 6.584 0 0 0 2.185.45c.963.042 1.268.055 3.71.055s2.755 0 3.71-.055a6.615 6.615 0 0 0 2.186-.419a4.613 4.613 0 0 0 2.633-2.633c.263-.7.404-1.438.419-2.186c.043-.962.056-1.267.056-3.71s0-2.753-.056-3.71a6.581 6.581 0 0 0-.421-2.217zm-1.218 9.532a5.043 5.043 0 0 1-.311 1.688a2.987 2.987 0 0 1-1.712 1.711a4.985 4.985 0 0 1-1.67.311c-.95.044-1.218.055-3.654.055c-2.438 0-2.687 0-3.655-.055a4.96 4.96 0 0 1-1.669-.311a2.985 2.985 0 0 1-1.719-1.711a5.08 5.08 0 0 1-.311-1.669c-.043-.95-.053-1.218-.053-3.654c0-2.437 0-2.686.053-3.655a5.038 5.038 0 0 1 .311-1.687c.305-.789.93-1.41 1.719-1.712a5.01 5.01 0 0 1 1.669-.311c.951-.043 1.218-.055 3.655-.055s2.687 0 3.654.055a4.96 4.96 0 0 1 1.67.311a2.991 2.991 0 0 1 1.712 1.712a5.08 5.08 0 0 1 .311 1.669c.043.951.054 1.218.054 3.655c0 2.436 0 2.698-.043 3.654h-.011z"
                       fill="currentColor"></path>
                   </svg></div>
-              </a><a id="w-node-_8cadb9ac-e1c9-68e1-1d4d-3a99e1c3807f-9d3b08c6"
-                href="#" target="_blank" class="social-button w-inline-block">
+              </a><a id="w-node-_8cadb9ac-e1c9-68e1-1d4d-3a99e1c3807f-9d3b08c6" href="#" target="_blank"
+                class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--bx"
                     width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
@@ -1631,8 +1567,8 @@
                       d="M21.593 7.203a2.506 2.506 0 0 0-1.762-1.766C18.265 5.007 12 5 12 5s-6.264-.007-7.831.404a2.56 2.56 0 0 0-1.766 1.778c-.413 1.566-.417 4.814-.417 4.814s-.004 3.264.406 4.814c.23.857.905 1.534 1.763 1.765c1.582.43 7.83.437 7.83.437s6.265.007 7.831-.403a2.515 2.515 0 0 0 1.767-1.763c.414-1.565.417-4.812.417-4.812s.02-3.265-.407-4.831zM9.996 15.005l.005-6l5.207 3.005l-5.212 2.995z"
                       fill="currentColor"></path>
                   </svg></div>
-              </a><a id="w-node-_23613b17-8f16-5f05-0944-fc63834582c7-9d3b08c6"
-                href="#" target="_blank" class="social-button w-inline-block">
+              </a><a id="w-node-_23613b17-8f16-5f05-0944-fc63834582c7-9d3b08c6" href="#" target="_blank"
+                class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--bx"
                     width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
@@ -1713,22 +1649,10 @@
           </div>
         </div>
         <div class="footer-bottom-row second">
-          <div><a href="index.html" aria-current="page" class="w--current"><span class="Rashedmts">Rashedmts</span></a> ©
+          <div><a href="index.html" aria-current="page" class="w--current"><span class="Rashedmts">Rashedmts</span></a>
+            ©
             2024 All Rights Reserved</div>
-          <div class="button-wrapper-2 center"><a href="https://www.builtbybackspace.com/"
-              class="builtbybackspace-badge w-inline-block">
-              <div class="div-block-47">
-                <div class="text-block-2 built">built with</div>
-                <div class="lottie-animation" data-w-id="5e11e402-b637-66e7-f376-1834eb36a2d2"
-                  data-animation-type="lottie"
-                  data-src="https://cdn.prod.website-files.com/5f888fd323a21cff0fe5b1b0/5fa076302932308451b0b7b4_Flex.json"
-                  data-loop="1" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg"
-                  data-default-duration="2" data-duration="2.5"></div>
-                <div class="text-block-2 _2nd built">by</div>
-              </div><img
-                src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64caaf5e1653f93c208c08b8_5dc5954b62badbb8c895a1b0_BUILTbyBackspace_20Logo_2_ef454ea41bfd7b41117f9ca80485320e Copy.svg"
-                alt="" loading="lazy" class="image-3" />
-            </a></div>
+          
         </div>
       </div>
     </footer>
