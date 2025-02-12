@@ -6,12 +6,12 @@
           src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e10d_icon-chevron-up.svg"
           alt="" /></a></div>
   </div>
-  <div class="mob-cta-wrapper-2"><a href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557" target="_blank"
+  <div class="mob-cta-wrapper-2"><a href="#" target="_blank"
       class="button w-inline-block">
       <div> Book Now</div>
     </a></div>
   <div class="navbar-container sticky-top bg-white">
-    <div class="main-container right"><a data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3c" href="tel:(248)780-8950"
+    <div class="main-container right"><a data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3c" href="tel:+971505936597"
         class="grid-button w-inline-block">
         <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3d-5da6ec3b" data-is-ix2-target="1" class="lottie-icon"
           data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3d" data-animation-type="lottie"
@@ -24,13 +24,13 @@
       <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="navbar-justify-between"><a href="#" class="brand right-justify w-nav-brand">
-            <div class="code-embed-4 w-embed w-script">
+            <!-- <div class="code-embed-4 w-embed w-script">
               <script src="../static.elfsight.com/platform/platform.js" async></script>
               <div class="elfsight-app-7409957d-f9b7-45d1-8cd9-9b6c2e8c8b83" data-elfsight-app-lazy></div>
-            </div>
+            </div> -->
           </a>
           <div class="navbar-right-contents">
-            <nav role="navigation" class="nav-menu nav-menu-right-aligned w-nav-menu"><a href="index.html"
+            <nav role="navigation" class="nav-menu nav-menu-right-aligned w-nav-menu"><a href="index.php"
                 aria-current="page" class="nav-link w-nav-link w--current">Home</a>
               <div data-hover="false" data-delay="0" class="dropdown w-dropdown">
                 <div class="nav-link w-dropdown-toggle">
@@ -462,7 +462,7 @@
         <div class="embed-full-width w-embed w-script">
           <div data-embed-placeholder="16012">
             <script
-              src="https://www.local-marketing-reports.com/external/showcase-reviews/embed/b6899977c3348707bcb122800eabb084146e59c9?id=16012"></script>
+              src="#"></script>
           </div>
         </div>
       </div>
@@ -1081,22 +1081,22 @@
   "@type": "LocalBusiness",
   "name": "Rashedmts",
   "image": "https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts-logo.png",
-  "@id": "https://maps.app.goo.gl/22sqoeM63Lj8xRs36",
+  "@id": "https://maps.app.goo.gl/48WTfAt7pWuU3Cms6",
   "url": "https://www.rashedmts.ae",
-  "telephone": "+18009426394",
+  "telephone": "+971505936597",
   "priceRange": "$$$",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "22500 Orchard Lake Rd",
-    "addressLocality": "Farmington",
-    "addressRegion": "MI",
-    "postalCode": "48336",
-    "addressCountry": "US"
+    "streetAddress": "Dubai Investment Park 1 , Office 4",
+    "addressLocality": "Dubai",
+    "addressRegion": "DXB",
+    "postalCode": "00000",
+    "addressCountry": "UAE"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 42.4576939,
-    "longitude": -83.355937
+    "latitude": 25.25992,
+    "longitude": 55.30905
   },
   "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",
@@ -1106,9 +1106,10 @@
       "Wednesday",
       "Thursday",
       "Friday"
+      "Saturday"
     ],
-    "opens": "08:00",
-    "closes": "17:00"
+    "opens": "09:00",
+    "closes": "18:00"
   },
   "sameAs": [
     "#",
@@ -1119,19 +1120,19 @@
   ],
   "department": [{
     "@type": "LocalBusiness",
-     "name": "Rashedmts of Farmington Hills",
+     "name": "Rashed Mazumdar Technical Services LLC",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "22500 Orchard Lake Rd",
-    "addressLocality": "Farmington",
-    "addressRegion": "MI",
-    "postalCode": "48336",
-    "addressCountry": "US"
+    "streetAddress": "DIP 1 office 4",
+    "addressLocality": "Dubai",
+    "addressRegion": "DXB",
+    "postalCode": "00000",
+    "addressCountry": "UAE"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 42.4576939,
-    "longitude": -83.355937
+    "latitude": 25.25992,
+    "longitude": 55.30905
   },
   "url": "https://rashedmts.ae/locations/farmington-hills",
     "image": "https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/65f447a991716018cf5047d5_3.png",
@@ -1496,7 +1497,7 @@
     </div>
     <footer id="Page-Footer" class="footer-2">
       <div class="main-container">
-        <div class="footer-1-top-row bottom-margin"><a href="index.html" aria-current="page"
+        <div class="footer-1-top-row bottom-margin"><a href="index.php" aria-current="page"
             class="footer-2-logo w-inline-block w--current"><img
               src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts-logo.png"
               alt="Handyman Services by Rashedmts" /></a><a
@@ -1649,7 +1650,7 @@
           </div>
         </div>
         <div class="footer-bottom-row second">
-          <div><a href="index.html" aria-current="page" class="w--current"><span class="Rashedmts">Rashedmts</span></a>
+          <div><a href="index.php" aria-current="page" class="w--current"><span class="Rashedmts">Rashedmts</span></a>
             ©
             2024 All Rights Reserved</div>
           

@@ -37,9 +37,9 @@
     type="text/javascript">!function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);</script>
   <link href="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64f0f236541d8ebe682cfbc3_ copy.svg"
     rel="shortcut icon" type="image/x-icon" />
-  <link href="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/65fdf184c51d68e1f8c6c7b7_Artboard.png"
+  <link href="#"
     rel="apple-touch-icon" />
-  <link href="index.html" rel="canonical" />
+  <link href="index.php" rel="canonical" />
   <style>
     body {
       -moz-osx-font-smoothing: grayscale;
