@@ -24,10 +24,10 @@
       <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="navbar-justify-between"><a href="#" class="brand right-justify w-nav-brand">
-            <!-- <div class="code-embed-4 w-embed w-script">
+            <div class="code-embed-4 w-embed w-script">
               <script src="../static.elfsight.com/platform/platform.js" async></script>
               <div class="elfsight-app-7409957d-f9b7-45d1-8cd9-9b6c2e8c8b83" data-elfsight-app-lazy></div>
-            </div> -->
+            </div>
           </a>
           <div class="navbar-right-contents">
             <nav role="navigation" class="nav-menu nav-menu-right-aligned w-nav-menu"><a href="index.php"
