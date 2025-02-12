@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-domain="https://rashedmts.ae/index.html" data-wf-page="65fd82d8b2eb03f687d0e205"
+<html data-wf-domain="https://rashedmts.ae/index.php" data-wf-page="65fd82d8b2eb03f687d0e205"
   data-wf-site="64c93da6f9f661cffa20dfee" lang="en">
 
 
