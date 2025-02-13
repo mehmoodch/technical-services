@@ -10,335 +10,9 @@
       class="button w-inline-block">
       <div> Book Now</div>
     </a></div>
-  <div class="navbar-container sticky-top bg-white">
-    <div class="main-container right"><a data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3c" href="tel:+971505936597"
-        class="grid-button w-inline-block">
-        <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3d-5da6ec3b" data-is-ix2-target="1" class="lottie-icon"
-          data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3d" data-animation-type="lottie"
-          data-src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64d67a4520567bb2db7aeeab_lottieflow-chat-17-6-f95603-easey.json"
-          data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg"
-          data-default-duration="1.4666666666666666" data-duration="0" data-ix2-initial-state="0"></div>
-        <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3e-5da6ec3b" class="phone-number-text">+971-505936597</div>
-      </a></div>
-    <div class="main-container">
-      <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
-        role="banner" class="navbar w-nav">
-        <div class="navbar-justify-between"><a href="#" class="brand right-justify w-nav-brand">
-            <div class="code-embed-4 w-embed w-script">
-              <!-- <script src="../static.elfsight.com/platform/platform.js" async></script> -->
-              <div class="elfsight-app-7409957d-f9b7-45d1-8cd9-9b6c2e8c8b83" data-elfsight-app-lazy></div>
-            </div>
-          </a>
-          <div class="navbar-right-contents">
-            <nav role="navigation" class="nav-menu nav-menu-right-aligned w-nav-menu"><a href="index.php"
-                aria-current="page" class="nav-link w-nav-link w--current">Home</a>
-              <div data-hover="false" data-delay="0" class="dropdown w-dropdown">
-                <div class="nav-link w-dropdown-toggle">
-                  <div>Services</div><img
-                    src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e0e1_icon-dropdown-arrow.svg"
-                    alt="" class="dropdown-icon" />
-                </div>
-                <nav class="navigation-list-dropdown w-dropdown-list">
-                  <div class="navigation-dropdown-base">
-                    <div class="service-wrapper mob-only w-dyn-list">
-                      <div role="list" class="navigation-link-wrapper mob-only w-dyn-items">
-                        <div role="listitem" class="w-dyn-item"><a href="service-categories/handyman-services.html"
-                            class="navigation-link-l w-inline-block">
-                            <div class="paragraph-regular">Handyman Services</div>
-                            <div class="icon-small w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16"
-                                height="16" viewBox="0 0 16 16" fill="none">
-                                <path
-                                  d="M3.47257 8.66667H10.9192L7.66591 11.92C7.40591 12.18 7.40591 12.6067 7.66591 12.8667C7.92591 13.1267 8.34591 13.1267 8.60591 12.8667L12.9992 8.47334C13.2592 8.21334 13.2592 7.79334 12.9992 7.53334L8.61258 3.13334C8.35258 2.87334 7.93258 2.87334 7.67257 3.13334C7.41258 3.39334 7.41258 3.81334 7.67257 4.07334L10.9192 7.33334H3.47257C3.10591 7.33334 2.80591 7.63334 2.80591 8.00001C2.80591 8.36667 3.10591 8.66667 3.47257 8.66667Z"
-                                  fill="currentColor" />
-                              </svg></div>
-                          </a></div>
-                        <div role="listitem" class="w-dyn-item"><a href="service-categories/home-modification.html"
-                            class="navigation-link-l w-inline-block">
-                            <div class="paragraph-regular">Home Modification</div>
-                            <div class="icon-small w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16"
-                                height="16" viewBox="0 0 16 16" fill="none">
-                                <path
-                                  d="M3.47257 8.66667H10.9192L7.66591 11.92C7.40591 12.18 7.40591 12.6067 7.66591 12.8667C7.92591 13.1267 8.34591 13.1267 8.60591 12.8667L12.9992 8.47334C13.2592 8.21334 13.2592 7.79334 12.9992 7.53334L8.61258 3.13334C8.35258 2.87334 7.93258 2.87334 7.67257 3.13334C7.41258 3.39334 7.41258 3.81334 7.67257 4.07334L10.9192 7.33334H3.47257C3.10591 7.33334 2.80591 7.63334 2.80591 8.00001C2.80591 8.36667 3.10591 8.66667 3.47257 8.66667Z"
-                                  fill="currentColor" />
-                              </svg></div>
-                          </a></div>
-                        <div role="listitem" class="w-dyn-item"><a href="service-categories/commercial-services.html"
-                            class="navigation-link-l w-inline-block">
-                            <div class="paragraph-regular">Commercial Services</div>
-                            <div class="icon-small w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16"
-                                height="16" viewBox="0 0 16 16" fill="none">
-                                <path
-                                  d="M3.47257 8.66667H10.9192L7.66591 11.92C7.40591 12.18 7.40591 12.6067 7.66591 12.8667C7.92591 13.1267 8.34591 13.1267 8.60591 12.8667L12.9992 8.47334C13.2592 8.21334 13.2592 7.79334 12.9992 7.53334L8.61258 3.13334C8.35258 2.87334 7.93258 2.87334 7.67257 3.13334C7.41258 3.39334 7.41258 3.81334 7.67257 4.07334L10.9192 7.33334H3.47257C3.10591 7.33334 2.80591 7.63334 2.80591 8.00001C2.80591 8.36667 3.10591 8.66667 3.47257 8.66667Z"
-                                  fill="currentColor" />
-                              </svg></div>
-                          </a></div>
-                      </div>
-                    </div>
-                    <div class="header-wrapper desktop-only">
-                      <div class="subheading-large bold">Services</div>
-                    </div>
-                    <div data-current="Handyman Services" data-easing="ease" data-duration-in="300"
-                      data-duration-out="100" class="navigation-dropdown-grid desktop-only w-tabs">
-                      <div id="w-node-bb1b843b-4cd9-ccff-cad7-c08d0cb9f585-9d0a7cb6"
-                        class="navigation-link-wrapper w-tab-menu"><a data-w-tab="Handyman Services"
-                          class="navigation-link-l w-inline-block w-tab-link w--current">
-                          <div class="paragraph-regular">Handyman Services</div>
-                          <div class="icon-small w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                              viewBox="0 0 16 16" fill="none">
-                              <path
-                                d="M3.47257 8.66667H10.9192L7.66591 11.92C7.40591 12.18 7.40591 12.6067 7.66591 12.8667C7.92591 13.1267 8.34591 13.1267 8.60591 12.8667L12.9992 8.47334C13.2592 8.21334 13.2592 7.79334 12.9992 7.53334L8.61258 3.13334C8.35258 2.87334 7.93258 2.87334 7.67257 3.13334C7.41258 3.39334 7.41258 3.81334 7.67257 4.07334L10.9192 7.33334H3.47257C3.10591 7.33334 2.80591 7.63334 2.80591 8.00001C2.80591 8.36667 3.10591 8.66667 3.47257 8.66667Z"
-                                fill="currentColor" />
-                            </svg></div>
-                        </a><a data-w-tab="Home Modifications" class="navigation-link-l w-inline-block w-tab-link">
-                          <div class="paragraph-regular">Home Modifications</div>
-                          <div class="icon-small w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                              viewBox="0 0 16 16" fill="none">
-                              <path
-                                d="M3.47257 8.66667H10.9192L7.66591 11.92C7.40591 12.18 7.40591 12.6067 7.66591 12.8667C7.92591 13.1267 8.34591 13.1267 8.60591 12.8667L12.9992 8.47334C13.2592 8.21334 13.2592 7.79334 12.9992 7.53334L8.61258 3.13334C8.35258 2.87334 7.93258 2.87334 7.67257 3.13334C7.41258 3.39334 7.41258 3.81334 7.67257 4.07334L10.9192 7.33334H3.47257C3.10591 7.33334 2.80591 7.63334 2.80591 8.00001C2.80591 8.36667 3.10591 8.66667 3.47257 8.66667Z"
-                                fill="currentColor" />
-                            </svg></div>
-                        </a><a data-w-tab="Commercial Services" class="navigation-link-l w-inline-block w-tab-link">
-                          <div class="paragraph-regular">Commercial Services</div>
-                          <div class="icon-small w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                              viewBox="0 0 16 16" fill="none">
-                              <path
-                                d="M3.47257 8.66667H10.9192L7.66591 11.92C7.40591 12.18 7.40591 12.6067 7.66591 12.8667C7.92591 13.1267 8.34591 13.1267 8.60591 12.8667L12.9992 8.47334C13.2592 8.21334 13.2592 7.79334 12.9992 7.53334L8.61258 3.13334C8.35258 2.87334 7.93258 2.87334 7.67257 3.13334C7.41258 3.39334 7.41258 3.81334 7.67257 4.07334L10.9192 7.33334H3.47257C3.10591 7.33334 2.80591 7.63334 2.80591 8.00001C2.80591 8.36667 3.10591 8.66667 3.47257 8.66667Z"
-                                fill="currentColor" />
-                            </svg></div>
-                        </a></div>
-                      <div class="tabs-content w-tab-content">
-                        <div data-w-tab="Handyman Services" class="w-tab-pane w--tab-active">
-                          <div class="separator-div bottom menu">
-                            <div class="subheading-large bold no-margin">Handyman Services</div>
-                          </div>
-                          <div class="w-dyn-list">
-                            <div role="list" class="navigation-link-grid autofit w-dyn-items">
-                              <div role="listitem" class="w-dyn-item"><a href="services/handyman-services.html"
-                                  class="dropdown-link w-dropdown-link">Handyman Services</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/painting.html"
-                                  class="dropdown-link w-dropdown-link">Painting</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/drywall-repair.html"
-                                  class="dropdown-link w-dropdown-link">Drywall Repair</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/carpentry.html"
-                                  class="dropdown-link w-dropdown-link">Carpentry</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/plumbing-fixtures.html"
-                                  class="dropdown-link w-dropdown-link">Plumbing Fixtures</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/electrical-lighting.html"
-                                  class="dropdown-link w-dropdown-link">Electrical &amp; Lighting</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/furniture-assembly.html"
-                                  class="dropdown-link w-dropdown-link">Furniture Assembly</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/tv-mounting-installation.html"
-                                  class="dropdown-link w-dropdown-link">TV Mounting &amp; Installation</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/exterior-home-services.html"
-                                  class="dropdown-link w-dropdown-link">Exterior Home Services</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/other-handyman-services.html"
-                                  class="dropdown-link w-dropdown-link">Other Handyman Services</a></div>
-                            </div>
-                          </div>
-                          <div class="w-dyn-list">
-                            <div role="list" class="w-dyn-items">
-                              <div role="listitem" class="w-dyn-item">
-                                <div class="navigation-cta-wrapper">
-                                  <div>
-                                    <div class="subheading-large"><span><strong>Handyman Services - Residential &amp;
-                                          Commercial</strong></span></div>
-                                    <p class="paragraph-small">Your Trusted Home Repair &amp; Maintenance Specialist</p>
-                                  </div><a href="service-categories/handyman-services.html" class="button w-button">View
-                                    Handyman Services</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div data-w-tab="Home Modifications" class="w-tab-pane">
-                          <div class="separator-div bottom menu">
-                            <div class="subheading-large bold no-margin">Home Modifications</div>
-                          </div>
-                          <div class="w-dyn-list">
-                            <div role="list" class="navigation-link-grid autofit w-dyn-items">
-                              <div role="listitem" class="w-dyn-item"><a href="services/home-modification.html"
-                                  class="dropdown-link w-dropdown-link">Home Modification</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/grab-bars-accessories.html"
-                                  class="dropdown-link w-dropdown-link">Grab Bars &amp; Accessories</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/walk-in-showers.html"
-                                  class="dropdown-link w-dropdown-link">Walk-In Showers</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/transition-tub.html"
-                                  class="dropdown-link w-dropdown-link">Transition Tub</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/ceiling-lift-installation.html"
-                                  class="dropdown-link w-dropdown-link">Ceiling Lift Installation</a></div>
-                              <div role="listitem" class="w-dyn-item"><a
-                                  href="services/vertical-platform-lift-installation.html"
-                                  class="dropdown-link w-dropdown-link">Vertical Platform Lift Installation</a></div>
-                              <div role="listitem" class="w-dyn-item"><a
-                                  href="services/stair-lift-installation-services.html"
-                                  class="dropdown-link w-dropdown-link">Stair Lift Installation Services</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/mobility-ramps.html"
-                                  class="dropdown-link w-dropdown-link">Mobility Ramps</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/accessibility-lifts.html"
-                                  class="dropdown-link w-dropdown-link">Accessibility Lifts</a></div>
-                              <div role="listitem" class="w-dyn-item"><a
-                                  href="services/bathroom-accessibility-remodeling.html"
-                                  class="dropdown-link w-dropdown-link">Bathroom Accessibility Remodeling</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/other-home-modifications.html"
-                                  class="dropdown-link w-dropdown-link">Other Home Modifications</a></div>
-                            </div>
-                          </div>
-                          <div class="w-dyn-list">
-                            <div role="list" class="w-dyn-items">
-                              <div role="listitem" class="w-dyn-item">
-                                <div class="navigation-cta-wrapper">
-                                  <div>
-                                    <div class="subheading-large"><span><strong>Home Modifications
-                                          Services</strong></span></div>
-                                    <p class="paragraph-small">ADA-Compliant Accessibility Solutions Fit to Your Needs
-                                    </p>
-                                  </div><a href="service-categories/home-modification.html" class="button w-button">View
-                                    <span><strong>Home Modifications</strong></span> Services</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div data-w-tab="Commercial Services" class="w-tab-pane">
-                          <div class="separator-div bottom menu">
-                            <div class="subheading-large bold no-margin">Commercial Services</div>
-                          </div>
-                          <div class="w-dyn-list">
-                            <div role="list" class="w-dyn-items">
-                              <div role="listitem" class="w-dyn-item">
-                                <div class="navigation-cta-wrapper">
-                                  <div>
-                                    <div class="subheading-large"><span><strong>Your Trusted Commercial Services
-                                          Provider</strong></span></div>
-                                    <p class="paragraph-small">A Partner in Keeping Your Business Running</p>
-                                  </div><a href="service-categories/commercial-services.html"
-                                    class="button w-button">View <span>Commercial</span> Services</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </nav>
-              </div>
-              <div data-delay="200" data-hover="false" class="dropdown w-dropdown">
-                <div class="nav-link w-dropdown-toggle">
-                  <div>About</div><img
-                    src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e0e1_icon-dropdown-arrow.svg"
-                    alt="" class="dropdown-icon" />
-                </div>
-                <nav class="dropdown-list w-dropdown-list">
-                  <div class="w-layout-grid dropdown-grid"><a href="our-story.html"
-                      class="dropdown-link w-dropdown-link">Our Story</a><a href="our-story/become-a-craftsman.html"
-                      class="dropdown-link w-dropdown-link">Become a Craftsman</a><a
-                      href="our-story/franchise-opportunities.html" class="dropdown-link w-dropdown-link">Franchise
-                      Opportunities</a><a href="our-story/reviews.html"
-                      class="dropdown-link w-dropdown-link">Reviews</a><a href="our-story/faqs.html"
-                      class="dropdown-link w-dropdown-link">FAQ&#x27;s</a><a href="our-story/project-gallery.html"
-                      class="dropdown-link w-dropdown-link">Project Gallery</a><a href="our-story/in-the-news.html"
-                      class="dropdown-link hide w-dropdown-link">Meet The Team</a><a href="our-story/in-the-news.html"
-                      class="dropdown-link w-dropdown-link">In The News</a><a href="our-story/video-center.html"
-                      class="dropdown-link w-dropdown-link">Video Center</a><a href="our-story/blog.html"
-                      class="dropdown-link w-dropdown-link">Blog</a><a href="our-story/special-offers.html"
-                      class="dropdown-link w-dropdown-link">Special Offers</a><a href="our-story/truztpro-app.html"
-                      class="dropdown-link w-dropdown-link">TruztPro App</a></div>
-                </nav>
-              </div>
-              <div data-hover="true" data-delay="0" data-w-id="bb1b843b-4cd9-ccff-cad7-c08d0cb9f605"
-                class="dropdown hide w-dropdown">
-                <div class="nav-link w-dropdown-toggle">
-                  <div>About</div>
-                  <div class="icon-dropdown w-icon-dropdown-toggle"></div>
-                </div>
-                <nav class="m-navigation-list dropdown-list no-margin w-dropdown-list">
-                  <div class="navigation-base-wrapper grid">
-                    <div class="navigation-block-2 no-padding-on-mob">
-                      <div class="navigation-title-block">
-                        <div class="subheading-large bold">About</div>
-                      </div>
-                      <div class="w-layout-grid navigation-grid-s full-height"><a href="#"
-                          class="navigation-video-block w-inline-block">
-                          <div id="w-node-bb1b843b-4cd9-ccff-cad7-c08d0cb9f612-9d0a7cb6" class="navigation-video-card">
-                            <img
-                              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard Copy 2 (1).webp"
-                              loading="lazy" sizes="100vw"
-                              srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-500.webp 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-800.webp 800w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-1080.webp 1080w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-1600.webp 1600w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%20Copy%202%20(1).webp 2000w"
-                              alt="Pioneer E-Boost Blog" class="navigation-card-image" />
-                            <div class="b-navigation-card-title-wrapper">
-                              <div class="h5-heading">In The News</div>
-                            </div>
-                          </div>
-                        </a><a href="#" class="navigation-video-block w-inline-block">
-                          <div id="w-node-bb1b843b-4cd9-ccff-cad7-c08d0cb9f618-9d0a7cb6" class="navigation-video-card">
-                            <img
-                              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard (4).webp"
-                              loading="lazy" sizes="100vw"
-                              srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard%2520(4)-p-500.webp 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard%2520(4)-p-800.webp 800w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard%2520(4)-p-1080.webp 1080w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard%2520(4)-p-1600.webp 1600w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard%20(4).webp 2000w"
-                              alt="Pioneer E-Boost Events" class="navigation-card-image" />
-                            <div class="b-navigation-card-title-wrapper">
-                              <div class="h5-heading">Project Gallery</div>
-                            </div>
-                          </div>
-                        </a></div>
-                    </div>
-                    <div class="navigation-side-block">
-                      <div class="navigation-side-wrapper">
-                        <div class="navigation-side-block-link">
-                          <div>MORE</div>
-                        </div>
-                        <div class="w-layout-grid dropdown-grid">
-                          <div class="dropdown-grid-column"><a href="our-story.html"
-                              class="dropdown-link w-dropdown-link">Our Story</a><a
-                              href="our-story/become-a-craftsman.html" class="dropdown-link w-dropdown-link">Become a
-                              Craftsman</a><a href="our-story/franchise-opportunities.html"
-                              class="dropdown-link w-dropdown-link">Franchise Opportunities</a><a
-                              href="our-story/reviews.html" class="dropdown-link w-dropdown-link">Reviews</a><a
-                              href="our-story/faqs.html" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a><a
-                              href="our-story/project-gallery.html" class="dropdown-link w-dropdown-link">Project
-                              Gallery</a></div>
-                          <div class="dropdown-grid-column"><a href="#" class="dropdown-link w-dropdown-link">In The
-                              News</a><a href="our-story/video-center.html" class="dropdown-link w-dropdown-link">Video
-                              Center</a><a href="#" class="dropdown-link w-dropdown-link">Blog</a><a href="#"
-                              class="dropdown-link w-dropdown-link">Special Offers</a><a
-                              href="our-story/truztpro-app.html" class="dropdown-link w-dropdown-link">TruztPro App</a>
-                          </div>
-                        </div>
-                      </div><a href="contact-us.html" class="navigation-help-center w-inline-block">
-                        <div class="icon-small w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path
-                              d="M7.99992 1.33337C4.31992 1.33337 1.33325 4.32004 1.33325 8.00004C1.33325 11.68 4.31992 14.6667 7.99992 14.6667C11.6799 14.6667 14.6666 11.68 14.6666 8.00004C14.6666 4.32004 11.6799 1.33337 7.99992 1.33337ZM8.66659 12.6667H7.33325V11.3334H8.66659V12.6667ZM10.0466 7.50004L9.44659 8.11337C9.11325 8.45337 8.87325 8.76004 8.75325 9.24004C8.69992 9.45337 8.66659 9.69337 8.66659 10H7.33325V9.66671C7.33325 9.36004 7.38659 9.06671 7.47992 8.79337C7.61325 8.40671 7.83325 8.06004 8.11325 7.78004L8.93992 6.94004C9.24659 6.64671 9.39325 6.20671 9.30659 5.74004C9.21992 5.26004 8.84659 4.85337 8.37992 4.72004C7.63992 4.51337 6.95325 4.93337 6.73325 5.56671C6.65325 5.81337 6.44659 6.00004 6.18659 6.00004H5.98659C5.59992 6.00004 5.33325 5.62671 5.43992 5.25337C5.72659 4.27337 6.55992 3.52671 7.59325 3.36671C8.60659 3.20671 9.57325 3.73337 10.1733 4.56671C10.9599 5.65337 10.7266 6.82004 10.0466 7.50004Z"
-                              fill="currentColor" />
-                          </svg></div>
-                        <div>Need Help?</div>
-                      </a>
-                    </div>
-                  </div>
-                </nav>
-              </div><a href="locations.html" class="nav-link w-nav-link">Locations</a><a href="financing.html"
-                class="nav-link w-nav-link">Financing</a><a href="contact-us.html" class="nav-link w-nav-link">Contact
-                Us</a>
-              <div class="navbar-functions"><a href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557"
-                  target="_blank" class="button nav w-inline-block">
-                  <div>Book Now</div>
-                </a><a href="#" class="search-link w-inline-block"><img
-                    src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e129_icon-search.svg"
-                    alt="" class="search-link-icon" />
-                  <div>Search</div>
-                </a></div>
-            </nav>
-            <div class="menu-button w-nav-button"><img
-                src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e0d9_icon-menu.svg"
-                alt="" class="menu-button-image" /><img
-                src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e0e0_icon-x.svg"
-                alt="" class="menu-button-close-image" /></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  <?php
+  include 'nav.php';
+  ?>
   <div class="search-modal"><img alt=""
       src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg"
       class="search-modal-cross" />
@@ -354,16 +28,16 @@
       
       <div class="hero-section-3-container">
         <div class="container hero-section-3-content center">
-          <h1 class="h1-thin">Handyman For Residential &amp; Commercial</h1>
+          <h1 class="h1-thin">Technical Service Provider For Residential &amp; Commercial</h1>
           <p class="display-heading-1"><span class="thin">Giving you more time</span> to make memories</p>
-          <p class="text-large">Your trusted partner for handyman and home modification services for over 25
-            years<br /><br />Specializing in home modification services &amp; ADA-Compliant accessibility solutions to
-            fit your individual needs</p><a href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557"
+          <p class="text-large">Your trusted partner for handyman and home modification services for over 05
+            years<br /><br />Specializing in home modification services &amp; DDA-Compliant accessibility solutions to
+            fit your individual needs</p><a href="#"
             target="_blank" class="button w-inline-block">
             <div> Book Now</div>
           </a>
         </div><a href="#Guarantee" class="badge hero w-inline-block"><img
-            src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/678e84dd291be28e4622bedf_555524.png"
+            src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/GURANTEE.svg"
             loading="lazy" alt="1 year guarantee rashedmts" class="guarantee-badge" /></a>
         <div class="bg-overlay"></div><img
           src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c95ea7a08ca890cde6001e_mainstage-img.2109231317026.webp"
@@ -374,47 +48,34 @@
     </div>
     <div class="section reduced-padding less-padding bg-gray-3">
       <div class="main-container">
-        <div class="logo-row"><img
-            src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/650b474a8dc4b407c6ebf6f4_Great place to work HandyPro 2021.webp"
-            alt="" class="logo-row-item" /><img
-            src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/650b474213470ab523bb7fd3_Home Maintenance franchise Winner.webp"
-            alt="" class="logo-row-item" /><img
-            src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6580c05e037c60ef6d332e78_LocalEventLogo_TAfE_2022Finalist-TwoTone-3693x3096-23c5326.png"
-            sizes="(max-width: 991px) 100px, 119.28125px"
-            srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6580c05e037c60ef6d332e78_LocalEventLogo_TAfE_2022Finalist-TwoTone-3693x3096-23c5326-p-500.png 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6580c05e037c60ef6d332e78_LocalEventLogo_TAfE_2022Finalist-TwoTone-3693x3096-23c5326-p-800.png 800w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6580c05e037c60ef6d332e78_LocalEventLogo_TAfE_2022Finalist-TwoTone-3693x3096-23c5326-p-1080.png 1080w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6580c05e037c60ef6d332e78_LocalEventLogo_TAfE_2022Finalist-TwoTone-3693x3096-23c5326-p-1600.png 1600w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6580c05e037c60ef6d332e78_LocalEventLogo_TAfE_2022Finalist-TwoTone-3693x3096-23c5326.png 3693w"
-            alt="" class="logo-row-item" /><img
-            src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dfbdc83e972341f1a63aa8_image003.webp"
-            alt="" class="logo-row-item" /><img
-            src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/651477546bea48b1e8807088_Goldman-Sachs-Small-Business-Alumni-768x362-1 (1).webp"
-            alt="" class="logo-row-item" />
-          <div class="w-embed"><a
-              href="#"
-              target="_blank" rel="nofollow"><img
-                src="../seal-easternmichigan.bbb.org/seals/blue-seal-200-42-bbb-32020168.html" style="border: 0;"
-                alt="rashedmts Handyman Service, Inc. BBB Business Review" /></a></div><img
-            src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/651436ef3c9de72ca291eadb_HandyPro Franchise Award 500.webp"
-            alt="" class="logo-row-item" />
+        <div class="logo-row">
+            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/hitachi.png" alt="" class="logo-row-item" />
+            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/Aiko.png" alt="" class="logo-row-item" />
+            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/sls_production.png" class="logo-row-item" /> 
+            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/alshafar.png" alt="" class="logo-row-item" />
+            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/al_homazi.png" alt="" class="logo-row-item" />
+            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/IMA.png" alt="" class="logo-row-item" />
+          
         </div>
       </div>
     </div>
     <div class="section">
       <div class="main-container center">
-        <h2 class="display-heading-2 bottom-margin">Handyman Services</h2>
+        <h2 class="display-heading-2 bottom-margin">Maintenance & Cleaning Services</h2>
         <div class="w-dyn-list">
           <div role="list" class="_3-col-grid _1-on-mob w-dyn-items">
             <div role="listitem" class="w-dyn-item"><a href="service-categories/handyman-services.html"
                 class="portrait-link-box w-inline-block"><img alt="Handyman Services"
-                  src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c93ff69733bbc33f3bdff1_cta-v1-cta-1-bg.2106141306522.jpg"
+                  src="../cdn.prod.website-files.com/srvsimgs/service_furniture_assembly.jpg"
                   class="main-image no-max" />
                 <div class="cards portrait-link-box-content">
                   <div class="avatar avatar-small quote-box-avatar wrapper"><img width="40" height="40"
                       alt="Handyman Services"
                       src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c941fdc3fb0bc370850182_IconoirHammer Copy.svg"
                       class="icon" /></div>
-                  <h3 class="portrait-link-box-heading">Handyman Services</h3>
-                  <p class="f-paragraph-small black">A handyman or handywoman for every need, from fixing doors and
-                    locks to major remodeling jobs. We provide quality solutions that you can trust for a wide variety
-                    of daily tasks, chores, and projects. No home repair job is too big or too small.</p>
+                  <h3 class="portrait-link-box-heading">Swimming Pools Maintenance</h3>
+                  <p class="f-paragraph-small black">Our swimming pool maintenance services include regular cleaning, and 
+                    equipment inspections to keep your pool in top condition.</p>
                   <div>Learn More</div>
                 </div>
               </a></div>
@@ -429,27 +90,25 @@
                       alt="Home Modification"
                       src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c942265b660971acbe5ad0_PhWheelchair Copy.svg"
                       class="icon" /></div>
-                  <h3 class="portrait-link-box-heading">Home Modification</h3>
-                  <p class="f-paragraph-small black">Home modifications for the elderly and disabled people, our home
-                    modification services are ADA-compliant accessibility solutions to fit your individual needs. we
-                    take time to understand the challenges that you are facing and adapt your environment to fit your
-                    needs.</p>
+                  <h3 class="portrait-link-box-heading">Electrical Fitting & Fixtures </h3>
+                  <p class="f-paragraph-small black">We offer electrical fitting and fixture services, including the installation of lights, sockets, switches, and 
+                    other electrical components. 
+                     </p>
                   <div>Learn More</div>
                 </div>
               </a></div>
             <div role="listitem" class="w-dyn-item"><a href="service-categories/commercial-services.html"
                 class="portrait-link-box w-inline-block"><img alt="Commercial Services"
-                  src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9426a39c8467350980c01_cta-v1-cta-3-bg.2107111340315.jpg"
+                  src="../cdn.prod.website-files.com/srvsimgs/service_vacation_rental_cleaning.jpg"
                   class="main-image no-max" />
                 <div class="cards portrait-link-box-content">
                   <div class="avatar avatar-small quote-box-avatar wrapper"><img width="40" height="40"
                       alt="Commercial Services"
                       src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c94263c4aa5fbe2fb955dc_PhBuildings Copy.svg"
                       class="icon" /></div>
-                  <h3 class="portrait-link-box-heading">Commercial Services</h3>
-                  <p class="f-paragraph-small black">We provide affordable full-service repairs and improvements for
-                    building owners and managers. We respond to all commercial jobs in a timely manner, so that we can
-                    keep your business up and running smoothly through commercial property maintenance.</p>
+                  <h3 class="portrait-link-box-heading">Building & Tanks Cleaning</h3>
+                  <p class="f-paragraph-small black">Our building cleaning services ensure that your residential or commercial property remains spotless and 
+                    well-maintained. </p>
                   <div>Learn More</div>
                 </div>
               </a></div>
@@ -469,44 +128,70 @@
     </section>
     <div class="section">
       <div class="main-container center">
-        <h2 class="display-heading-2 bottom-margin"><strong>Home Repairs and Home Assembly Services</strong></h2>
-        <div class="w-layout-grid _3-col-grid _1-on-mob"><a href="services/drywall-repair.html"
-            class="cards portrait-link-box-content v-flex w-inline-block"><img alt=""
-              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/664791e3db82247d8bf50b8f_drywall-repairs-425x250.webp"
-              class="main-image" />
+        <h2 class="display-heading-2 bottom-margin"><strong>HVAC & Home Assembly Services</strong></h2>
+        <div class="w-layout-grid _3-col-grid _1-on-mob">
+            <a href="services/drywall-repair.html" class="cards portrait-link-box-content v-flex w-inline-block">
+              <img alt="" src="../cdn.prod.website-files.com/srvsimgs/service_painting.jpg" class="main-image" />
+            <h3 class="portrait-link-box-heading"><strong>AC, Ventilation & Air Filtration Systems Installation and Maintenance</strong></h3>
+            <p class="f-paragraph-small black">We provide expert installation and maintenance services for air conditioning, ventilation, and air filtration systems. 
+              Our technicians ensure efficient cooling and air quality control by designing and installing energy-efficient systems for residential, commercial, 
+              and industrial properties.
+              Regular maintenance ensures optimal performance, reducing energy costs and extending the lifespan of your system.</p>
+            <div>Learn More</div>
+          </a>
+          <a href="services/furniture-assembly.html"   class="cards portrait-link-box-content v-flex w-inline-block">
+            <img alt=""  src="../cdn.prod.website-files.com/srvsimgs/service_moving_help.jpg" class="main-image" />
+            <h3 class="portrait-link-box-heading"><strong>Plumbing and Sanitary Contracting</strong></h3>
+            <p class="f-paragraph-small black">We offer a full range of plumbing and sanitary contracting services, including installation, repairs, and maintenance. 
+              From fixing leaks to installing water supply and drainage systems, we ensure that your plumbing works smoothly and efficiently. 
+              Our experienced plumbers use the best materials to guarantee long-lasting solutions for both residential and commercial properties.</p>
+            <div>Learn More</div> </a>
+            <a href="services/tv-mounting-installation.html"
+            class="cards portrait-link-box-content v-flex w-inline-block">
+            <img alt=""  src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/66479297ba63e78d75037e7e_tv-mounting-service-425x250.webp"  class="main-image" />
+            <h3 class="portrait-link-box-heading"><strong>Solar Panel Installation and Maintenance</strong></h3>
+            <p class="f-paragraph-small black">We offer solar panel installation and maintenance services, helping you harness the power of the sun to reduce energy costs
+               and minimize your carbon footprint.
+               Our team designs and installs efficient solar energy systems tailored to your property’s needs, ensuring long-term performance and sustainability.</p>
+            <div>Learn More</div>
+          </a>
+        </div>
+        <div class="w-layout-grid _3-col-grid _1-on-mob">
+            <a href="services/drywall-repair.html" class="cards portrait-link-box-content v-flex w-inline-block">
+              <img alt="" src="../cdn.prod.website-files.com/srvsimgs/service_painting.jpg" class="main-image" />
             <h3 class="portrait-link-box-heading"><strong>Drywall Repair Handyman</strong></h3>
             <p class="f-paragraph-small black">Drywall repair services for your home and can handle cracks, holes,
               dents, and more. Whether you have a major hole that needs to be covered up or simply want to repair
               various scrapes and dents from years of wear and tear, our drywall repair experts are ready to get to
               work.</p>
             <div>Learn More</div>
-          </a><a href="services/furniture-assembly.html"
-            class="cards portrait-link-box-content v-flex w-inline-block"><img alt=""
-              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6647928520674a41d83ade0a_furniture-assembly-services-425x250.webp"
-              class="main-image" />
+          </a>
+          <a href="services/furniture-assembly.html"   class="cards portrait-link-box-content v-flex w-inline-block">
+            <img alt=""  src="../cdn.prod.website-files.com/srvsimgs/service_moving_help.jpg" class="main-image" />
             <h3 class="portrait-link-box-heading"><strong>Home Assembly Services</strong></h3>
             <p class="f-paragraph-small black">We are a professional handyman service that can assist you with your
               furniture assembly. Stop trying to follow confusing instructions and sit back and relax while our
               Certified Craftsmen put it together for you.<br />From Ikea units to Gazebos we do it all!</p>
-            <div>Learn More</div>
-          </a><a href="services/tv-mounting-installation.html"
-            class="cards portrait-link-box-content v-flex w-inline-block"><img alt=""
-              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/66479297ba63e78d75037e7e_tv-mounting-service-425x250.webp"
-              class="main-image" />
+            <div>Learn More</div> </a>
+            <a href="services/tv-mounting-installation.html"
+            class="cards portrait-link-box-content v-flex w-inline-block">
+            <img alt=""  src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/66479297ba63e78d75037e7e_tv-mounting-service-425x250.webp"  class="main-image" />
             <h3 class="portrait-link-box-heading"><strong>TV Mounting Services</strong></h3>
             <p class="f-paragraph-small black">Though it may seem relatively simple, it’s important that your TV is
               mounted professionally. Not doing so could damage your wall or your TV – or possibly both. The last thing
               you want is your movie night to be interrupted by a falling television.</p>
             <div>Learn More</div>
-          </a></div>
+          </a>
+        </div>
       </div>
     </div>
+    
     <div class="section increased-padding bg-primary-2">
       <div class="main-container">
         <div class="w-layout-grid grid-halves common-services">
           <div class="container align-center">
             <div class="home-modification-handyman-services no-margin"><span
-                class="text-span white">Handy</span>Pro<sup>®</sup></div>
+                class="text-span white">Rashed</span>MTS<sup>®</sup></div>
             <h2 class="display-heading-2 white">Get started with one of our most requested services</h2>
             <div class="text-large hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
@@ -578,28 +263,19 @@
       <div class="main-container">
         <div class="w-layout-grid grid-halves">
           <div class="container-large align-center">
-            <h2 class="display-heading-2"><span class="text-span-2">Every Home Needs a <strong>rashedmts®
-                  Handyman</strong></span></h2>
+            <h2 class="display-heading-2"><span class="text-span-2">Every Home Needs a <strong>rashed Mazumdar Technical Services
+                  </strong></span></h2>
             <div class="service-rich-text w-richtext">
               <h4>Home Modification and Handyman Services</h4>
-              <p>As a client, you receive a rashedmts® membership account for FREE. It&#x27;s simple and
-                easy.<br /><br />You can view it on your TruztPro app or visit your online account. You receive all the
-                benefits below!<br /></p>
+              <p>Our company operates in the Technical Services industry and focuses on delivering sustainable and innovative solutions across a wide array in Installation, fit-out projects, operation and maintenance of utility plants.
+                Our approach of providing functional and cost-efficient systems which are adaptable to our customer needs. 
+                Today we provide maintenance services for various clients in the public and private sectors and handle property and facility management for a world-class building infrastructure in the United Arab Emirates.</p>
               <p><strong>Our clients tell us “It’s like my own handyman staff on call!”</strong></p>
               <ul role="list">
-                <li><a href="our-story/truztpro-app.html" target="_blank"><strong>Download the app or click on Book Now
-                      above</strong></a></li>
-                <li>Login by entering your email and a password</li>
-                <li>Explore the benefits of your rashedmts® account</li>
-                <li>Schedule your appointments</li>
-                <li>Select your Craftsman</li>
-                <li>Collect your Loyalty Cash and apply it to projects</li>
-                <li>View your estimates</li>
-                <li>View your before and after photos</li>
-                <li>View all appointments</li>
-                <li>View your project details and project history</li>
-                <li>And more, <a href="our-story/truztpro-app.html" target="_blank"><strong>check it out
-                      now!</strong></a></li>
+                <li><a href="#" target="_blank"><strong>OUR VISION </strong></a>
+                To be the leading provider of reliable and cost-effective solutions for utility maintenance and facility management services.</li>
+                <li><a href="#" target="_blank"><strong>OUR MISSION </strong></a>
+                To adapt to the rapidly evolving facility management industry by offering a wide range of personalized services under one roof.</li>
               </ul>
             </div>
           </div>
@@ -612,10 +288,8 @@
           </div>
           <div id="w-node-f81aa251-3309-5ee4-d52a-9fdf7a5054a6-87d0e205" class="separator-div">
             <div class="service-rich-text w-richtext">
-              <p>Whether helping you with an improvement project you’ve been putting off or modifying your property to
-                make it easier to navigate a wheelchair, we will help you enjoy more of life’s moments.We don’t just fix
-                problems; we provide reliable, lasting solutions for everyday lives. With online booking and our
-                convenient mobile app, home repairs are always just a click away.</p>
+              <p>At <b>Rashed Mazumdar Technical Services LLC </b>, with over 05 years of expertise in technical services across the UAE, our dedicated team of professionals delivers comprehensive 24/7 maintenance 
+                and repair solutions for both residential and commercial clients.</p>
             </div>
           </div>
         </div>
@@ -678,13 +352,11 @@
           </div>
           <div id="w-node-b3d1073b-2c9d-6485-d5b4-a89b6fe4a15e-87d0e205" class="separator-div">
             <div class="service-rich-text w-richtext">
-              <p>We have a responsibility to deliver the level of craftsmanship we would want to be provided to us, our
-                families, and our homes. Rashedmts also offers convenient scheduling via our website and TruztPro mobile
-                app to make our services even more seamless.</p>
-              <p>We provide handyman services to homes and businesses throughout The UAE. No handyman job is too big or
-                too small for our handyman pro tradesmen and women. From simple door locks and our furniture assembly
-                service, to interior and exterior painting. Plus fully ADA compliant home modifications such as grab bar
-                installation, right up to wheelchair ramps for homes.</p>
+              <p>We are committed to delivering the same level of craftsmanship that we would expect for ourselves, our families, and our homes. 
+                RashedMTS also provides convenient scheduling through our website or direct calls, ensuring a seamless service experience.</p>
+              <p>We offer professional handyman services for homes and businesses across the UAE, handling jobs of all sizes with expertise. 
+                Whether it's installing door locks, assembling furniture, or painting interiors and exteriors, our skilled tradespeople are ready to assist. 
+                We also provide fully DDA-compliant home modifications, including grab bar installations and wheelchair ramps, ensuring accessibility for all.</p>
             </div>
           </div>
         </div>
@@ -697,34 +369,33 @@
             <div class="boxed pricing-plan shadow-large">
               <div>
                 <div class="home-modification-handyman-services no-margin"><span
-                    class="text-span">Handy</span>Pro<sup>®</sup> <span class="text-span"></span></div>
+                    class="text-span">Rashed</span>MTS<sup>®</sup> <span class="text-span"></span></div>
                 <div class="display-heading-2 pricing-number">Guarantee</div>
                 <div class="list-grid-vertical">
                   <div id="w-node-_2beda295-cfce-ef72-6bc6-ec9fb57b3653-b57b363b" class="list-grid-item-copy">
                     <div class="check-circle"><img
                         src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e10a_icon-check-small.svg"
                         alt="" /></div>
-                    <div class="text-small"><strong>Permits:<br />‍</strong>We handle all necessary permits and
-                      compliance requirements.</div>
+                    <div class="text-small"><strong>Permits:<br />‍</strong>We take care of all necessary permits and compliance requirements, 
+                    ensuring a hassle-free process for you.</div>
                   </div>
                   <div id="w-node-_2beda295-cfce-ef72-6bc6-ec9fb57b364b-b57b363b" class="list-grid-item">
                     <div class="check-circle"><img
                         src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e10a_icon-check-small.svg"
                         alt="" /></div>
-                    <div class="text-small"><strong>Planning and Project Management:</strong><br />From initial
-                      assessment to completion, we design competitively priced customized solutions.</div>
+                    <div class="text-small"><strong>Planning and Project Management:</strong><br />From the initial assessment to project completion, 
+                    we design customized solutions at competitive prices.</div>
                   </div>
                   <div id="w-node-_81397e17-7c9e-0eaf-b309-c9bea5c5ec3e-b57b363b" class="list-grid-item">
                     <div class="check-circle"><img
                         src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e10a_icon-check-small.svg"
                         alt="" /></div>
-                    <div class="text-small"><strong>One Hour Guarantee</strong><br />No more waiting around all day for
-                      a technician to come to your home, we guarantee that we will show up or call you within your one
-                      hour scheduled appointment time or you&#x27;ll get $30.00 off your repairs.</div>
+                    <div class="text-small"><strong>One Hour Guarantee</strong><br />No more waiting all day for a technician—our team guarantees to arrive or contact you within 
+                    your one-hour appointment window.</div>
                   </div>
                 </div>
               </div>
-              <div class="pricing-plan-action"><a href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557"
+              <div class="pricing-plan-action"><a href="#"
                   class="button w-inline-block">
                   <div>Get Started</div>
                 </a></div>
@@ -747,20 +418,16 @@
         <div class="container align-center boxed no-hover">
           <div class="home-modification-handyman-services regular">Purpose Statement</div>
           <h2 class="display-heading-2"><span class="thin">This is our</span> why<span class="thin">.</span></h2>
-          <p class="text-large">At Rashedmts, our purpose is to make a meaningful difference in the lives of homeowners
-            by transforming their houses into personalized havens of comfort, safety, and joy.<br />‍<br />With
-            unwavering dedication, exceptional craftsmanship, and innovative solutions, we strive to create spaces that
-            inspire and empower individuals to fully embrace and enjoy their homes.<br />‍<br />Together, we are
-            building a community where dreams come to life, one home at a time.</p>
+          <p class="text-large">At RashedMTS, our mission is to positively impact homeowners by transforming their houses into customized sanctuaries of comfort, 
+            safety, and happiness.<br />‍<br />  With unwavering commitment, superior craftsmanship, and innovative solutions, 
+            we strive to create spaces that inspire and empower individuals to fully embrace and enjoy their homes.<br />‍<br />  
+            Together, we are fostering a community where dreams become reality, one home at a time.</p>
         </div>
-        <div id="w-node-_75237250-d57e-dbcd-6f97-6cb577fdd71b-87d0e205"
-          class="container-large align-center no-padding-on-mob">
+        <div id="w-node-_75237250-d57e-dbcd-6f97-6cb577fdd71b-87d0e205" class="container-large align-center no-padding-on-mob">
           <div class="video-wrapper rounded shadow-large">
             <div style="padding-top:56.17021276595745%" class="w-embed-youtubevideo"><iframe
                 src="https://www.youtube.com/embed/Y1NQn9vQV4U?rel=0&amp;controls=1&amp;autoplay=1&amp;mute=1&amp;start=0"
-                frameBorder="0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto"
-                allow="autoplay; encrypted-media" allowfullscreen=""
-                title="Professional Handyman Services - Affordable Home Improvement"></iframe></div>
+                frameBorder="0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" allow="autoplay; encrypted-media" allowfullscreen="" title="Professional Handyman Services - Affordable Home Improvement"></iframe></div>
           </div>
         </div>
       </div>
@@ -791,8 +458,7 @@
               </div>
               <div class="accordion-item-content-wrapper">
                 <div class="accordion-item-content">
-                  <div>Established Trust in our customized solutions with over 50,000 customers in our 25 years in
-                    business.</div>
+                  <div>Established Trust in our customized solutions with over 50,00 customers in our 05 years in business.</div>
                 </div>
               </div>
             </div>
@@ -837,8 +503,7 @@
               </div>
               <div class="accordion-item-content-wrapper">
                 <div class="accordion-item-content">
-                  <div>Our Certified Craftsmen and Craftswomen have experience in a variety of trades and the tools to
-                    help make life easier for you and your family</div>
+                  <div>Our Certified Craftsmen have experience in a variety of trades and the tools to help make life easier for you and your family</div>
                 </div>
               </div>
             </div>
@@ -860,8 +525,7 @@
               </div>
               <div class="accordion-item-content-wrapper">
                 <div class="accordion-item-content">
-                  <div>Convenient Scheduling online, our app, over the phone, or via chat—scheduling your service with
-                    us is easy.</div>
+                  <div>Convenient Scheduling online, over the phone, or via chat—scheduling your service with us is easy.</div>
                 </div>
               </div>
             </div>
@@ -884,8 +548,7 @@
               </div>
               <div class="accordion-item-content-wrapper">
                 <div class="accordion-item-content">
-                  <div>Rashedmts&#x27;s two Delightment Pledges are that your job is labor guaranteed and we show up on
-                    time or you receive $30 off you bill!</div>
+                  <div>Rashedmts&#x27;s two Delightment Pledges are that your job is labor guaranteed and we show up on time!</div>
                 </div>
               </div>
             </div>
@@ -898,126 +561,15 @@
             alt="Local Handyman Services Rashedmts" class="rounded-left shadow-large" /></div>
       </div>
     </div>
-    <div class="cta-section">
-      <div class="container-3">
-        <div class="cta-grid">
-          <div id="w-node-d5bfe834-face-8d43-2086-00512c9e9f44-2c9e9f41" class="phone-image-wrap"><img
-              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dd160c0a74f9d3110ab898_app-v1-img.2106111130164.webp"
-              loading="lazy" alt="" /></div>
-          <div id="w-node-d5bfe834-face-8d43-2086-00512c9e9f46-2c9e9f41" class="cta-content-wrap">
-            <div class="h2-heading small blue">The Smarter Way to Handle Your To-Do List</div>
-            <h2 class="home-modification-handyman-services">Download Our TruztPro App for Service Scheduling</h2>
-            <p>Rethink how you care for your home! Rashedmts makes home and business maintenance and repairs easy and
-              stress-free by offering convenient scheduling fit for busy lives. If you need a home repair, you can
-              quickly schedule your service and BOOK NOW on our website or via our TruztPro mobile app. With our team by
-              your side, your to-do list doesn’t stand a chance.</p>
-            <div class="button-wrapper center-on-mob"><a
-                href="https://play.google.com/store/apps/details?id=com.handypro&amp;hl=en_US&amp;gl=US" target="_blank"
-                class="app-store-button w-inline-block"><img
-                  src="https://cdn.prod.website-files.com/608a3a66f3a9813ff0c7a217/608a471441a455e853208559_Google_Play_Store_badge_EN.svg"
-                  loading="lazy" alt="" class="google-play-svg" /></a><a
-                href="https://apps.apple.com/us/app/truztpro/id1354294771" target="_blank"
-                class="app-store-button w-inline-block"><img
-                  src="https://cdn.prod.website-files.com/608a3a66f3a9813ff0c7a217/608a47146a5ffc045e0806eb_Download_on_the_App_Store_Badge.svg"
-                  loading="lazy" alt="" class="app-store-svg" /></a></div><a href="#"
-              class="full-width w-inline-block w-lightbox">
-              <div class="horizontal-wrapper-grid orange">
-                <div class="icon-embed-small w-embed"><svg xmlns="http://www.w3.org/2000/svg"
-                    xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--ic"
-                    width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
-                    <path fill="currentColor"
-                      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2zM9.5 14.67V9.33c0-.79.88-1.27 1.54-.84l4.15 2.67a1 1 0 0 1 0 1.68l-4.15 2.67c-.66.43-1.54-.05-1.54-.84z">
-                    </path>
-                  </svg></div>
-                <div class="home-modification-handyman-services small">Watch Gary&#x27;s Staycation With TruztPro</div>
-              </div>
-              <script type="application/json" class="w-json">{
-  "items": [
-    {
-      "url": "https://youtube.com/watch?v=21mylc2nuEs",
-      "originalUrl": "https://youtube.com/watch?v=21mylc2nuEs",
-      "width": 940,
-      "height": 528,
-      "thumbnailUrl": "http://i.ytimg.com/vi/21mylc2nuEs/hqdefault.jpg",
-      "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F21mylc2nuEs&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D21mylc2nuEs&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2F21mylc2nuEs%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"></iframe>",
-      "type": "video"
-    }
-  ],
-  "group": ""
-}</script>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="gradient-banner"></div>
-    </div>
-    <div class="section bg-gray-4">
-      <div class="main-container">
-        <div class="w-layout-grid grid-halves fullwidth-grid-halves _80-buffer">
-          <div class="container align-center">
-            <div class="section-title">
-              <div class="home-modification-handyman-services no-margin"><span
-                  class="text-span">Handy</span>Pro<sup>®</sup> <span class="text-span"></span></div>
-              <h2 class="large-heading section-title"><span class="thin">Join a Company</span> <br />That Invests in You
-              </h2>
-            </div>
-            <div class="w-richtext">
-              <h3><strong>Become a Certified Rashedmts Handyman or Handywoman</strong></h3>
-              <p>Want to join a company where you’re in control of your time and type of jobs you service? Rashedmts is
-                currently seeking experienced, and qualified individuals to join our team of friendly, talented handymen
-                and handywomen.If you share our commitment to making the lives of our clients easier and less stressful,
-                fill out a few questions to see if you qualify today!</p>
-            </div>
-            <div class="w-embed"></div>
-            <div class="button-wrapper grid"><a
-                href="https://jp10again.aidaform.com/templates-en-generic-job-application-form" target="_blank"
-                class="button bg-primary-2 w-inline-block">
-                <div>Apply Now</div>
-              </a><a href="our-story/become-a-craftsman.html" id="w-node-_3af60441-e6cc-3f11-2046-767477d04e1d-77d04e09"
-                target="_blank" class="link-with-arrow text-large text-gray-1 _16px-font w-inline-block">
-                <div>Learn More</div>
-                <div class="link-arrow w-embed"><svg xmlns="http://www.w3.org/2000/svg"
-                    xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--bx"
-                    width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
-                    <path fill="currentColor"
-                      d="m11.293 17.293l1.414 1.414L19.414 12l-6.707-6.707l-1.414 1.414L15.586 11H6v2h9.586z"></path>
-                  </svg></div>
-              </a></div>
-          </div>
-          <div id="w-node-_3af60441-e6cc-3f11-2046-767477d04e21-77d04e09" class="overlay-container full-height"><img
-              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6500b945387a00b2b46b1b7b_RLD_D4_2292.CR2.p.webp"
-              sizes="(max-width: 479px) 90vw, (max-width: 767px) 92vw, (max-width: 991px) 91vw, (max-width: 1439px) 93vw, (max-width: 1919px) 1224px, 1200px"
-              srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6500b945387a00b2b46b1b7b_RLD_D4_2292.CR2.p-p-500.webp 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6500b945387a00b2b46b1b7b_RLD_D4_2292.CR2.p-p-800.webp 800w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6500b945387a00b2b46b1b7b_RLD_D4_2292.CR2.p-p-1080.webp 1080w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/6500b945387a00b2b46b1b7b_RLD_D4_2292.CR2.p.webp 1800w"
-              alt="Hanyman Handywoman Handyperson" class="rounded full-height" />
-            <div class="overlay-content wide-overlay-content hide-on-mob">
-              <div class="container-small narrow">
-                <div class="boxed small-quote-box shadow">
-                  <div>“I joined because of the perks, I stay because of the culture”</div>
-                  <div class="text-small quote-author">Michael W. <br />Rashedmts Certified Craftsman</div>
-                </div>
-              </div>
-            </div>
-            <div class="image-wrapper center bottom-margin absolute shadow-large hide-on-mob"><img
-                src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dfb817b8c5cb6991e78891_Great Place To Work.webp"
-                loading="lazy" alt="Franchise Rankings Winner January 2023" class="award-image" /></div>
-          </div>
-          <div class="overlay-content wide-overlay-content mob-only">
-            <div class="container-small narrow">
-              <div class="boxed small-quote-box shadow full-width">
-                <div>“I joined because of the perks, I stay because of the culture”</div>
-                <div class="text-small quote-author">Michael W. <br />Rashedmts Certified Craftsman</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    
+     
+    
     <div class="section increased-padding bg-primary-2">
       <div class="main-container">
         <div class="w-layout-grid grid-halves _80-buffer">
           <div class="container align-center">
             <div class="home-modification-handyman-services no-margin"><span
-                class="text-span white">Handy</span>Pro<sup>®</sup></div>
+                class="text-span white">Rashed</span>MTS<sup>®</sup></div>
             <h2 class="display-heading-2 white">Can we help you find something?</h2>
             <div class="text-large hide">Combine sections from a range of categories to easily assemble pages that meet
               the needs of your growing business.</div>
@@ -1076,7 +628,7 @@
     </div>
     <div class="w-embed w-script">
       <script type="application/ld+json">
-{
+<!-- {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "Rashedmts",
@@ -1492,52 +1044,44 @@
       "closes": "17:00"
     }
   }]
-}
+} -->
 </script>
     </div>
     <footer id="Page-Footer" class="footer-2">
       <div class="main-container">
         <div class="footer-1-top-row bottom-margin"><a href="index.php" aria-current="page"
-            class="footer-2-logo w-inline-block w--current"><img
-              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts-logo.png"
-              alt="Handyman Services by Rashedmts" /></a><a
-            href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557" target="_blank"
-            class="button w-inline-block">
+            class="footer-2-logo w-inline-block w--current">
+            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts-logo.png" alt="Handyman Services by Rashedmts" /></a>
+            <a href="#" target="_blank"  class="button w-inline-block">
             <div>Book Now</div>
           </a></div>
         <div class="footer-1-top-row bottom-margin">
           <div class="w-layout-vflex boxed">
-            <p class="paragraph-small-7 text-color-gray-500">From simple jobs such as our tv mounting service and
-              furniture assembly service, to major kitchen and bathroom remodeling, we are here to
-              help.<br />‍<br />Rashedmts Handy man and handy woman/handyperson services are skilled, professional, and
-              licensed. We guarantee that we will arrive on time every time, and that your handy professional will
-              complete your jobs to the highest standards.<br />‍<br />We are a specialist home modification service
-              focused on handicap home modifications, and home modifications for disabled and or elderly people. We are
-              experts at design and modifications to ensure that elderly people can stay in their homes and enjoy life
-              to the full.<br />‍<br />Our senior handy services also include grab bar installation, handicap ramps,
-              wheelchair lifts and much more.<br />‍<br />Arrange a visit today for advice on how Rashedmts can help
-              with
-              you home modification needs.</p>
+            <p class="paragraph-small-7 text-color-gray-500"><p>From simple tasks like our TV mounting and furniture assembly services to major Home repair and Renovation,
+               we are here to assist you.<br />‍<br />  
+            RashedMTS handyman and technical services are skilled, professional, and licensed. 
+            We guarantee punctuality every time and ensure that your handyman professional completes each job to the highest standards.<br />‍<br />  
+            We specialize in home modifications, focusing on accessibility solutions for disabled individuals and the elderly. 
+            Our expertise in design and modifications helps seniors stay in their homes comfortably while enjoying life to the fullest.<br />‍<br />  
+            Our senior handyman services include grab bar installations, handicap ramps, wheelchair lifts, and much more.<br />‍<br />  
+            Schedule a visit today to learn how RashedMTS can assist with your home modification needs.</p>
           </div>
         </div>
         <div class="footer-2-top-row grid">
           <div>
             <div id="w-node-_91438ee7-0d91-1ced-868b-a962491ca2df-9d3b08c6" class="container-small">
-              <div><span class="Rashedmts-2">Rashedmts<sup>®</sup></span> offers reliable and affordable home
-                modification
-                and handyman services backed by over 25 years of experience. Schedule your service today!</div>
+              <div><span class="Rashedmts-2">Rashedmts<sup>®</sup></span> Provides trusted and cost-effective home modification and handyman services,
+               backed by over 05 years of expertise. Book your service today!</div>
             </div>
             <div class="button-wrapper grid _6"><a id="w-node-ae8bed50-d87c-8c8d-360f-a0d358aa7a61-9d3b08c6" href="#"
                 target="_blank" class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"
-                    class="iconify iconify--simple-icons" width="100%" height="100%" preserveAspectRatio="xMidYMid meet"
-                    viewBox="0 0 24 24">
-                    <path fill="currentColor"
-                      d="M21.543 7.104c.015.211.015.423.015.636c0 6.507-4.954 14.01-14.01 14.01v-.003A13.94 13.94 0 0 1 0 19.539a9.88 9.88 0 0 0 7.287-2.041a4.93 4.93 0 0 1-4.6-3.42a4.9 4.9 0 0 0 2.223-.084A4.926 4.926 0 0 1 .96 9.167v-.062a4.9 4.9 0 0 0 2.235.616A4.93 4.93 0 0 1 1.67 3.148a13.98 13.98 0 0 0 10.15 5.144a4.929 4.929 0 0 1 8.39-4.49a9.9 9.9 0 0 0 3.128-1.196a4.94 4.94 0 0 1-2.165 2.724A9.8 9.8 0 0 0 24 4.555a10 10 0 0 1-2.457 2.549">
-                    </path>
-                  </svg></div>
-              </a><a id="w-node-d98ec0bc-7883-b8cf-57ed-58c46963d909-9d3b08c6" href="#" target="_blank"
+                    class="iconify iconify--simple-icons" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                    <path fill="currentColor" d="M21.543 7.104c.015.211.015.423.015.636c0 6.507-4.954 14.01-14.01 14.01v-.003A13.94 13.94 0 0 1 0 19.539a9.88 9.88 0 0 0 7.287-2.041a4.93 4.93 0 0 1-4.6-3.42a4.9 4.9 0 0 0 2.223-.084A4.926 4.926 0 0 1 .96 9.167v-.062a4.9 4.9 0 0 0 2.235.616A4.93 4.93 0 0 1 1.67 3.148a13.98 13.98 0 0 0 10.15 5.144a4.929 4.929 0 0 1 8.39-4.49a9.9 9.9 0 0 0 3.128-1.196a4.94 4.94 0 0 1-2.165 2.724A9.8 9.8 0 0 0 24 4.555a10 10 0 0 1-2.457 2.549">
+                    </path> </svg>
+                </div>  </a>
+                <a id="w-node-d98ec0bc-7883-b8cf-57ed-58c46963d909-9d3b08c6" href="#" target="_blank"
                 class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--ic"
