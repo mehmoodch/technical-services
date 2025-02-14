@@ -34,7 +34,7 @@
                   <div class="navigation-dropdown-base">
                     <div class="service-wrapper mob-only w-dyn-list">
                       <div role="list" class="navigation-link-wrapper mob-only w-dyn-items">
-                        <div role="listitem" class="w-dyn-item"><a href="service-categories/handyman-services.html"
+                        <div role="listitem" class="w-dyn-item"><a href="service-categories/handyman-services.php"
                             class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">Handyman Services</div>
                             <div class="icon-small w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16"
@@ -44,7 +44,7 @@
                                   fill="currentColor" />
                               </svg></div>
                           </a></div>
-                        <div role="listitem" class="w-dyn-item"><a href="service-categories/home-modification.html"
+                        <div role="listitem" class="w-dyn-item"><a href="service-categories/home-modification.php"
                             class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">Home Modification</div>
                             <div class="icon-small w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16"
@@ -54,7 +54,7 @@
                                   fill="currentColor" />
                               </svg></div>
                           </a></div>
-                        <div role="listitem" class="w-dyn-item"><a href="service-categories/commercial-services.html"
+                        <div role="listitem" class="w-dyn-item"><a href="service-categories/commercial-services.php"
                             class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">Commercial Services</div>
                             <div class="icon-small w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="16"
@@ -105,25 +105,25 @@
                           </div>
                           <div class="w-dyn-list">
                             <div role="list" class="navigation-link-grid autofit w-dyn-items">
-                              <div role="listitem" class="w-dyn-item"><a href="services/handyman-services.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/handyman-services.php"
                                   class="dropdown-link w-dropdown-link">Handyman Services</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/painting.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/painting.php"
                                   class="dropdown-link w-dropdown-link">Painting</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/drywall-repair.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/drywall-repair.php"
                                   class="dropdown-link w-dropdown-link">Drywall Repair</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/carpentry.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/carpentry.php"
                                   class="dropdown-link w-dropdown-link">Carpentry</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/plumbing-fixtures.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/plumbing-fixtures.php"
                                   class="dropdown-link w-dropdown-link">Plumbing Fixtures</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/electrical-lighting.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/electrical-lighting.php"
                                   class="dropdown-link w-dropdown-link">Electrical &amp; Lighting</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/furniture-assembly.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/furniture-assembly.php"
                                   class="dropdown-link w-dropdown-link">Furniture Assembly</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/tv-mounting-installation.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/tv-mounting-installation.php"
                                   class="dropdown-link w-dropdown-link">TV Mounting &amp; Installation</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/exterior-home-services.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/exterior-home-services.php"
                                   class="dropdown-link w-dropdown-link">Exterior Home Services</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/other-handyman-services.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/other-handyman-services.php"
                                   class="dropdown-link w-dropdown-link">Other Handyman Services</a></div>
                             </div>
                           </div>
@@ -135,7 +135,7 @@
                                     <div class="subheading-large"><span><strong>Technical Services - Residential &amp;
                                           Commercial</strong></span></div>
                                     <p class="paragraph-small">Your Trusted Home Repair &amp; Maintenance Specialist</p>
-                                  </div><a href="service-categories/handyman-services.html" class="button w-button">View
+                                  </div><a href="service-categories/handyman-services.php" class="button w-button">View
                                     Handyman Services</a>
                                 </div>
                               </div>
@@ -148,30 +148,30 @@
                           </div>
                           <div class="w-dyn-list">
                             <div role="list" class="navigation-link-grid autofit w-dyn-items">
-                              <div role="listitem" class="w-dyn-item"><a href="services/home-modification.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/home-modification.php"
                                   class="dropdown-link w-dropdown-link">Home Modification</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/grab-bars-accessories.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/grab-bars-accessories.php"
                                   class="dropdown-link w-dropdown-link">Grab Bars &amp; Accessories</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/walk-in-showers.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/walk-in-showers.php"
                                   class="dropdown-link w-dropdown-link">Walk-In Showers</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/transition-tub.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/transition-tub.php"
                                   class="dropdown-link w-dropdown-link">Transition Tub</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/ceiling-lift-installation.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/ceiling-lift-installation.php"
                                   class="dropdown-link w-dropdown-link">Ceiling Lift Installation</a></div>
                               <div role="listitem" class="w-dyn-item"><a
-                                  href="services/vertical-platform-lift-installation.html"
+                                  href="services/vertical-platform-lift-installation.php"
                                   class="dropdown-link w-dropdown-link">Vertical Platform Lift Installation</a></div>
                               <div role="listitem" class="w-dyn-item"><a
-                                  href="services/stair-lift-installation-services.html"
+                                  href="services/stair-lift-installation-services.php"
                                   class="dropdown-link w-dropdown-link">Stair Lift Installation Services</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/mobility-ramps.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/mobility-ramps.php"
                                   class="dropdown-link w-dropdown-link">Mobility Ramps</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/accessibility-lifts.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/accessibility-lifts.php"
                                   class="dropdown-link w-dropdown-link">Accessibility Lifts</a></div>
                               <div role="listitem" class="w-dyn-item"><a
-                                  href="services/bathroom-accessibility-remodeling.html"
+                                  href="services/bathroom-accessibility-remodeling.php"
                                   class="dropdown-link w-dropdown-link">Bathroom Accessibility Remodeling</a></div>
-                              <div role="listitem" class="w-dyn-item"><a href="services/other-home-modifications.html"
+                              <div role="listitem" class="w-dyn-item"><a href="services/other-home-modifications.php"
                                   class="dropdown-link w-dropdown-link">Other Home Modifications</a></div>
                             </div>
                           </div>
@@ -184,7 +184,7 @@
                                           Services</strong></span></div>
                                     <p class="paragraph-small">ADA-Compliant Accessibility Solutions Fit to Your Needs
                                     </p>
-                                  </div><a href="service-categories/home-modification.html" class="button w-button">View
+                                  </div><a href="service-categories/home-modification.php" class="button w-button">View
                                     <span><strong>Home Modifications</strong></span> Services</a>
                                 </div>
                               </div>
@@ -203,7 +203,7 @@
                                     <div class="subheading-large"><span><strong>Your Trusted Commercial Services
                                           Provider</strong></span></div>
                                     <p class="paragraph-small">A Partner in Keeping Your Business Running</p>
-                                  </div><a href="service-categories/commercial-services.html"
+                                  </div><a href="service-categories/commercial-services.php"
                                     class="button w-button">View <span>Commercial</span> Services</a>
                                 </div>
                               </div>
