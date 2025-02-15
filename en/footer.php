@@ -1,31 +1,34 @@
 <footer id="Page-Footer" class="footer-2">
       <div class="main-container">
-        <div class="footer-1-top-row bottom-margin"><a href="index.php" aria-current="page"
-            class="footer-2-logo w-inline-block w--current">
-            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts-logo.png" alt="Handyman Services by Rashedmts" /></a>
+        <div class="footer-1-top-row bottom-margin">
+          <a href="index.php" aria-current="page"  class="footer-2-logo w-inline-block w--current">
+            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts.jpeg" alt="Handyman Services by Rashed Mazumdar" /></a>
             <a href="#" target="_blank"  class="button w-inline-block">
             <div>Book Now</div>
           </a></div>
         <div class="footer-1-top-row bottom-margin">
           <div class="w-layout-vflex boxed">
-            <p class="paragraph-small-7 text-color-gray-500"><p>From simple tasks like our TV mounting and furniture assembly services to major Home repair and Renovation,
-               we are here to assist you.<br />‍<br />  
-            RashedMTS handyman and technical services are skilled, professional, and licensed. 
+            <p class="paragraph-small-7 text-color-gray-500">
+              <p>From simple tasks like our TV mounting and furniture assembly services to major Home repair and Renovation, we are here to assist you.<br />‍<br />  
+              Rashed Mazumdar handyman and technical services are skilled, professional, and licensed. 
             We guarantee punctuality every time and ensure that your handyman professional completes each job to the highest standards.<br />‍<br />  
             We specialize in home modifications, focusing on accessibility solutions for disabled individuals and the elderly. 
             Our expertise in design and modifications helps seniors stay in their homes comfortably while enjoying life to the fullest.<br />‍<br />  
             Our senior handyman services include grab bar installations, handicap ramps, wheelchair lifts, and much more.<br />‍<br />  
-            Schedule a visit today to learn how RashedMTS can assist with your home modification needs.</p>
+            Schedule a visit today to learn how Rashed Mazumdar can assist with your home modification needs.</p>
           </div>
         </div>
         <div class="footer-2-top-row grid">
           <div>
             <div id="w-node-_91438ee7-0d91-1ced-868b-a962491ca2df-9d3b08c6" class="container-small">
-              <div><span class="Rashedmts-2">Rashedmts<sup>®</sup></span> Provides trusted and cost-effective home modification and handyman services,
-               backed by over 05 years of expertise. Book your service today!</div>
+              <div>
+              <strong><span class="handyman-2"> Rashed Mazumdar Technical Services LLC</span></strong> specializes in the technical services industry, 
+                offering sustainable and innovative solutions for installation, fit-out projects, and the operation and maintenance of utility plants. We are committed to delivering
+                 functional, cost-effective systems tailored to our customers' needs. We currently provide maintenance services to a diverse range of clients in the 
+                 public and private sectors. Additionally, we manage property and facility operations for world-class building infrastructures across the United Arab Emirates.</div>
             </div>
-            <div class="button-wrapper grid _6"><a id="w-node-ae8bed50-d87c-8c8d-360f-a0d358aa7a61-9d3b08c6" href="#"
-                target="_blank" class="social-button w-inline-block">
+            <div class="button-wrapper grid _6">
+              <a id="w-node-ae8bed50-d87c-8c8d-360f-a0d358aa7a61-9d3b08c6" href="#" target="_blank" class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"
                     class="iconify iconify--simple-icons" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
@@ -88,57 +91,75 @@
             <div class="container-large align-center">
               <div class="w-layout-grid footer-2-menus-grid">
                 <div id="w-node-_1b05cfd5-a7aa-77bf-6a08-b2e99d3b08d1-9d3b08c6">
-                  <h2 class="footer-menu-heading">Handyman Services</h2>
+                  <h2 class="footer-menu-heading">Services</h2>
                   <div class="w-layout-grid menu-grid-vertical"><a
-                      href="local-service/farmington-hills-tv-mounting-installation.html" class="hover-link">TV Mounting
-                      Service</a><a href="services/drywall-repair.html" class="hover-link">Drywall Service</a><a
-                      href="services/home-modification.html" class="hover-link">Home Modifications</a><a
-                      href="services/handyman-services.html" class="hover-link">Handyman Services</a><a
-                      href="services/furniture-assembly.html" class="hover-link">Furniture Assembly</a><a
-                      href="service-categories/commercial-services.html" class="hover-link">Commercial Handyman</a><a
-                      href="services/painting.html" class="hover-link">Painting Services</a><a
-                      id="w-node-_91cb5c43-b131-cc34-f372-8c2097e87bfb-9d3b08c6"
-                      href="services/electrical-lighting.html" class="hover-link">Electrical Handyman</a></div>
+                      href="local-service/farmington-hills-tv-mounting-installation.php" class="hover-link"> False Ceiling & Light Partition Installation</a>
+                      <a href="services/drywall-repair.php" class="hover-link"> Painting Contracting</a>
+                      <a href="services/home-modification.php" class="hover-link"> Plaster Works</a>
+                      <a href="services/handyman-services.php" class="hover-link">Carpentry</a>
+                      <a href="services/furniture-assembly.php" class="hover-link"> Floor & Wall Tiling Work</a>
+                      <a href="service-categories/commercial-services.php" class="hover-link"> Electrical lighting & Fixtures Services</a>
+                      <a href="services/painting.php" class="hover-link"> Exterior Painting & Coating</a>
+                      <a href="services/painting.php" class="hover-link"> Mechanical, Electrical & Plumbing (MEP)</a>
+                      <a href="services/painting.php" class="hover-link"> Plumbing and Sanitary Contracting</a>
+                      <a href="services/painting.php" class="hover-link"> Electrical Fitting & Fixtures Services</a>
+                      <a id="w-node-_91cb5c43-b131-cc34-f372-8c2097e87bfb-9d3b08c6" href="services/electrical-lighting.php" class="hover-link"> Solar Panel Installation & Maintenance</a>
+                  </div>
                 </div>
                 <div>
                   <h2 class="footer-menu-heading">Locations</h2>
-                  <div class="w-layout-grid menu-grid-vertical"><a href="locations/farmington-hills.html"
-                      class="hover-link">HQ Farmington MI</a><a href="locations/fort-lauderdale.html"
-                      class="hover-link">Weston FL</a><a href="locations/south-miami.html" class="hover-link">Miami
-                      FL</a><a href="locations/northwest-indiana.html" class="hover-link">Portage IN</a><a
-                      href="locations/delmarva.html" class="hover-link">Grasonville MD</a><a
-                      href="locations/washington-dc.html" class="hover-link">Bethesda MD</a><a
-                      href="locations/plymouth.html" class="hover-link">Plymouth MI</a><a
-                      id="w-node-_754ecf2f-605f-fb07-8064-253deb9e0b33-9d3b08c6"
-                      href="locations/central-new-jersey.html" class="hover-link">Jackson Township NJ</a></div>
+                  <div class="w-layout-grid menu-grid-vertical"><a href="#"  class="hover-link">Business Bay</a>
+                  <a href="#" class="hover-link">Al Barsha</a>
+                  <a href="#" class="hover-link">Jumairah Village Circle</a>
+                  <a href="#" class="hover-link">JLT</a>
+                  <a href="#" class="hover-link">Dubai Investment Park</a>
+                  <a href="#" class="hover-link">Jabal Ali</a>
+                  <a href="#" class="hover-link">Arjan</a>
+                  <a href="#" class="hover-link">Nad Al Shiba</a>
+                  <a href="#" class="hover-link">Wad e Safa</a>
+                  <a href="#" class="hover-link">Dubai Media City</a>
+                  <a href="#" class="hover-link">Dubai Internet City</a>
+                  <a href="#" class="hover-link">Al Quoz</a>
+                  <a href="#" class="hover-link">Ras Al Khour</a>
+                  <a id="w-node-_754ecf2f-605f-fb07-8064-253deb9e0b33-9d3b08c6" href="#" class="hover-link">Al Rashdiya</a>
                 </div>
-                <div>
-                  <h2 class="footer-menu-heading">Locations/Links</h2>
-                  <div class="w-layout-grid menu-grid-vertical"><a href="locations/toledo.html"
-                      class="hover-link">Maumee OH</a><a href="locations/montgomery-county.html"
-                      class="hover-link">Magnolia TX</a><a href="locations/northern-virginia.html"
-                      class="hover-link">Sterling VA</a><a href="locations/west-virginia.html" class="hover-link">Scott
-                      Depot WV</a><a href="contact-us.html" class="hover-link">Contact Us</a><a href="our-story.html"
-                      class="hover-link">About Rashedmts</a><a href="our-story/project-gallery.html"
-                      class="hover-link">Project Gallery</a><a
-                      id="w-node-_222553a2-adf3-7ffb-90a6-0f158e75c4fb-9d3b08c6" href="our-story/truztpro-app.html"
-                      class="hover-link">Handyman Pro App</a></div>
+              </div>
+            <div>
+                  <h2 class="footer-menu-heading">Contact Us</h2>
+
+                  <div id="w-node-_91438ee7-0d91-1ced-868b-a962491ca2df-9d3b08c6" class="container-small">
+              <div>
+                <span class="handyman-2"></span>
+
+                <span><strong>📞 Phone:</strong></span><a href="971505936597"> +971 50 593 6597 </a> <br></br>
+                <span><strong>📲 WhatsApp:</strong></span> <a href="https://wa.me/971555199753" target="_blank">+971 55 519 9753 </a> <br></br>
+                <span><strong>📧 Email:</strong></span> <a href="info@rashedmts.ae"> info@rashedmts.ae </a> <br></br>
+                <span><strong>🌐 Website:</strong></span> <a href="https://www.rashedmts.ae" target="_blank">rashedmts.ae </a> <br></br>
+                <span><strong>📍 Office Address:</strong></span> Dubai Investment Park First, Office# 04, Dubai, UAE. <br></br>
+                <span><strong>⏰ Office Hours:</strong></span> Monday - Saturday: 9:00 AM - 6:00 PM <br></br>
+                <span><strong>📩 Send Your Inquiry: </strong></span>  <a href="#" target="_blank">Click Here </a>
+                
+                
+
+              </div>
+            </div>                  
+                  
                 </div>
               </div>
             </div>
           </div>
         </div>
         <div class="footer-bottom-row">
-          <div class="footer-bottom-links"><a href="privacy-policy.html" class="row-link">Privacy Policy</a><a
-              href="terms-of-use.html" class="row-link">Terms of Use</a><a href="accessibility.html"
-              class="row-link">Accessibility</a><a href="disclaimer.html" class="row-link">Disclaimer</a><a
-              href="site-map.html" class="row-link">Site Map</a></div>
+          <div class="footer-bottom-links"><a href="privacy-policy.php" class="row-link">Privacy Policy</a><a
+              href="terms-of-use.php" class="row-link">Terms of Use</a><a href="accessibility.php"
+              class="row-link">Accessibility</a><a href="disclaimer.php" class="row-link">Disclaimer</a><a
+              href="site-map.php" class="row-link">Site Map</a></div>
         </div>
         
         <div class="footer-bottom-row second">
-          <div><a href="index.php" aria-current="page" class="w--current"><span class="Rashedmts">Rashedmts</span></a>
-            ©
-            2024 All Rights Reserved</div>
+          <div><a href="index.php" aria-current="page" class="w--current"><span class="handyman">Rashed Mazumdar Technical Services LLC</span></a>
+             © 2025 All rights reserved. | <a href="privacy-policy.php">Privacy Policy</a> | <a href="terms-of-service.php">Terms of Service</a>
+            </div>
           
         </div>
       </div>
@@ -154,7 +175,7 @@
         class="search-modal-cross" />
       <div class="container-large">
         <h4 class="large-heading">Search</h4>
-        <form action="https://rashedmts.ae/search" class="form-horizontal w-form"><input class="form-input w-input"
+        <form action="https://rashedmts.ae/en/search" class="form-horizontal w-form"><input class="form-input w-input"
             maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input
             type="submit" class="button form-horizontal-button w-button" value="Search" /></form>
       </div>
