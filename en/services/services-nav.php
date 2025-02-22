@@ -1,12 +1,12 @@
 <div class="navbar-container sticky-top bg-white">
     <div class="main-container right">
-      <a data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3c" href="tel:+97143373565"  class="grid-button w-inline-block">
+      <a data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3c" href="tel:971505936597"  class="grid-button w-inline-block">
         <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3d-5da6ec3b" data-is-ix2-target="1" class="lottie-icon"
           data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3d" data-animation-type="lottie"
           data-src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64d67a4520567bb2db7aeeab_lottieflow-chat-17-6-f95603-easey.json"
           data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg"
           data-default-duration="1.4666666666666666" data-duration="0" data-ix2-initial-state="0"></div>
-        <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3e-5da6ec3b" class="phone-number-text">+971-43373565 | info@purplebricks.ae</div>
+        <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3e-5da6ec3b" class="phone-number-text">+971 50 593 6597 | info@rashedmts.ae</div>
       </a>
     </div>
     <div class="main-container">
@@ -14,11 +14,11 @@
         <div class="navbar-justify-between">
           <a href="#" class="brand right-justify w-nav-brand">
             <div class="code-embed-4 w-embed w-script">
-              <!-- <script src="../static.elfsight.com/platform/platform.js" async></script> -->
+              
                <div>
-                  <img style="width: auto; height: 100px;" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/logo.png">
+                  <img style="width: auto; height: 100px;" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts.jpeg">
                </div>
-               <div class="elfsight-app-7409957d-f9b7-45d1-8cd9-9b6c2e8c8b83" data-elfsight-app-lazy></div>
+               <!-- <div class="" data-elfsight-app-lazy></div> -->
             </div>
           </a>
           <div class="navbar-right-contents">
@@ -54,7 +54,7 @@
                           </a>
                         </div>
                         <div role="listitem" class="w-dyn-item">
-                          <a href="service-categories/commercial-services.php"  class="navigation-link-l w-inline-block">
+                          <a href="commercial-services.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🏊‍♂️ Specialized Maintenance & Cleaning Services</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -106,45 +106,28 @@
                           <div class="w-dyn-list">
                             <div role="list" class="navigation-link-grid autofit w-dyn-items">
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/false-ceiling.php" class="dropdown-link w-dropdown-link">🛠️ False Ceiling & Light Partition Installation</a>
+                                <a href="false-ceiling.php" class="dropdown-link w-dropdown-link">🛠️ False Ceiling & Light Partition Installation</a>
                               </div>
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/painting.php"   class="dropdown-link w-dropdown-link">🎨 Painting Contracting</a>
+                                <a href="painting.php"   class="dropdown-link w-dropdown-link">🎨 Painting Contracting</a>
                               </div>
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/plaster-work.php"  class="dropdown-link w-dropdown-link">🧱 Plaster Works</a>
+                                <a href="plaster-work.php"  class="dropdown-link w-dropdown-link">🧱 Plaster Works</a>
                               </div>
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/carpentry.php"  class="dropdown-link w-dropdown-link">🔨 Carpentry</a>
+                                <a href="carpentry.php"  class="dropdown-link w-dropdown-link">🔨 Carpentry</a>
                               </div>
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/tiling.php"   class="dropdown-link w-dropdown-link">🖌️ Floor & Wall Tiling Work</a>
+                                <a href="tiling.php"   class="dropdown-link w-dropdown-link">🖌️ Floor & Wall Tiling Work</a>
                               </div>
+                              
+                              
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/electrical-lighting.php" class="dropdown-link w-dropdown-link">💡 Electrical lighting & Fixtures Services</a>
-                              </div>
-                              <div role="listitem" class="w-dyn-item">
-                                <a href="services/exterior-home-services.php" class="dropdown-link w-dropdown-link">🎨 Exterior Painting & Coating</a>
-                              </div>
-                              <div role="listitem" class="w-dyn-item">
-                                <a href="services/other-handyman-services.php"  class="dropdown-link w-dropdown-link">🔩 Other Handyman Services</a>
+                                <a href="other-handyman-services.php"  class="dropdown-link w-dropdown-link">🔩 Other Handyman Services</a>
                               </div>
                             </div>
                           </div>
-                          <div class="w-dyn-list">
-                            <div role="list" class="w-dyn-items">
-                              <div role="listitem" class="w-dyn-item">
-                                <div class="navigation-cta-wrapper">
-                                  <div>
-                                    <div class="subheading-large"><span>
-                                      <strong>🏗️ Home Maintenance & Renovation Services</strong></span></div>
-                                    <p class="paragraph-small">Your Trusted Home Repair &amp; Maintenance Specialist</p>
-                                  </div>
-                                  <a href="service-categories/handyman-services.php" class="button w-button">View All Maintenance Services</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                         <div data-w-tab="Home Modifications" class="w-tab-pane">
                           <div class="separator-div bottom menu">
@@ -153,37 +136,21 @@
                           <div class="w-dyn-list">
                             <div role="list" class="navigation-link-grid autofit w-dyn-items">
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/hvac.php" class="dropdown-link w-dropdown-link">❄️ HVAC Systems Installation & Maintenance</a>
+                                <a href="hvac.php" class="dropdown-link w-dropdown-link">❄️ HVAC Systems Installation & Maintenance</a>
                               </div>
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/plumbing-fixtures.php"  class="dropdown-link w-dropdown-link">🚰 Plumbing and Sanitary Contracting</a>
+                                <a href="plumbing-fixtures.php"  class="dropdown-link w-dropdown-link">🚰 Plumbing and Sanitary Contracting</a>
+                              </div>
+                             
+                              <div role="listitem" class="w-dyn-item">
+                                <a href="solar-panel.php"  class="dropdown-link w-dropdown-link">☀️ Solar Panel Installation & Maintenance</a>
                               </div>
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/electrical-lighting.php"  class="dropdown-link w-dropdown-link">💡 Electrical Fitting & Fixtures Services</a>
-                              </div>
-                              <div role="listitem" class="w-dyn-item">
-                                <a href="services/solar-panel.php"  class="dropdown-link w-dropdown-link">☀️ Solar Panel Installation & Maintenance</a>
-                              </div>
-                              <div role="listitem" class="w-dyn-item">
-                                <a href="services/other-home-modifications.php"  class="dropdown-link w-dropdown-link">🏡 Other Home Modifications</a>
+                                <a href="other-home-modifications.php"  class="dropdown-link w-dropdown-link">🏡 Other Home Modifications</a>
                               </div>
                             </div>
                           </div>
-                          <div class="w-dyn-list">
-                            <div role="list" class="w-dyn-items">
-                              <div role="listitem" class="w-dyn-item">
-                                <div class="navigation-cta-wrapper">
-                                  <div>
-                                    <div class="subheading-large"><span>
-                                      <strong>MEP Services</strong></span>
-                                    </div>
-                                    <p class="paragraph-small">DDA-Compliant Maintenance Solutions Fit to Your Needs </p>
-                                  </div><a href="service-categories/home-modification.php" class="button w-button">View
-                                    <span><strong>Home Modifications</strong></span> Services</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                         <div data-w-tab="Commercial Services" class="w-tab-pane">
                           <div class="separator-div bottom menu">
@@ -192,33 +159,18 @@
                           <div class="w-dyn-list">
                             <div role="list" class="navigation-link-grid autofit w-dyn-items">
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/swimming-pool.php" class="dropdown-link w-dropdown-link">🏊 Swimming Pools Maintenance</a>
+                                <a href="swimming-pool.php" class="dropdown-link w-dropdown-link">🏊 Swimming Pools Maintenance</a>
                               </div>
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/tank-cleaning.php"  class="dropdown-link w-dropdown-link">🛢️ Tanks & Container Cleaning</a>
+                                <a href="tank-cleaning.php"  class="dropdown-link w-dropdown-link">🛢️ Tanks & Container Cleaning</a>
                               </div>
                               <div role="listitem" class="w-dyn-item">
-                                <a href="services/cleaning.php"  class="dropdown-link w-dropdown-link">🧹 Building Cleaning</a>
+                                <a href="cleaning.php"  class="dropdown-link w-dropdown-link">🧹 Building Cleaning</a>
                               </div>
                               
                             </div>
                           </div>
-                          <div class="w-dyn-list">
-                            <div role="list" class="w-dyn-items">
-                              <div role="listitem" class="w-dyn-item">
-                                <div class="navigation-cta-wrapper">
-                                  <div>
-                                    <div class="subheading-large"><span>
-                                      <strong>Your Trusted Commercial Services  Provider</strong></span>
-                                  </div>
-                                  
-                                    <p class="paragraph-small">A Partner in Keeping Your Business Running</p>
-                                  </div>
-                                  <a href="service-categories/commercial-services.php" class="button w-button">View <span>Commercial</span> Services</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                     </div>
@@ -232,7 +184,7 @@
                 </div>
                 <nav class="dropdown-list w-dropdown-list">
                   <div class="w-layout-grid dropdown-grid">
-                    <a href="our-story.php" class="dropdown-link w-dropdown-link">Our Story</a>
+                    <a href="../our-story.php" class="dropdown-link w-dropdown-link">Our Story</a>
                     <a href="our-story/become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
                     
                    
@@ -258,30 +210,28 @@
                       <div class="navigation-title-block">
                         <div class="subheading-large bold">About</div>
                       </div>
-                      <div class="w-layout-grid navigation-grid-s full-height"><a href="#"
-                          class="navigation-video-block w-inline-block">
+                      <div class="w-layout-grid navigation-grid-s full-height">
+                        <a href="#" class="navigation-video-block w-inline-block">
                           <div id="w-node-bb1b843b-4cd9-ccff-cad7-c08d0cb9f612-9d0a7cb6" class="navigation-video-card">
-                            <img
-                              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard Copy 2 (1).webp"
-                              loading="lazy" sizes="100vw"
+                            <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard Copy 2 (1).webp" loading="lazy" sizes="100vw"
                               srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-500.webp 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-800.webp 800w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-1080.webp 1080w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-1600.webp 1600w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%20Copy%202%20(1).webp 2000w"
                               alt="Pioneer E-Boost Blog" class="navigation-card-image" />
                             <div class="b-navigation-card-title-wrapper">
                               <div class="h5-heading">In The News</div>
                             </div>
                           </div>
-                        </a><a href="#" class="navigation-video-block w-inline-block">
+                        </a>
+                        <a href="#" class="navigation-video-block w-inline-block">
                           <div id="w-node-bb1b843b-4cd9-ccff-cad7-c08d0cb9f618-9d0a7cb6" class="navigation-video-card">
-                            <img
-                              src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard (4).webp"
-                              loading="lazy" sizes="100vw"
+                            <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard (4).webp" loading="lazy" sizes="100vw"
                               srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard%2520(4)-p-500.webp 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard%2520(4)-p-800.webp 800w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard%2520(4)-p-1080.webp 1080w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard%2520(4)-p-1600.webp 1600w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d6138_Artboard%20(4).webp 2000w"
                               alt="Pioneer E-Boost Events" class="navigation-card-image" />
                             <div class="b-navigation-card-title-wrapper">
                               <div class="h5-heading">Project Gallery</div>
                             </div>
                           </div>
-                        </a></div>
+                        </a>
+                      </div>
                     </div>
                     <div class="navigation-side-block">
                       <div class="navigation-side-wrapper">
@@ -290,21 +240,21 @@
                         </div>
                         <div class="w-layout-grid dropdown-grid">
                           <div class="dropdown-grid-column">
-                            <a href="our-story.php"  class="dropdown-link w-dropdown-link">Our Story</a>
-                            <a  href="our-story/become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
-                            <a  href="our-story/faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
-                            <a  href="our-story/project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
+                            <a href="../our-story.php"  class="dropdown-link w-dropdown-link">Our Story</a>
+                            <a  href="../become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
+                            <a  href="../faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
+                            <a  href="../project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
                           </div>
                           <div class="dropdown-grid-column">
                             <a href="#" class="dropdown-link w-dropdown-link">In The  News</a>
-                            <a href="our-story/video-center.php" class="dropdown-link w-dropdown-link">Video  Center</a>
+                            <a href="../video-center.php" class="dropdown-link w-dropdown-link">Video  Center</a>
                             <a href="#" class="dropdown-link w-dropdown-link">Blog</a>
                             <a href="#"  class="dropdown-link w-dropdown-link">Special Offers</a>
                             
                           </div>
                         </div>
                       </div>
-                      <a href="contact-us.php" class="navigation-help-center w-inline-block">
+                      <a href="../contact-us.php" class="navigation-help-center w-inline-block">
                         <div class="icon-small w-embed">
                           <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M7.99992 1.33337C4.31992 1.33337 1.33325 4.32004 1.33325 8.00004C1.33325 11.68 4.31992 14.6667 7.99992 14.6667C11.6799 14.6667 14.6666 11.68 14.6666 8.00004C14.6666 4.32004 11.6799 1.33337 7.99992 1.33337ZM8.66659 12.6667H7.33325V11.3334H8.66659V12.6667ZM10.0466 7.50004L9.44659 8.11337C9.11325 8.45337 8.87325 8.76004 8.75325 9.24004C8.69992 9.45337 8.66659 9.69337 8.66659 10H7.33325V9.66671C7.33325 9.36004 7.38659 9.06671 7.47992 8.79337C7.61325 8.40671 7.83325 8.06004 8.11325 7.78004L8.93992 6.94004C9.24659 6.64671 9.39325 6.20671 9.30659 5.74004C9.21992 5.26004 8.84659 4.85337 8.37992 4.72004C7.63992 4.51337 6.95325 4.93337 6.73325 5.56671C6.65325 5.81337 6.44659 6.00004 6.18659 6.00004H5.98659C5.59992 6.00004 5.33325 5.62671 5.43992 5.25337C5.72659 4.27337 6.55992 3.52671 7.59325 3.36671C8.60659 3.20671 9.57325 3.73337 10.1733 4.56671C10.9599 5.65337 10.7266 6.82004 10.0466 7.50004Z" fill="currentColor" />
@@ -318,9 +268,9 @@
               </div>
               <a href="locations.php" class="nav-link w-nav-link">Locations</a>
               <a href="financing.php"  class="nav-link w-nav-link">Financing</a>
-              <a href="contact-us.php" class="nav-link w-nav-link">Contact Us</a>
+              <a href="../contact-us.php" class="nav-link w-nav-link">Contact Us</a>
               <div class="navbar-functions">
-                <a href="contact-us.php"  target="_blank" class="button nav w-inline-block">
+                <a href="../contact-us.php"  target="_blank" class="button nav w-inline-block">
                   <div>Book Now</div>
                 </a>
                 <a href="#" class="search-link w-inline-block">

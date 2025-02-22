@@ -2,33 +2,38 @@
       <div class="main-container">
         <div class="footer-1-top-row bottom-margin">
           <a href="index.php" aria-current="page"  class="footer-2-logo w-inline-block w--current">
-            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts.jpeg" alt="Handyman Services by Rashed Mazumdar" /></a>
+            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts.jpeg" alt="Handyman Services by Rashed MTS" /></a>
             <a href="#" target="_blank"  class="button w-inline-block">
             <div>Book Now</div>
           </a></div>
         <div class="footer-1-top-row bottom-margin">
           <div class="w-layout-vflex boxed">
             <p class="paragraph-small-7 text-color-gray-500">
-              <p>From simple tasks like our TV mounting and furniture assembly services to major Home repair and Renovation, we are here to assist you.<br />‍<br />  
-              Rashed Mazumdar handyman and technical services are skilled, professional, and licensed. 
-            We guarantee punctuality every time and ensure that your handyman professional completes each job to the highest standards.<br />‍<br />  
-            We specialize in home modifications, focusing on accessibility solutions for disabled individuals and the elderly. 
-            Our expertise in design and modifications helps seniors stay in their homes comfortably while enjoying life to the fullest.<br />‍<br />  
-            Our senior handyman services include grab bar installations, handicap ramps, wheelchair lifts, and much more.<br />‍<br />  
-            Schedule a visit today to learn how Rashed Mazumdar can assist with your home modification needs.</p>
+              <p>From simple tasks like TV mounting and furniture assembly to major home repairs and renovations, we are here to help.<br />‍<br />  
+            Rashed Mazumdar Technical Services LLC provides skilled, professional, and licensed handyman and technical services.  
+            We are committed to punctuality and ensure that every job is completed to the highest standards.<br />‍<br />  
+            We specialize in home modifications, offering accessibility solutions for disabled individuals and the elderly.  
+            Our expertise in design and modifications enables seniors to live comfortably and independently in their homes.<br />‍<br />  
+            Our senior handyman services include grab bar installations, handicap ramps, wheelchair lifts, and more.<br />‍<br />  
+            Schedule a visit today to see how Rashed Mazumdar Technical Services LLC can assist with your home modification needs.
+          </p>
+
           </div>
         </div>
         <div class="footer-2-top-row grid">
           <div>
             <div id="w-node-_91438ee7-0d91-1ced-868b-a962491ca2df-9d3b08c6" class="container-small">
               <div>
-              <strong><span class="handyman-2"> Rashed Mazumdar Technical Services LLC</span></strong> specializes in the technical services industry, 
-                offering sustainable and innovative solutions for installation, fit-out projects, and the operation and maintenance of utility plants. We are committed to delivering
-                 functional, cost-effective systems tailored to our customers' needs. We currently provide maintenance services to a diverse range of clients in the 
-                 public and private sectors. Additionally, we manage property and facility operations for world-class building infrastructures across the United Arab Emirates.</div>
+              <strong><span class="handyman-2"> Rashed Mazumdar Technical Services LLC</span></strong><p> specializes in the technical services industry,  
+                providing innovative and sustainable solutions for installation, fit-out projects, and the operation and maintenance of utility systems.  
+                We are dedicated to delivering efficient, cost-effective solutions tailored to our clients' specific needs.  
+                Our team currently offers maintenance services to a wide range of clients across both public and private sectors.  
+                Additionally, we oversee property and facility management for world-class building infrastructures throughout the United Arab Emirates.  
+</p>
+</div>
             </div>
-            <div class="button-wrapper grid _6">
-              <a id="w-node-ae8bed50-d87c-8c8d-360f-a0d358aa7a61-9d3b08c6" href="#" target="_blank" class="social-button w-inline-block">
+            <div class="button-wrapper grid _6"><a id="w-node-ae8bed50-d87c-8c8d-360f-a0d358aa7a61-9d3b08c6" href="#"
+                target="_blank" class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"
                     class="iconify iconify--simple-icons" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
@@ -131,13 +136,13 @@
               <div>
                 <span class="handyman-2"></span>
 
-                <span><strong>📞 Phone:</strong></span><a href="971505936597"> +971 50 593 6597 </a> <br></br>
-                <span><strong>📲 WhatsApp:</strong></span> <a href="https://wa.me/971555199753" target="_blank">+971 55 519 9753 </a> <br></br>
+                <span><strong>📞 Phone:</strong></span><a href="971555199753"> +971 55 519 9753 </a> <br></br>
+                <span><strong>📲 WhatsApp:</strong></span> <a href="https://wa.me/971505936597" target="_blank">+971 50 593 6597 </a> <br></br>
                 <span><strong>📧 Email:</strong></span> <a href="info@rashedmts.ae"> info@rashedmts.ae </a> <br></br>
                 <span><strong>🌐 Website:</strong></span> <a href="https://www.rashedmts.ae" target="_blank">rashedmts.ae </a> <br></br>
-                <span><strong>📍 Office Address:</strong></span> Dubai Investment Park First, Office# 04, Dubai, UAE. <br></br>
+                <span><strong>📍 Office Address:</strong></span> Dubai Investment Park First, Office#04, Dubai, UAE. <br></br>
                 <span><strong>⏰ Office Hours:</strong></span> Monday - Saturday: 9:00 AM - 6:00 PM <br></br>
-                <span><strong>📩 Send Your Inquiry: </strong></span>  <a href="#" target="_blank">Click Here </a>
+                <span><strong>📩 Send Your Inquiry: </strong></span>  <a href="contact-us.php" target="_blank">Click Here </a>
                 
                 
 
@@ -157,7 +162,7 @@
         </div>
         
         <div class="footer-bottom-row second">
-          <div><a href="index.php" aria-current="page" class="w--current"><span class="handyman">Rashed Mazumdar Technical Services LLC</span></a>
+          <div><a href="index.php" aria-current="page" class="w--current"><span class="handyman">Rashed MTS Technical Services LLC</span></a>
              © 2025 All rights reserved. | <a href="privacy-policy.php">Privacy Policy</a> | <a href="terms-of-service.php">Terms of Service</a>
             </div>
           
@@ -186,18 +191,19 @@
     crossorigin="anonymous"></script>
   <script src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/js/handypro.1b2f4fff.cec9473d751b51ef.js"
     type="text/javascript"></script><!--Start of Tawk.to Script-->
-  <script type="text/javascript">
-    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-    (function () {
-      var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-      s1.async = true;
-      s1.src = 'https://embed.tawk.to/5ec6a942c75cbf1769ee22d1/1e9b4r8h8';
-      s1.charset = 'UTF-8';
-      s1.setAttribute('crossorigin', '*');
-      s0.parentNode.insertBefore(s1, s0);
-    })();
-  </script>
-  <!--End of Tawk.to Script-->
+  <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/67b5e5d1c756b2190a98393b/1ikf8jfe9';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMHJV9MF" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>

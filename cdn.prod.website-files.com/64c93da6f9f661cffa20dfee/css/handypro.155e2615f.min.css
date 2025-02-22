@@ -2170,7 +2170,7 @@ textarea.w-select {
 :root {
   --gray-1: #2c2d36;
   --midnight-blue: #1d2c38;
-  --primary-1: #785f25;
+  --primary-1: #856013;
   --medium-buffer: 3rem;
   --white: white;
   --small-buffer: 1rem;
@@ -3281,7 +3281,7 @@ figcaption {
   border: 2px solid var(--primary-1);
   color: var(--white);
   text-align: center;
-  background-color: #8c6a24 !important;
+  background-color: #856013 !important;
   border-radius: 5px;
   padding: 16px 24px;
   font-weight: 700;
@@ -3976,7 +3976,8 @@ figcaption {
 .container-small {
   direction: ltr;
   width: 100%;
-  max-width: 400px
+  max-width: 360px;
+  text-align: justify
 }
 
 .container-small.align-center {
@@ -4851,7 +4852,7 @@ figcaption {
 }
 
 .footer-2-top-row.grid {
-  grid-column-gap: 60px;
+  grid-column-gap: 22px;
   grid-row-gap: 16px;
   grid-template-rows: auto;
   grid-template-columns: auto 1fr;
@@ -4873,7 +4874,7 @@ figcaption {
 .container-large {
   direction: ltr;
   width: 100%;
-  max-width: 800px
+  max-width: 1000px
 }
 
 .container-large.align-center {
@@ -4987,7 +4988,7 @@ figcaption {
 }
 
 .footer-2-menus-grid {
-  grid-column-gap: 40px;
+  grid-column-gap: 8px;
   grid-row-gap: 24px;
   grid-template-rows: auto;
   grid-template-columns: 1fr 1fr 1.5fr
@@ -9257,7 +9258,7 @@ figcaption {
 }
 
 .project-image {
-  background-image: url(https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbcbee86a027d63b84730a_architecture-beautiful-exterior-106399.webp);
+  
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;

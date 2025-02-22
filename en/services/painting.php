@@ -42,7 +42,7 @@ include 'services-header.php';
                 name="How-Can-We-Help-You-2" data-name="How Can We Help You 2"
                 class="form-input-unstyled w-input"></textarea></div><input type="submit" data-wait="Please wait..."
               class="button w-button" value="Submit Form" />
-            <div class="text-small">We don’t share your data.  <a href="../privacy-policy.html">View Privacy Policy</a>
+            <div class="text-small">We don’t share your data.  <a href="../privacy-policy.php">View Privacy Policy</a>
             </div>
           </form>
           <div class="form-success w-form-done">
@@ -61,34 +61,21 @@ include 'services-header.php';
             <div class="home-modification-handyman-services left">Services</div>
             <h1 class="display-heading-2">Painting</h1>
             <div class="service-rich-text w-richtext">
-              <h2><strong>Simply Transform Your Home with a Fresh Coat</strong></h2>
-              <p>A fresh coat of paint can transform the look and feel of your space, yet the painting process can be
-                tedious, time-consuming, and sometimes overwhelming. If you have a painting project on your plate, why
-                not let the professionals handle it? HandyPro offers exterior and interior painting services for homes
-                of all sizes. Whether you have one room or several, you can count on our Certified Craftsmen to deliver
-                seamless, exceptional results that you will want to take the credit for!</p>
-              <p>If your walls are looking a little tired or the paint is starting to chip or peel, it’s time to
-                consider a fresh coat. You’d be surprised by the difference a simple paint job can make on the interior
-                or exterior of your home! Our team has extensive experience and can assist you with choosing the best
-                color and finish for your space. And we don’t stop there. HandyPro also offers deck and fence painting
-                or staining to make sure your entire property always looks its best. And all of these services are
-                backed by our HandyPro Delightment Guarantee.</p>
+            <h2><strong>Simply Transform Your Home with a Fresh Coat</strong></h2>
+              <p>A fresh coat of paint can transform the look and feel of your space, yet the painting process can be tedious, time-consuming, and sometimes overwhelming. If you have a painting project on your plate, why not let the professionals handle it? Purple Bricks offers exterior and interior painting services for homes of all sizes. Whether you have one room or several, you can count on our Certified Craftsmen to deliver seamless, exceptional results that you will want to take the credit for!</p>
+              <p>If your walls are looking a little tired or the paint is starting to chip or peel, it’s time to consider a fresh coat. You’d be surprised by the difference a simple paint job can make on the interior or exterior of your home! Our team has extensive experience and can assist you with choosing the best color and finish for your space. And we don’t stop there. Purple Bricks also offers deck and fence painting or staining to make sure your entire property always looks its best. And all of these services are backed by our Purple Bricks Delightment Guarantee.</p>
               <h3><strong>Skip the DIY</strong></h3>
-              <p>Many homeowners treat painting as a do-it-yourself project, yet HandyPro recommends leaving this task
-                to the professionals. Though it may look easy, painting requires much more than just rolling or brushing
-                paint onto walls. To ensure the results are sharp and smooth, you must adhere to a detailed painting
-                process and use quality tools. Cutting corners and using poor-quality products could lead to a
-                less-than-impressive finished product. Our interior painting team has helped countless homeowners and
-                knows what it takes to get the job done right!</p>
+              <p>Many homeowners treat painting as a do-it-yourself project, yet Purple Bricks recommends leaving this task to the professionals. Though it may look easy, painting requires much more than just rolling or brushing paint onto walls. To ensure the results are sharp and smooth, you must adhere to a detailed painting process and use quality tools. Cutting corners and using poor-quality products could lead to a less-than-impressive finished product. Our interior painting team has helped countless homeowners and knows what it takes to get the job done right!</p>
               <p>‍</p>
-            </div>
+              </div>
             <div class="separator-div">
               <div class="service-rich-text w-richtext">
-                <p><strong>Turn to HandyPro for interior painting services, exterior painting projects, and more. Reach
-                    out to us today at </strong><a href="tel:(248)780-8950"><strong>(248)
-                      780-8950</strong></a><strong>.</strong></p>
-              </div>
+              <p>
+                <strong>Turn to Purple Bricks for interior painting services, exterior painting projects, and more. Reach out to us today at </strong>
+                <a href="tel:+97143373565"><strong>+971 4 337 3565</strong></a><strong>.</strong></p>
+
             </div>
+            
             <div class="separator-div bottom w-condition-invisible">
               <div class="w-dyn-bind-empty w-video w-embed"></div>
             </div>
@@ -98,7 +85,7 @@ include 'services-header.php';
               src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/66b3c247238957269a7cd48b_669ea0b552dfb11c12ed8898_64c95588e6396fb7755db440-painting-2-hour1.2106251439259-330x400.jpg"
               class="rounded shadow-large bottom-margin" />
             <div class="separator-div">
-              <div class="button-wrapper"><a data-w-id="c07be486-b107-66b0-5a0f-4228d99045e9" href="../contact-us.html"
+              <div class="button-wrapper"><a data-w-id="c07be486-b107-66b0-5a0f-4228d99045e9" href="../contact-us.php"
                   class="button w-button">Contact Us</a></div>
             </div>
           </div>
@@ -110,31 +97,32 @@ include 'services-header.php';
         <div class="w-dyn-list">
           <div role="list" class="portrait-links-grid w-dyn-items">
             <div role="listitem" class="w-dyn-item">
-              <div class="portrait-link-box"><img alt=""
-                  src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95588e6396fb7755db440_painting-2-hour%5b1%5d.2106251439259.jpg"
+              <div class="portrait-link-box">
+                <img alt=""  src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95588e6396fb7755db440_painting-2-hour%5b1%5d.2106251439259.jpg"
                   class="image" />
                 <div class="boxed portrait-link-box-content">
-                  <h3 class="portrait-link-box-heading">2-Hour Painting</h3><a
-                    href="https://book.handypro.com/paintingdrywall/2hrpainting?sid=1619799557&amp;sid=1619799557"
+                  <h3 class="portrait-link-box-heading">2-Hour Painting</h3>
+                  <a href="#"
                     class="w-inline-block">
                     <div>Book 2-Hour Painting</div>
-                  </a><a href="../on-demand-services/2-hour-painting.html" class="w-inline-block w-condition-invisible">
+                  </a>
+                  <a href="../on-demand-services/2-hour-painting.php" class="w-inline-block w-condition-invisible">
                     <div>Book 2-Hour Painting</div>
                   </a>
                 </div>
               </div>
             </div>
             <div role="listitem" class="w-dyn-item">
-              <div class="portrait-link-box"><img alt=""
-                  src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95589e6396fb7755db4f6_painting-exterior-door.2106251441117.jpg"
+              <div class="portrait-link-box">
+                <img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95589e6396fb7755db4f6_painting-exterior-door.2106251441117.jpg"
                   class="image" />
                 <div class="boxed portrait-link-box-content">
-                  <h3 class="portrait-link-box-heading">Exterior Painting</h3><a
-                    href="https://book.handypro.com/paintingdrywall/exteriorpainting?sid=1619799557&amp;sid=1619799557"
+                  <h3 class="portrait-link-box-heading">Exterior Painting</h3>
+                  <a href="#"
                     class="w-inline-block">
                     <div>Book Exterior Door Painting</div>
-                  </a><a href="../on-demand-services/exterior-painting.html"
-                    class="w-inline-block w-condition-invisible">
+                  </a>
+                  <a href="../on-demand-services/exterior-painting.php" class="w-inline-block w-condition-invisible">
                     <div>Book Exterior Door Painting</div>
                   </a>
                 </div>
@@ -143,51 +131,44 @@ include 'services-header.php';
           </div>
         </div>
         <div class="button-wrapper center top-margin"><a
-            href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557" target="_blank"
+            href="#" target="_blank"
             class="button w-inline-block">
             <div>Book Additional Services</div>
-          </a></div>
+          </a>
+        </div>
       </div>
     </div>
     <div class="section bg-gray-4">
       <div class="w-layout-grid grid-halves fullwidth-grid-halves reverse-direction">
         <div class="container align-center">
           <div class="service-rich-text w-richtext">
-            <h2><strong>Leave Your To-Do List to Us</strong></h2>
-            <p>Painting is most likely not the only chore on your to-do list. If you have other repairs or projects that
-              require attention, HandyPro can handle those as well. Our interior painters are multi-talented and can
-              assist you with a variety of other tasks. Sometimes we can even knock out a few services in the same
-              visit!</p>
-            <p>Some of our other handyman services include:</p>
-            <ul role="list">
-              <li>Drywall repair</li>
-              <li>Carpentry</li>
-              <li>Minor plumbing repairs</li>
-              <li>Electrical and lighting</li>
-              <li>Furniture assembly</li>
-            </ul>
-            <p>Need a TV mounted? Are your gutters overflowing? There are so many small problems and projects that can
-              arise on your property, and our Certified Craftsmen are ready to tackle many of them. If you own or manage
-              a business and could use a helping hand, we offer commercial services as well.</p>
-            <p>HandyPro has more than 25 years of industry experience and is dedicated to making life a little bit
-              easier for our customers. Book one service or several with our team today!</p>
-          </div>
-          <div class="service-rich-text w-richtext">
-            <p><strong>We are homeowners ourselves and understand how stressful and time-consuming home projects can be.
-                With the HandyPro team, you can rest assured that a trusted solution is always just a </strong><a
-                href="tel:(248)780-8950"><strong>call</strong></a><strong> or </strong><a
-                href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557"
-                target="_blank"><strong>click</strong></a><strong> away.</strong></p>
-          </div>
-        </div>
-        <div id="w-node-b7005c84-7de9-9f18-2ae2-2376c033a8b9-87d0e337" class="container-large"><img
-            src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/65087b355cd73a167a0eaccc_RLD_D3_0756.CR2.p copy.webp"
-            sizes="(max-width: 479px) 95vw, (max-width: 767px) 89vw, (max-width: 991px) 96vw, 507.546875px"
-            srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/65087b355cd73a167a0eaccc_RLD_D3_0756.CR2.p%20copy-p-500.webp 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/65087b355cd73a167a0eaccc_RLD_D3_0756.CR2.p%20copy.webp 657w"
-            alt="Commercial Handyman Services
-" class="rounded-right-large shadow-large" /></div>
-      </div>
+          <h2>
+            <strong>Leave Your To-Do List to Us</strong></h2>
+                <p>Painting is most likely not the only chore on your to-do list. If you have other repairs or projects that require attention, Purple Bricks can handle those as well. Our interior painters are multi-talented and can assist you with a variety of other tasks. Sometimes we can even knock out a few services in the same visit!</p>
+                <p>Some of our other handyman services include:</p>
+                <ul role="list">
+                <li>Drywall repair</li>
+                <li>Carpentry</li>
+                <li>Minor plumbing repairs</li>
+                <li>Electrical and lighting</li>
+                <li>Furniture assembly</li>
+                </ul>
+                <p>Need a TV mounted? Are your gutters overflowing? There are so many small problems and projects that can arise on your property, and our Certified Craftsmen are ready to tackle many of them. If you own or manage a business and could use a helping hand, we offer commercial services as well.</p>
+                <p>Purple Bricks has more than 25 years of industry experience and is dedicated to making life a little bit easier for our customers. Book one service or several with our team today!</p>
+            </div>
+            <div class="service-rich-text w-richtext">
+              <p>
+                <strong>We are homeowners ourselves and understand how stressful and time-consuming home projects can be. With the Purple Bricks team, you can rest assured that a trusted solution is always just a </strong><a href="tel:+97143373565"><strong>call</strong></a><strong> or </strong>
+              <a href="#" target="_blank"><strong>click</strong></a><strong> away.</strong></p>
+            </div>
+         </div>
+
+        <div id="w-node-b7005c84-7de9-9f18-2ae2-2376c033a8b9-87d0e337" class="container-large">
+          <img  src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/painting2.jpg" sizes="(max-width: 479px) 95vw, (max-width: 767px) 89vw, (max-width: 991px) 96vw, 507.546875px"
+            srcset="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/painting2.jpg 500w, ../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/painting2.jpg 657w"  alt="Commercial Handyman Services" class="rounded-right-large shadow-large" />
     </div>
+  </div>
+</div>
     <?php
     include 'footer.php';
     ?>

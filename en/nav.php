@@ -1,12 +1,12 @@
 <div class="navbar-container sticky-top bg-white">
     <div class="main-container right">
-      <a data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3c" href="tel:+971505936597"  class="grid-button w-inline-block">
+      <a data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3c" href="tel:971505936597"  class="grid-button w-inline-block">
         <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3d-5da6ec3b" data-is-ix2-target="1" class="lottie-icon"
           data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3d" data-animation-type="lottie"
           data-src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64d67a4520567bb2db7aeeab_lottieflow-chat-17-6-f95603-easey.json"
           data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg"
           data-default-duration="1.4666666666666666" data-duration="0" data-ix2-initial-state="0"></div>
-        <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3e-5da6ec3b" class="phone-number-text">+971-50 593 6597  | info@rashedmts.ae</div>
+        <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3e-5da6ec3b" class="phone-number-text">+971 50 593 6597 | info@rashedmts.ae</div>
       </a>
     </div>
     <div class="main-container">
@@ -34,7 +34,7 @@
                     <div class="service-wrapper mob-only w-dyn-list">
                       <div role="list" class="navigation-link-wrapper mob-only w-dyn-items">
                         <div role="listitem" class="w-dyn-item">
-                          <a href="service-categories/handyman-services.php"  class="navigation-link-l w-inline-block">
+                          <a href="services/handyman-services.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🏗️ Maintenance & Renovation Services</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -44,7 +44,7 @@
                           </a>
                         </div>
                         <div role="listitem" class="w-dyn-item">
-                          <a href="service-categories/home-modification.php"  class="navigation-link-l w-inline-block">
+                          <a href="services/home-modification.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🔧 Mechanical, Electrical & Plumbing (MEP)</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -54,7 +54,7 @@
                           </a>
                         </div>
                         <div role="listitem" class="w-dyn-item">
-                          <a href="service-categories/commercial-services.php"  class="navigation-link-l w-inline-block">
+                          <a href="services/commercial-services.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🏊‍♂️ Specialized Maintenance & Cleaning Services</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -131,20 +131,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="w-dyn-list">
-                            <div role="list" class="w-dyn-items">
-                              <div role="listitem" class="w-dyn-item">
-                                <div class="navigation-cta-wrapper">
-                                  <div>
-                                    <div class="subheading-large"><span>
-                                      <strong>🏗️ Home Maintenance & Renovation Services</strong></span></div>
-                                    <p class="paragraph-small">Your Trusted Home Repair &amp; Maintenance Specialist</p>
-                                  </div>
-                                  <a href="service-categories/handyman-services.php" class="button w-button">View All Maintenance Services</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                         <div data-w-tab="Home Modifications" class="w-tab-pane">
                           <div class="separator-div bottom menu">
@@ -169,7 +156,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="w-dyn-list">
+                          <!-- <div class="w-dyn-list">
                             <div role="list" class="w-dyn-items">
                               <div role="listitem" class="w-dyn-item">
                                 <div class="navigation-cta-wrapper">
@@ -178,12 +165,12 @@
                                       <span><strong>MEP Services</strong></span>
                                     </div>
                                     <p class="paragraph-small">DDA-Compliant Maintenance Solutions Fit to Your Needs </p>
-                                  </div><a href="service-categories/home-modification.php" class="button w-button">View
+                                  </div><a href="services/home-modification.php" class="button w-button">View
                                     <span><strong>Home Modifications</strong></span> Services</a>
                                 </div>
                               </div>
                             </div>
-                          </div>
+                          </div> -->
                         </div>
                         <div data-w-tab="Commercial Services" class="w-tab-pane">
                           <div class="separator-div bottom menu">
@@ -203,7 +190,7 @@
                               
                             </div>
                           </div>
-                          <div class="w-dyn-list">
+                          <!-- <div class="w-dyn-list">
                             <div role="list" class="w-dyn-items">
                               <div role="listitem" class="w-dyn-item">
                                 <div class="navigation-cta-wrapper">
@@ -214,11 +201,11 @@
                                   
                                     <p class="paragraph-small">A Partner in Keeping Your Business Running</p>
                                   </div>
-                                  <a href="service-categories/commercial-services.php" class="button w-button">View <span>Commercial</span> Services</a>
+                                  <a href="services/commercial-services.php" class="button w-button">View <span>Commercial</span> Services</a>
                                 </div>
                               </div>
                             </div>
-                          </div>
+                          </div> -->
                         </div>
                       </div>
                     </div>
@@ -233,16 +220,16 @@
                 <nav class="dropdown-list w-dropdown-list">
                   <div class="w-layout-grid dropdown-grid">
                     <a href="our-story.php" class="dropdown-link w-dropdown-link">Our Story</a>
-                    <a href="our-story/become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
+                    <a href="become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
                     
                    
-                    <a href="our-story/faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
-                    <a href="our-story/project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
-                    <a href="our-story/in-the-news.php"  class="dropdown-link hide w-dropdown-link">Meet The Team</a>
-                    <a href="our-story/in-the-news.php"  class="dropdown-link w-dropdown-link">In The News</a>
-                    <a href="our-story/video-center.php"  class="dropdown-link w-dropdown-link">Video Center</a>
-                    <a href="our-story/blog.php"  class="dropdown-link w-dropdown-link">Blog</a>
-                    <a href="our-story/special-offers.php"  class="dropdown-link w-dropdown-link">Special Offers</a>
+                    <a href="faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
+                    <a href="project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
+                    <a href="in-the-news.php"  class="dropdown-link hide w-dropdown-link">Meet The Team</a>
+                    
+                    
+                    <a href="blog.php"  class="dropdown-link w-dropdown-link">Blog</a>
+                    <a href="special-offers.php"  class="dropdown-link w-dropdown-link">Special Offers</a>
                   </div>
                 </nav>
               </div>
@@ -266,9 +253,7 @@
                               loading="lazy" sizes="100vw"
                               srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-500.webp 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-800.webp 800w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-1080.webp 1080w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-1600.webp 1600w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%20Copy%202%20(1).webp 2000w"
                               alt="Pioneer E-Boost Blog" class="navigation-card-image" />
-                            <div class="b-navigation-card-title-wrapper">
-                              <div class="h5-heading">In The News</div>
-                            </div>
+                            
                           </div>
                         </a><a href="#" class="navigation-video-block w-inline-block">
                           <div id="w-node-bb1b843b-4cd9-ccff-cad7-c08d0cb9f618-9d0a7cb6" class="navigation-video-card">
@@ -291,13 +276,13 @@
                         <div class="w-layout-grid dropdown-grid">
                           <div class="dropdown-grid-column">
                             <a href="our-story.php"  class="dropdown-link w-dropdown-link">Our Story</a>
-                            <a  href="our-story/become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
-                            <a  href="our-story/faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
-                            <a  href="our-story/project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
+                            <a  href="become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
+                            <a  href="faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
+                            <a  href="project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
                           </div>
                           <div class="dropdown-grid-column">
                             <a href="#" class="dropdown-link w-dropdown-link">In The  News</a>
-                            <a href="our-story/video-center.php" class="dropdown-link w-dropdown-link">Video  Center</a>
+                            
                             <a href="#" class="dropdown-link w-dropdown-link">Blog</a>
                             <a href="#"  class="dropdown-link w-dropdown-link">Special Offers</a>
                             
@@ -316,8 +301,8 @@
                   </div>
                 </nav>
               </div>
-              <a href="locations.php" class="nav-link w-nav-link">Locations</a>
-              <a href="financing.php"  class="nav-link w-nav-link">Financing</a>
+              <!-- <a href="locations.php" class="nav-link w-nav-link">Locations</a>
+              <a href="financing.php"  class="nav-link w-nav-link">Financing</a> -->
               <a href="contact-us.php" class="nav-link w-nav-link">Contact Us</a>
               <div class="navbar-functions">
                 <a href="contact-us.php"  target="_blank" class="button nav w-inline-block">
