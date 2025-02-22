@@ -40,7 +40,7 @@
             <div> Book Now</div>
           </a>
         </div><a href="#Guarantee" class="badge hero w-inline-block"><img
-            src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/GURANTEE.svg"
+            src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/GURANTEE (1).svg"
             loading="lazy" alt="1 year guarantee Rashed Mazumdar Technical Services" class="guarantee-badge" /></a>
         <div class="bg-overlay"></div><img
           src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c95ea7a08ca890cde6001e_mainstage-img.2109231317026.webp"
