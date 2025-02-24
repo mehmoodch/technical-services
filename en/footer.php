@@ -1,7 +1,7 @@
 <footer id="Page-Footer" class="footer-2">
       <div class="main-container">
         <div class="footer-1-top-row bottom-margin">
-          <a href="index.php" aria-current="page"  class="footer-2-logo w-inline-block w--current">
+          <a href="index.php" aria-current="page"  class="footer-2-logo w-inline-block w--current"> 
             <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts.jpeg" alt="Handyman Services by Rashed MTS" /></a>
             <a href="#" target="_blank"  class="button w-inline-block">
             <div>Book Now</div>
@@ -97,18 +97,18 @@
               <div class="w-layout-grid footer-2-menus-grid">
                 <div id="w-node-_1b05cfd5-a7aa-77bf-6a08-b2e99d3b08d1-9d3b08c6">
                   <h2 class="footer-menu-heading">Services</h2>
-                  <div class="w-layout-grid menu-grid-vertical"><a
-                      href="local-service/farmington-hills-tv-mounting-installation.php" class="hover-link"> False Ceiling & Light Partition Installation</a>
-                      <a href="services/drywall-repair.php" class="hover-link"> Painting Contracting</a>
-                      <a href="services/home-modification.php" class="hover-link"> Plaster Works</a>
-                      <a href="services/handyman-services.php" class="hover-link">Carpentry</a>
-                      <a href="services/furniture-assembly.php" class="hover-link"> Floor & Wall Tiling Work</a>
-                      <a href="service-categories/commercial-services.php" class="hover-link"> Electrical lighting & Fixtures Services</a>
-                      <a href="services/painting.php" class="hover-link"> Exterior Painting & Coating</a>
-                      <a href="services/painting.php" class="hover-link"> Mechanical, Electrical & Plumbing (MEP)</a>
-                      <a href="services/painting.php" class="hover-link"> Plumbing and Sanitary Contracting</a>
-                      <a href="services/painting.php" class="hover-link"> Electrical Fitting & Fixtures Services</a>
-                      <a id="w-node-_91cb5c43-b131-cc34-f372-8c2097e87bfb-9d3b08c6" href="services/electrical-lighting.php" class="hover-link"> Solar Panel Installation & Maintenance</a>
+                  <div class="w-layout-grid menu-grid-vertical">
+                      <a href="services/false-ceiling.php" class="hover-link"> False Ceiling & Light Partition Installation</a>
+                      <a href="services/painting.php" class="hover-link"> Painting Contracting</a>
+                      <a href="services/plaster-work.php" class="hover-link"> Plaster Works</a>
+                      <a href="services/carpentry.php" class="hover-link">Carpentry</a>
+                      <a href="services/tiling.php" class="hover-link"> Floor & Wall Tiling Work</a>
+                      <a href="services/hvac.php" class="hover-link"> AC, Ventilation & Air Filtration Services</a>
+                      <a href="services/swimming-pool.php" class="hover-link"> Swimming Pool Installation </a>
+                      <a href="services/tank-cleaning.php" class="hover-link"> Tanks & Container Cleaning</a>
+                      <a href="services/plumbing-fixtures.php" class="hover-link"> Plumbing and Sanitary Contracting</a>
+                      <a href="services/cleaning.php" class="hover-link"> Other Cleaning Services</a>
+                      <a id="w-node-_91cb5c43-b131-cc34-f372-8c2097e87bfb-9d3b08c6" href="services/solar-panel.php" class="hover-link"> Solar Panel Installation & Maintenance</a>
                   </div>
                 </div>
                 <div>
@@ -162,37 +162,37 @@
         </div>
         
         <div class="footer-bottom-row second">
-          <div><a href="index.php" aria-current="page" class="w--current"><span class="handyman">Rashed MTS Technical Services LLC</span></a>
+          <div>
+            <a href="index.php" aria-current="page" class="w--current"><span class="handyman">Rashed MTS Technical Services LLC</span></a>
              © 2025 All rights reserved. | <a href="privacy-policy.php">Privacy Policy</a> | <a href="terms-of-service.php">Terms of Service</a>
             </div>
-          
         </div>
       </div>
     </footer>
     <div class="alert-bar">
       <div class="alert-bar-text">Here&#x27;s a dismissible notice for cookies notices etc.</div>
-      <div class="alert-bar-dismiss"><a href="#" class="button bg-gray-3 button-small w-inline-block">
+      <div class="alert-bar-dismiss">
+        <a href="#" class="button bg-gray-3 button-small w-inline-block">
           <div>Dismiss</div>
-        </a></div>
+        </a>
+      </div>
     </div>
-    <div class="search-modal"><img
-        src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt=""
-        class="search-modal-cross" />
+    <div class="search-modal">
+      <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt="" class="search-modal-cross" />
       <div class="container-large">
         <h4 class="large-heading">Search</h4>
-        <form action="https://rashedmts.ae/en/search" class="form-horizontal w-form"><input class="form-input w-input"
-            maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input
-            type="submit" class="button form-horizontal-button w-button" value="Search" /></form>
+        <form action="https://rashedmts.ae/en/search" class="form-horizontal w-form">
+          <input class="form-input w-input"  maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" />
+          <input type="submit" class="button form-horizontal-button w-button" value="Search" />
+        </form>
       </div>
     </div>
   </div>
-  <script src="../d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c89101.js?site=64c93da6f9f661cffa20dfee"
-    type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
-    crossorigin="anonymous"></script>
-  <script src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/js/handypro.1b2f4fff.cec9473d751b51ef.js"
-    type="text/javascript"></script><!--Start of Tawk.to Script-->
+  <script src="../d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c89101.js?site=64c93da6f9f661cffa20dfee" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
+  </script>  
+  <script src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/js/handypro.1b2f4fff.cec9473d751b51ef.js" type="text/javascript"></script><!--Start of Tawk.to Script-->
   <!--Start of Tawk.to Script-->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -202,11 +202,14 @@ s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
-</script>
+</script> -->
 <!--End of Tawk.to Script-->
   <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMHJV9MF" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMHJV9MF" height="0" width="0"
+      style="display:none;visibility:hidden">
+    </iframe>
+  </noscript> -->
   <!-- End Google Tag Manager (noscript) -->
 </body>
 </html>

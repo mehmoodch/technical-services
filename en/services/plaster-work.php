@@ -57,7 +57,7 @@ include 'services-header.php';
 							<h2>Fast, Professional &amp; Affordable Solutions</h2>
 							<p>We've all been there before: You notice cracks or damages on your walls and decide to try fixing them yourself. 
 								Half a day later, you're still working on it and are no longer in the greatest of moods. Whether it's a small patch-up job or a 
-								complete wall resurfacing, plaster work can often be time-consuming and challenging. Purple Bricks is here to help. 
+								complete wall resurfacing, plaster work can often be time-consuming and challenging. Rashed Mazumdar is here to help. 
 								We are a professional handyman service that can assist you with all your plastering needs. Stop struggling with messy materials 
 								and uneven surfaces—sit back and relax while our Certified Craftsmen handle the job for you.</p>
 							<p>
@@ -75,13 +75,13 @@ include 'services-header.php';
 							<p>
 								<a href="../handyman-services/plaster-work/index.php#OnDemand">
 									<strong>Select an On-Demand Service to Book Online Now!</strong></a></p>
-							<p>Have another plastering need? Reach out to Purple Bricks! We have experience handling a wide variety of plaster work 
+							<p>Have another plastering need? Reach out to Rashed Mazumdar! We have experience handling a wide variety of plaster work 
 								and would love to assist you if we can.</p>
 							</div>
 							<div class="separator-div">
 							<div class="service-rich-text w-richtext">
 							<p><a target="_blank" href="#"><strong>Book now</strong></a>
-							<strong> or contact us at </strong><a href="tel:+97143373565"><strong>+971 4 337 3565</strong></a>
+							<strong> or contact us at </strong><a href="tel:971555199753"><strong>+971 55 519 9753</strong></a>
 							<strong> to learn more about our plaster work and other handyman services.</strong>
 						</p>
 							</div>
@@ -101,136 +101,7 @@ include 'services-header.php';
 				</div>
 			</div>
 		</div>
-		<!-- <div class="section no-top-padding">
-			<div class="main-container">
-				<div class="w-dyn-list">
-					<div role="list" class="portrait-links-grid w-dyn-items">
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95588a4ae16e72a18ce21_64c943668a60ceb743416c43_other-2-hour.2106251449471.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">2-Hour</h3><a href="#" class="w-inline-block">
-										<div>Book 2-Hour Service</div>
-									</a><a href="../on-demand-services/2-hour.php" class="w-inline-block w-condition-invisible">
-										<div>Book 2-Hour Service</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95588ec4f8b0ae5582ff6_other-4-hour.2106251449479.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">4-Hour</h3>
-									<a href="#" class="w-inline-block">
-										<div>Book 4-Hour Service</div>
-									</a><a href="../on-demand-services/4-hour.php" class="w-inline-block w-condition-invisible">
-										<div>Book 4-Hour Service</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95588d2a382a69e76d061_other-8-hour.2106251449488.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">8-Hour</h3>
-									<a href="#" class="w-inline-block">
-										<div>Book 8-Hour Service</div>
-									</a><a href="../on-demand-services/8-hour.php" class="w-inline-block w-condition-invisible">
-										<div>Book 8-Hour Service</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9537aa40d5b3815b1807b_furniture-2-hour.2106251449240.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">2-Hour Furniture Assembly</h3>
-									<a href="#" class="w-inline-block">
-										<div>Book 2-Hour Service</div>
-									</a><a href="../on-demand-services/2-hour-furniture-assembly.php" class="w-inline-block w-condition-invisible">
-										<div>Book 2-Hour Service</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558bd2a382a69e76d39f_furniture-bookcase.2106251449254.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Book Case</h3>
-									<a href="#" class="w-inline-block">
-										<div>Book Book Case Assembly</div>
-									</a><a href="../on-demand-services/book-case.php" class="w-inline-block w-condition-invisible">
-										<div>Book Book Case Assembly</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558bcc018afaae46147e_furniture-large-desk.2106251449186.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Large Desk</h3>
-									<a href="#" class="w-inline-block">
-										<div>Book Large Desk Assembly</div>
-									</a><a href="../on-demand-services/large-desk.php" class="w-inline-block w-condition-invisible">
-										<div>Book Large Desk Assembly</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558bd33964717d04cdf5_furniture-small-desk.2106251449234.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Small Desk</h3>
-									<a href="#" class="w-inline-block">
-										<div>Book Small Desk Assembly</div>
-									</a><a href="../on-demand-services/small-desk.php" class="w-inline-block w-condition-invisible">
-										<div>Book Small Desk Assembly</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558b322b8db19c1c6df3_furniture-dresser.2106251449269.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Dresser</h3>
-									<a href="#" class="w-inline-block">
-										<div>Book Dresser Assemblv</div>
-									</a><a href="../on-demand-services/dresser.php" class="w-inline-block w-condition-invisible">
-										<div>Book Dresser Assemblv</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558b9a2f5edd91986bdf_furniture-night-stand.2106251449195.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Night Stand</h3>
-									<a href="#" class="w-inline-block">
-										<div>Book Night Stand Assembly</div>
-									</a><a href="../on-demand-services/night-stand.php" class="w-inline-block w-condition-invisible">
-										<div>Book Night Stand Assembly</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558bcc018afaae4614d5_furniture-chest.2106251449262.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Chest</h3>
-									<a href="#" class="w-inline-block">
-										<div>Book Chest Assembly</div>
-									</a><a href="../on-demand-services/chest.php" class="w-inline-block w-condition-invisible">
-										<div>Book Chest Assembly</div>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="button-wrapper center top-margin"><a href="#" target="_blank" class="button w-inline-block">
-						<div>Book Additional Services</div>
-					</a></div>
-			</div>
-		</div> -->
+		
 		<div class="section bg-gray-4">
 			<div class="w-layout-grid grid-halves fullwidth-grid-halves reverse-direction">
 			<div class="container align-center">
@@ -245,8 +116,8 @@ include 'services-header.php';
 			<div class="service-rich-text w-richtext">
 			<p>
 				<a target="_blank" href="#"><strong>Schedule a service online</strong></a>
-			<strong> or give Purple Bricks a call today at </strong>
-			<a href="tel:+97143373565"><strong>+971 4 337 3565</strong></a>
+			<strong> or give Rashed Mazumdar a call today at </strong>
+			<a href="tel:971555199753"><strong>+971 55 519 9753</strong></a>
 			<strong>!</strong>
 			</p>
 			</div>

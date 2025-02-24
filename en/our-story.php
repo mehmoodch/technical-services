@@ -18,19 +18,19 @@
         <div class="w-layout-grid grid-halves">
             <div class="container align-center">
                 <div class="home-modification-handyman-services no-margin">
-                    <span class="text-span">Purple</span>Bricks<sup>®</sup>
+                    <span class="text-span">Rashed</span>MTS<sup>®</sup>
                     <span class="text-span"></span>
                 </div>
                 <h4 class="display-heading-2">Our Story</h4>
                 <div class="text-large">
                     <em>"</em><strong><em>We are a technical services company committed to excellence.</em></strong><em>
-                        Purple Bricks Technical Services was founded with the vision of delivering reliable and high-quality
+                        Rashed Mazumdar Technical Services was founded with the vision of delivering reliable and high-quality
                         electromechanical installation and maintenance solutions. We understand the importance of trust and 
                         integrity in our industry, which is why we partner with skilled professionals who share our values. 
                         Since our inception, we have been dedicated to providing exceptional services that make a difference.”</em>
                 </div>
                 <div class="home-modification-handyman-services top-margin medium dark">
-                    Purple Bricks Technical Services LLC
+                    Rashed Mazumdar Technical Services LLC
                 </div>
                 <div class="home-modification-handyman-services top-margin medium dark">
                     Contact: +971 4 337 3565
@@ -40,8 +40,8 @@
                 <div class="polaroid-image-container rotate-right shadow">
                     <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64f0e852f670cae40964780b_Screenshot_8.2110071137515.jpg" sizes="(max-width: 479px) 88vw, (max-width: 767px) 86vw, (max-width: 991px) 636.9044799804688px, (max-width: 1439px) 585.9521484375px, (max-width: 1919px) 41vw, 31vw"
                         srcset="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64f0e852f670cae40964780b_Screenshot_8.2110071137515.jpg 500w, ../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64f0e852f670cae40964780b_Screenshot_8.2110071137515.jpg 600w"
-                        alt="Purple Bricks Technical Services" class="rounded" />
-                    <div class="text-handwriting polaroid-text">Purple Bricks Technical Services LLC</div>
+                        alt="Rashed Mazumdar Technical Services" class="rounded" />
+                    <div class="text-handwriting polaroid-text">Rashed Mazumdar Technical Services LLC</div>
                 </div>
             </div>
         </div>
@@ -53,14 +53,14 @@
         <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/purpleb4.jpg"
             sizes="(max-width: 479px) 100vw, (max-width: 767px) 400px, (max-width: 991px) 612px, 50vw"
             srcset="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/purpleb4.jpg 500w, ../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/purpleb4.jpg 800w"
-            alt="Purple Bricks Technical Services" class="section-block-image _600" />
+            alt="Rashed Mazumdar Technical Services" class="section-block-image _600" />
     </div>
     <div class="section-block no-min">
         <div class="container align-center">
             <div class="section-title no-margin">
                 <div class="w-richtext">
                     <h3>Supporting Every Home and Business</h3>
-                    <p>At Purple Bricks Technical Services, we are dedicated to providing high-quality electromechanical 
+                    <p>At Rashed Mazumdar Technical Services, we are dedicated to providing high-quality electromechanical 
                         installation and maintenance solutions. Over the years, we have expanded our expertise to support 
                         residential and commercial clients with services ranging from HVAC installation to electrical and 
                         plumbing maintenance. We ensure that every service we provide is carried out with precision, 
@@ -79,7 +79,7 @@
                     <h3>We Understand Your Needs</h3>
                     <p>Owning and maintaining a property comes with its challenges. Whether it's electrical issues, 
                         plumbing repairs, or HVAC maintenance, we know how important it is to have a reliable technical 
-                        team by your side. At Purple Bricks, we are committed to providing tailored solutions that meet 
+                        team by your side. At Rashed Mazumdar, we are committed to providing tailored solutions that meet 
                         your specific needs. Our team of professionals ensures that every project is completed efficiently, 
                         minimizing disruptions to your home or business. Get in touch with us today for seamless, 
                         professional service.</p>
@@ -98,7 +98,7 @@
         <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/purpleb3.jpg"
             sizes="(max-width: 479px) 100vw, (max-width: 767px) 400px, (max-width: 991px) 612px, 50vw"
             srcset="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/purpleb3.jpg 500w, ../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/purpleb3.jpg 800w"
-            alt="Purple Bricks Technical Services" class="section-block-image _600" />
+            alt="Rashed Mazumdar Technical Services" class="section-block-image _600" />
     </div>
     <div class="section-block no-min">
         <div class="container align-center">
@@ -106,7 +106,7 @@
                 <div class="w-richtext">
                     <h3>Reliable Solutions for Your Property</h3>
                     <p>Your property is more than just a building – it's where you live, work, and create memories. 
-                        At Purple Bricks Technical Services, we understand that unexpected issues can arise at any time. 
+                        At Rashed Mazumdar Technical Services, we understand that unexpected issues can arise at any time. 
                         Whether it's electrical repairs, plumbing maintenance, or HVAC installation, our expert team 
                         is here to provide top-notch solutions tailored to your needs. We go beyond repairs – we ensure 
                         that your home and business remain in top condition with long-lasting, professional services.</p>
@@ -122,7 +122,7 @@
             <div class="justify-content-center">
                 <h2 class="display-heading-2">Unpredictable Problems, Reliable Solutions.</h2>
                 <div class="text-large">
-                    <strong>Technical issues shouldn't be a hassle. Contact Purple Bricks Technical Services today to 
+                    <strong>Technical issues shouldn't be a hassle. Contact Rashed Mazumdar Technical Services today to 
                     learn more about our professional maintenance and repair services. </strong>
                     <a target="_blank" href="contact-us.php"><strong>Get in touch with us</strong></a>
                     <strong> for expert solutions that keep your property running smoothly.</strong>
@@ -260,7 +260,7 @@
       <div id="w-node-_71197d91-3011-e2e0-211f-e00c0c06eb3a-c6f80685" class="container-small">
         <div class="img-wrapper-fade image-fit">
           <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/handymant001.jpg"
-            alt="Purple Bricks Handyman" class="w-embed" />
+            alt="Rashed Mazumdar Handyman" class="w-embed" />
         </div>
       </div>
     </div>
@@ -331,12 +331,12 @@
     <div class="main-container">
         <div class="w-layout-grid grid-halves">
             <div class="container align-center">
-                <div class="home-modification-handyman-services no-margin"><span class="text-span">Purple Bricks</span>
+                <div class="home-modification-handyman-services no-margin"><span class="text-span">Rashed Mazumdar</span>
                     <sup>®</sup> <span class="text-span"></span>
                 </div>
                 <h2 class="display-heading-2">Our  Approach to Quality Services</h2>
                 <div class="w-richtext">
-                    <p>Purple Bricks takes a detailed approach to our home modification services to ensure our clients’ unique
+                    <p>Rashed Mazumdar takes a detailed approach to our home modification services to ensure our clients’ unique
                         needs and budgets are always met. Our approach includes the following:</p>
                     <ul role="list">
                         <li><strong>Assess </strong>– Our services begin with an in-home assessment, where we’ll conduct a
@@ -361,12 +361,12 @@
     <div class="main-container">
         <div class="container-large align-center">
             <div class="quote-title text-center">
-                <h2 class="display-heading-2">The Purple Bricks Difference</h2>
+                <h2 class="display-heading-2">The Rashed Mazumdar Difference</h2>
             </div>
             <div class="container align-center">
                 <div class="w-richtext">
                     <p>You may have several choices for handyman services and home modification companies. So what makes
-                        Purple Bricks different from the rest, you ask? Well, for one, we are a family-owned and operated company with
+                        Rashed Mazumdar different from the rest, you ask? Well, for one, we are a family-owned and operated company with
                         more than 25 years of experience. We have a nationwide franchise network that is dedicated to always
                         delivering the best quality services, products, and workmanship.</p>
                     <p>We offer our clients:</p>
@@ -377,7 +377,7 @@
                         <li><strong>A reputation based on trust </strong>and Certified Craftsmen who offer a variety of skill
                             sets.</li>
                     </ul>
-                    <p>Purple Bricks delivers more than just a quick fix or temporary solution. We treat your home as we would want
+                    <p>Rashed Mazumdar delivers more than just a quick fix or temporary solution. We treat your home as we would want
                         ours to be treated and provide quality, lasting solutions that you can trust.</p>
                 </div>
             </div>

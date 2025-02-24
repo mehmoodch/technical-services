@@ -5,7 +5,7 @@
         <h3>
           <strong>Let Us Take Care of Your To-Do List</strong>
         </h3>
-        <p>There are always home improvement tasks that need attention, and finding different companies for each job can be time-consuming. At Purple Bricks, we offer a one-stop solution for all your maintenance and repair needs. With just a single call, our skilled professionals handle everything efficiently, saving you time and effort.</p>
+        <p>There are always home improvement tasks that need attention, and finding different companies for each job can be time-consuming. At Rashed Mazumdar Technical Services, we offer a one-stop solution for all your maintenance and repair needs. With just a single call, our skilled professionals handle everything efficiently, saving you time and effort.</p>
         <p>Our additional handyman services include:</p>
         <ul role="list">
           <li>Painting</li>
@@ -14,11 +14,12 @@
           <li>Electrical and lighting</li>
           <li>Furniture assembly</li>
         </ul>
-        <p>If you own a business, Purple Bricks also offers commercial handyman services. We are committed to helping you maintain your home or commercial space with reliable solutions and professional craftsmanship. Schedule a service online or call us at +971 43373565 to learn how we can assist you.</p>
+        <p>If you own a business, Rashed Mazumdar Technical Services also offers commercial handyman services. We are committed to helping you maintain your home or commercial space with reliable solutions and professional craftsmanship. Schedule a service online or call us at +971 43373565 to learn how we can assist you.</p>
       </div>
       <div class="service-rich-text w-richtext">
         <p>
-          <strong>Purple Bricks simplifies property maintenance. </strong><a target="_blank" href="../contact-us.php"><strong>Book a Service
+          <strong>Rashed Mazumdar Technical Services simplifies property maintenance. </strong>
+          <a target="_blank" href="../contact-us.php"><strong>Book a Service
               Now</strong></a><strong>!</strong>
         </p>
       </div>

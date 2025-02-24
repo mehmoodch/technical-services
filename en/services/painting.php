@@ -62,17 +62,17 @@ include 'services-header.php';
             <h1 class="display-heading-2">Painting</h1>
             <div class="service-rich-text w-richtext">
             <h2><strong>Simply Transform Your Home with a Fresh Coat</strong></h2>
-              <p>A fresh coat of paint can transform the look and feel of your space, yet the painting process can be tedious, time-consuming, and sometimes overwhelming. If you have a painting project on your plate, why not let the professionals handle it? Purple Bricks offers exterior and interior painting services for homes of all sizes. Whether you have one room or several, you can count on our Certified Craftsmen to deliver seamless, exceptional results that you will want to take the credit for!</p>
-              <p>If your walls are looking a little tired or the paint is starting to chip or peel, it’s time to consider a fresh coat. You’d be surprised by the difference a simple paint job can make on the interior or exterior of your home! Our team has extensive experience and can assist you with choosing the best color and finish for your space. And we don’t stop there. Purple Bricks also offers deck and fence painting or staining to make sure your entire property always looks its best. And all of these services are backed by our Purple Bricks Delightment Guarantee.</p>
+              <p>A fresh coat of paint can transform the look and feel of your space, yet the painting process can be tedious, time-consuming, and sometimes overwhelming. If you have a painting project on your plate, why not let the professionals handle it? Rashed Mazumdar offers exterior and interior painting services for homes of all sizes. Whether you have one room or several, you can count on our Certified Craftsmen to deliver seamless, exceptional results that you will want to take the credit for!</p>
+              <p>If your walls are looking a little tired or the paint is starting to chip or peel, it’s time to consider a fresh coat. You’d be surprised by the difference a simple paint job can make on the interior or exterior of your home! Our team has extensive experience and can assist you with choosing the best color and finish for your space. And we don’t stop there. Rashed Mazumdar also offers deck and fence painting or staining to make sure your entire property always looks its best. And all of these services are backed by our Rashed Mazumdar Delightment Guarantee.</p>
               <h3><strong>Skip the DIY</strong></h3>
-              <p>Many homeowners treat painting as a do-it-yourself project, yet Purple Bricks recommends leaving this task to the professionals. Though it may look easy, painting requires much more than just rolling or brushing paint onto walls. To ensure the results are sharp and smooth, you must adhere to a detailed painting process and use quality tools. Cutting corners and using poor-quality products could lead to a less-than-impressive finished product. Our interior painting team has helped countless homeowners and knows what it takes to get the job done right!</p>
+              <p>Many homeowners treat painting as a do-it-yourself project, yet Rashed Mazumdar recommends leaving this task to the professionals. Though it may look easy, painting requires much more than just rolling or brushing paint onto walls. To ensure the results are sharp and smooth, you must adhere to a detailed painting process and use quality tools. Cutting corners and using poor-quality products could lead to a less-than-impressive finished product. Our interior painting team has helped countless homeowners and knows what it takes to get the job done right!</p>
               <p>‍</p>
               </div>
             <div class="separator-div">
               <div class="service-rich-text w-richtext">
               <p>
-                <strong>Turn to Purple Bricks for interior painting services, exterior painting projects, and more. Reach out to us today at </strong>
-                <a href="tel:+97143373565"><strong>+971 4 337 3565</strong></a><strong>.</strong></p>
+                <strong>Turn to Rashed Mazumdar for interior painting services, exterior painting projects, and more. Reach out to us today at </strong>
+                <a href="tel:971555199753"><strong>+971 55 519 9753</strong></a><strong>.</strong></p>
 
             </div>
             
@@ -144,7 +144,7 @@ include 'services-header.php';
           <div class="service-rich-text w-richtext">
           <h2>
             <strong>Leave Your To-Do List to Us</strong></h2>
-                <p>Painting is most likely not the only chore on your to-do list. If you have other repairs or projects that require attention, Purple Bricks can handle those as well. Our interior painters are multi-talented and can assist you with a variety of other tasks. Sometimes we can even knock out a few services in the same visit!</p>
+                <p>Painting is most likely not the only chore on your to-do list. If you have other repairs or projects that require attention, Rashed Mazumdar can handle those as well. Our interior painters are multi-talented and can assist you with a variety of other tasks. Sometimes we can even knock out a few services in the same visit!</p>
                 <p>Some of our other handyman services include:</p>
                 <ul role="list">
                 <li>Drywall repair</li>
@@ -154,11 +154,11 @@ include 'services-header.php';
                 <li>Furniture assembly</li>
                 </ul>
                 <p>Need a TV mounted? Are your gutters overflowing? There are so many small problems and projects that can arise on your property, and our Certified Craftsmen are ready to tackle many of them. If you own or manage a business and could use a helping hand, we offer commercial services as well.</p>
-                <p>Purple Bricks has more than 25 years of industry experience and is dedicated to making life a little bit easier for our customers. Book one service or several with our team today!</p>
+                <p>Rashed Mazumdar has more than 25 years of industry experience and is dedicated to making life a little bit easier for our customers. Book one service or several with our team today!</p>
             </div>
             <div class="service-rich-text w-richtext">
               <p>
-                <strong>We are homeowners ourselves and understand how stressful and time-consuming home projects can be. With the Purple Bricks team, you can rest assured that a trusted solution is always just a </strong><a href="tel:+97143373565"><strong>call</strong></a><strong> or </strong>
+                <strong>We are homeowners ourselves and understand how stressful and time-consuming home projects can be. With the Rashed Mazumdar team, you can rest assured that a trusted solution is always just a </strong><a href="tel:+97143373565"><strong>call</strong></a><strong> or </strong>
               <a href="#" target="_blank"><strong>click</strong></a><strong> away.</strong></p>
             </div>
          </div>

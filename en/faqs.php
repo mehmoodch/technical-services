@@ -19,7 +19,7 @@ include'header.php';
       class="search-modal-cross" />
     <div class="container-large">
       <h4 class="large-heading">Search</h4>
-      <form action="https://www.purplebricks.ae/search" class="form-horizontal w-form"><input class="form-input w-input"
+      <form action="https://www.rashedmts.ae/search" class="form-horizontal w-form"><input class="form-input w-input"
           maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input
           type="submit" class="button form-horizontal-button w-button" value="Search" /></form>
     </div>
@@ -27,10 +27,10 @@ include'header.php';
   <div class="page-wrapper bg-gray-3">
     <header id="Page-Header" class="section bg-gray-3">
       <div class="main-container">
-        <div class="home-modification-handyman-services no-margin"><span class="text-span">Purple</span>Bricks<sup>®</sup>
+        <div class="home-modification-handyman-services no-margin"><span class="text-span">Rashed</span>MTS<sup>®</sup>
           <span class="text-span"></span></div>
-        <h1 class="display-heading-2">PurpleBricks FAQs</h1>
-        <div class="text-large">Read our frequently asked questions. PurpleBricks offers residential and commercial handyman
+        <h1 class="display-heading-2">RashedMTS FAQs</h1>
+        <div class="text-large">Read our frequently asked questions. RashedMTS offers residential and commercial handyman
           services as well as home modifications. </div>
       </div>
     </header>
@@ -97,7 +97,7 @@ include'header.php';
                     <nav class="faq-content-2 w-dropdown-list">
                         <div class="faq-content-wrapper">
                             <div class="faq w-richtext">
-                                <p>It’s entirely up to you. Many of our clients provide materials at their site, while others prefer that Purple Bricks Technical Services handles the procurement and delivery. We are flexible to accommodate your needs.</p>
+                                <p>It’s entirely up to you. Many of our clients provide materials at their site, while others prefer that Rashed Mazumdar Technical Services handles the procurement and delivery. We are flexible to accommodate your needs.</p>
                             </div>
                         </div>
                     </nav>
@@ -121,7 +121,7 @@ include'header.php';
                     <nav class="faq-content-2 w-dropdown-list">
                         <div class="faq-content-wrapper">
                             <div class="faq w-richtext">
-                                <p>We provide project-based pricing rather than hourly rates, ensuring transparency and clarity for our clients. Our team at Purple Bricks will visit your location, assess the scope of work, and provide a no-obligation estimate before proceeding.</p>
+                                <p>We provide project-based pricing rather than hourly rates, ensuring transparency and clarity for our clients. Our team at Rashed Mazumdar will visit your location, assess the scope of work, and provide a no-obligation estimate before proceeding.</p>
                             </div>
                         </div>
                     </nav>
@@ -145,7 +145,7 @@ include'header.php';
                     <nav class="faq-content-2 w-dropdown-list">
                         <div class="faq-content-wrapper">
                             <div class="faq w-richtext">
-                                <p>Yes, at Purple Bricks Technical Services, we stand by our work. We offer a one-year workmanship guarantee, ensuring our projects meet the highest standards. If any issues arise, we will resolve them at no additional cost.</p>
+                                <p>Yes, at Rashed Mazumdar Technical Services, we stand by our work. We offer a one-year workmanship guarantee, ensuring our projects meet the highest standards. If any issues arise, we will resolve them at no additional cost.</p>
                             </div>
                         </div>
                     </nav>
@@ -210,7 +210,7 @@ include'header.php';
                 <div data-delay="0" data-hover="false" class="faq-item-line w-dropdown">
                     <div class="faq-toggle w-dropdown-toggle">
                         <div class="faq-title-wrapper">
-                            <div class="paragraph-regular-bold">What kind of training and ongoing support does Purple Bricks provide?</div>
+                            <div class="paragraph-regular-bold">What kind of training and ongoing support does Rashed Mazumdar provide?</div>
                             <div class="badge bg-gray-2 shadow-small">
                                 <div class="faq-arrow w-embed">
                                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -234,7 +234,7 @@ include'header.php';
                 <div data-delay="0" data-hover="false" class="faq-item-line w-dropdown">
                     <div class="faq-toggle w-dropdown-toggle">
                         <div class="faq-title-wrapper">
-                            <div class="paragraph-regular-bold">Do I need prior experience in facility management to partner with Purple Bricks?</div>
+                            <div class="paragraph-regular-bold">Do I need prior experience in facility management to partner with Rashed Mazumdar?</div>
                             <div class="badge bg-gray-2 shadow-small">
                                 <div class="faq-arrow w-embed">
                                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">

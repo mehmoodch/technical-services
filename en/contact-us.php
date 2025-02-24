@@ -3,14 +3,16 @@
 <body>
   <div id="Top" class="back-to-top-container">
     <div class="back-to-top-button-container">
-      <a href="#Top" class="button-round button-round-small w-inline-block"><img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e10d_icon-chevron-up.svg" alt="" />
+      <a href="#Top" class="button-round button-round-small w-inline-block">
+        <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e10d_icon-chevron-up.svg" alt="" />
         </a>
       </div>
   </div>
   <?php
   include'nav.php';
   ?>
-  <div class="search-modal"><img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt="" class="search-modal-cross" />
+  <div class="search-modal">
+    <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt="" class="search-modal-cross" />
     <div class="container-large">
       <h4 class="large-heading">Search</h4>
       <form action="#" class="form-horizontal w-form">
@@ -37,27 +39,35 @@
               <form id="wf-form-Contact-Us-Contact-Page" name="wf-form-Contact-Us-Contact-Page"   data-name="Contact Us (Contact Page)" method="get" class="form-grid-halves"
                 data-wf-page-id="65fd82d8b2eb03f687d0e2c9" data-wf-element-id="f116c3ad-ea31-d300-24a9-7809979f8cf4">
                 <div>
-                  <label for="First-Name" class="text-small form-input-label">First Name <span class="text-danger">*</span></label><input class="form-input w-input" maxlength="256"
+                  <label for="First-Name" class="text-small form-input-label">First Name <span class="text-danger">*</span></label>
+                  <input class="form-input w-input" maxlength="256"
                     name="First-Name-3" data-name="First Name 3" placeholder="" type="text" id="First-Name-3"
-                    required="" /></div>
+                    required="" />
+                  </div>
                 <div><label for="Last-Name" class="text-small form-input-label">Last Name <span
-                      class="text-danger">*</span></label><input class="form-input w-input" maxlength="256"
-                    name="Last-Name-3" data-name="Last Name 3" placeholder="" type="text" id="Last-Name-3"
-                    required="" /></div>
+                      class="text-danger">*</span></label>
+                      <input class="form-input w-input" maxlength="256"
+                    name="Last-Name-3" data-name="Last Name 3" placeholder="" type="text" id="Last-Name-3" required="" />
+                  </div>
                 <div id="w-node-f116c3ad-ea31-d300-24a9-7809979f8d14-87d0e2c9"><label for="Email-Address-2"
-                    class="text-small form-input-label">Email Address <span class="text-danger">*</span></label><input
-                    class="form-input w-input" maxlength="256" name="Email-Address-2" data-name="Email Address 2"
-                    placeholder="" type="email" id="Email-Address-2" required="" /></div>
+                    class="text-small form-input-label">Email Address <span class="text-danger">*</span></label>
+                    <input class="form-input w-input" maxlength="256" name="Email-Address-2" data-name="Email Address 2"
+                    placeholder="" type="email" id="Email-Address-2" required="" />
+                  </div>
                 <div id="w-node-f116c3ad-ea31-d300-24a9-7809979f8d0e-87d0e2c9"><label for="Phone"
-                    class="text-small form-input-label">Phone <span class="text-danger">*</span></label><input
-                    class="form-input w-input" maxlength="256" name="Phone-2" data-name="Phone 2" placeholder=""
-                    type="tel" id="Phone-2" required="" /></div>
+                    class="text-small form-input-label">Phone <span class="text-danger">*</span></label>
+                    <input class="form-input w-input" maxlength="256" name="Phone-2" data-name="Phone 2" placeholder=""
+                    type="tel" id="Phone-2" required="" />
+                  </div>
                 <div id="w-node-f116c3ad-ea31-d300-24a9-7809979f8d1a-87d0e2c9"><label for="Address"
-                    class="text-small form-input-label">Address</label><input class="form-input w-input" maxlength="256"
-                    name="Address" data-name="Address" placeholder="" type="text" id="Address" /></div>
+                    class="text-small form-input-label">Address</label>
+                    <input class="form-input w-input" maxlength="256"
+                    name="Address" data-name="Address" placeholder="" type="text" id="Address" />
+                  </div>
                 <div><label for="Email-Address-2" class="text-small form-input-label">State <span
                       class="text-danger">*</span></label>
-                  <div class="select-field"><select id="State-4" name="State-4" data-name="State 4" required=""
+                  <div class="select-field">
+                    <select id="State-4" name="State-4" data-name="State 4" required=""
                       class="select-field-unstyled w-select">
                       <option value="Another option">Select State</option>
                       <option value="Alabama">Dubai</option>
@@ -136,8 +146,8 @@
               </div>
               <div class="justify-content-left">
                 <h4>Social Media</h4>
-                <div class="social-media-buttons"><a href="#" target="_blank"
-                    class="button-round button-round-small social-media-button w-inline-block">
+                <div class="social-media-buttons">
+                  <a href="#" target="_blank" class="button-round button-round-small social-media-button w-inline-block">
                     <div class="icon-embed-xxsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                         xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"
                         class="iconify iconify--bx" width="100%" height="100%" preserveAspectRatio="xMidYMid meet"
@@ -146,10 +156,13 @@
                           d="M13.397 20.997v-8.196h2.765l.411-3.209h-3.176V7.548c0-.926.258-1.56 1.587-1.56h1.684V3.127A22.336 22.336 0 0 0 14.201 3c-2.444 0-4.122 1.492-4.122 4.231v2.355H7.332v3.209h2.753v8.202h3.312z"
                           fill="currentColor"></path>
                       </svg></div>
-                  </a><a href="#" target="_blank"
-                    class="button-round button-round-small social-media-button w-inline-block"><img
-                      src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e161_youtube.svg"
-                      alt="" class="social-icon-small" /></a></div>
+                  </a>
+                  <a href="#" target="_blank"
+                    class="button-round button-round-small social-media-button w-inline-block">
+                    <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e161_youtube.svg"
+                      alt="" class="social-icon-small" />
+                  </a>
+                  </div>
               </div>
             </div>
           </div>

@@ -20,7 +20,7 @@ include'header.php';
     <header id="Page-Header" class="section bg-gray-3">
       <div class="main-container">
         <div class="home-modification-handyman-services no-margin">
-          <span class="text-span">Purple</span>Bricks<sup>®</sup>
+          <span class="text-span">Rashed</span>MTS<sup>®</sup>
           <span class="text-span"></span></div>
         <h1 class="display-heading-2">Project Gallery</h1>
         <div class="text-large">Here you&#x27;ll find out project gallery for both our home modifications and handyman

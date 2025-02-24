@@ -35,8 +35,8 @@ include 'header.php';
 	<div class="section">
 		<div class="w-layout-grid grid-halves fullwidth-grid-halves reverse-direction _80-buffer">
 			<div id="w-node-_920f64af-2539-1370-18e1-a0b2500311c5-87d0e2bb" class="container align-center justify-content-left">
-				<div class="home-modification-handyman-services no-margin"><span class="text-span">Purple</span>Bricks<sup>®</sup> <span class="text-span"></span></div>
-				<h1 class="display-heading-2">Become a Certified PurpleBricks Craftsman</h1>
+				<div class="home-modification-handyman-services no-margin"><span class="text-span">Rashed</span>MTS<sup>®</sup> <span class="text-span"></span></div>
+				<h1 class="display-heading-2">Become a Certified RashedMTS Craftsman</h1>
 				<p class="text-large"><strong>Do It Your Way.</strong> Set Your Own Schedule. Love Your Work. And Get Paid.</p>
 				<div class="button-wrapper"><a href="contact-us.php" target="_blank" class="button w-button">Apply Now</a></div>
 			</div>
@@ -74,11 +74,11 @@ include 'header.php';
 			<div class="w-layout-grid grid-halves vertical">
 				
 				<div class="container align-center">
-					<div class="home-modification-handyman-services no-margin"><span class="text-span">Purple</span>Bricks<sup>®</sup> <span class="text-span"></span></div>
+					<div class="home-modification-handyman-services no-margin"><span class="text-span">Rashed</span>MTS<sup>®</sup> <span class="text-span"></span></div>
 					<h2 class="large-heading">We&#x27;re <span class="orange">Great Place To Work<sup>®</sup></span>-Certified</h2>
 					<p class="text-large">
             <a href="contact-us.php" target="_blank">100% of our employees</a> 
-            at Purple Bricks say it is a great place to work compared to 59% of employees at a typical U.A.E.-based company</p>
+            at Rashed MTS say it is a great place to work compared to 59% of employees at a typical U.A.E.-based company</p>
             <a href="contact-us.php" target="_blank" class="link-with-arrow text-large w-inline-block">
 						<div>Apply Now</div>
             <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e13a_icon-arrow-right.svg" alt="" class="link-arrow" />
@@ -93,7 +93,7 @@ include 'header.php';
 				<h2 class="display-heading-2"><span class="thin">Expand Your Perspective on</span> <strong>What’s Achievable?</strong></h2>
 				<div class="home-modification-handyman-services medium">We Go Beyond Traditional Handyman Services – We Offer So Much More.</div>
 				<div class="rich-text-block w-richtext">
-					<p>Our team members are our greatest asset. We uphold values of trust, teamwork, honesty, integrity, respect, fair compensation, and mentorship to foster the growth, development, and success of every individual within the PurpleBricks family.</p>
+					<p>Our team members are our greatest asset. We uphold values of trust, teamwork, honesty, integrity, respect, fair compensation, and mentorship to foster the growth, development, and success of every individual within the RashedMTS family.</p>
 					<p>We recognize the dedication of our Craftsmen and support them by delivering even MORE:</p>
 					<ul role="list">
 						<li>MORE flexibility in scheduling</li>
@@ -126,7 +126,7 @@ include 'header.php';
 						</div>
 						<div>
 							<h4 class="medium-heading variable-size text-primary-3">Be Valued</h4>
-							<div>Take pride in your craft, knowing that PurpleBricks recognizes and appreciates your expertise and dedication.</div>
+							<div>Take pride in your craft, knowing that RashedMTS recognizes and appreciates your expertise and dedication.</div>
 						</div>
 					</div>
 				</div>
@@ -166,7 +166,7 @@ include 'header.php';
 						</div>
 						<div>
 							<h4 class="medium-heading variable-size text-primary-3">Thrive With Our Support</h4>
-							<div>Our Certified PurpleBricks Craftsman growth program is designed to help you achieve your personal and professional ambitions.</div>
+							<div>Our Certified RashedMTS Craftsman growth program is designed to help you achieve your personal and professional ambitions.</div>
 						</div>
 					</div>
 				</div>
@@ -197,7 +197,7 @@ include 'header.php';
 							<li>Wish to work with a well-established company that offers flexibility and benefits</li>
 						</ul>
 						<h3>Our Commitment to Ethical Standards</h3>
-						<p>When PurpleBricks was founded, owners Keith and Deb quickly realized the need for a company where craftsmen could be treated with respect, paid fairly, and valued for their skills. They envisioned a workplace built on trust and appreciation for artisans. To uphold these values, they introduced a <a href="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dfc2e41e2774d101c6eb4d_HPG-Code-of-Ethics-Final.docx.pdf" target="_blank">Code of Ethics</a>. This commitment led them to expand the company nationally, benefiting both homeowners and skilled craftsmen.</p>
+						<p>When RashedMTS was founded, owners Keith and Deb quickly realized the need for a company where craftsmen could be treated with respect, paid fairly, and valued for their skills. They envisioned a workplace built on trust and appreciation for artisans. To uphold these values, they introduced a <a href="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dfc2e41e2774d101c6eb4d_HPG-Code-of-Ethics-Final.docx.pdf" target="_blank">Code of Ethics</a>. This commitment led them to expand the company nationally, benefiting both homeowners and skilled craftsmen.</p>
 					</div>
 				</div>
 			</div>
@@ -207,7 +207,7 @@ include 'header.php';
 	<div class="search-modal"><img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt="" class="search-modal-cross" />
 		<div class="container-large">
 			<h4 class="large-heading">Search</h4>
-			<form action="https://www.PurpleBricks.com/search" class="form-horizontal w-form"><input class="form-input w-input" maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input type="submit" class="button form-horizontal-button w-button" value="Search" /></form>
+			<form action="https://www.rashedmts.com/search" class="form-horizontal w-form"><input class="form-input w-input" maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input type="submit" class="button form-horizontal-button w-button" value="Search" /></form>
 		</div>
 	</div>
 	<?php

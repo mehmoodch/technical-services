@@ -68,55 +68,60 @@
         <h2 class="display-heading-2 bottom-margin">🏗️ Maintenance & Renovation Services</h2>
         <div class="w-dyn-list">
           <div role="list" class="_3-col-grid _1-on-mob w-dyn-items">
-            <div role="listitem" class="w-dyn-item"><a href="service-categories/handyman-services.php"
-                class="portrait-link-box w-inline-block"><img alt="Handyman Services"
-                  src="../cdn.prod.website-files.com/srvsimgs/service_furniture_assembly.jpg"
-                  class="main-image no-max" />
+            <div role="listitem" class="w-dyn-item">
+              <a href="services/carpentry.php"  class="portrait-link-box w-inline-block">
+                <img alt="Handyman Services" src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95588d2a382a69e76d061_other-8-hour.2106251449488.jpg" class="main-image no-max" />
                 <div class="cards portrait-link-box-content">
                   <div class="avatar avatar-small quote-box-avatar wrapper">
                     <img width="40" height="40"  alt="False Ceiling & Light Partition Installation" src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c941fdc3fb0bc370850182_IconoirHammer Copy.svg"
                       class="icon" />
                     </div>
-                  <h3 class="portrait-link-box-heading">False Ceiling & Light Partition Installation</h3>
-                  <p class="f-paragraph-small black">Rashed Mazumdar  Technical Services offers expert false ceiling & light partition installation services to 
-                    transform your interiors with modern, stylish, and functional designs.</p>
+                  <h3 class="portrait-link-box-heading">Carpentry Services</h3>
+                  <p class="f-paragraph-small black">Rashed Mazumdar Technical Services offers expert carpentry services to enhance your interiors with precision-crafted, 
+                    stylish, and functional woodwork designs.</p>
                   <div>Learn More</div>
                 </div>
-              </a></div>
+              </a>
+            </div>
             <div role="listitem" class="w-dyn-item">
-              <a href="service-categories/home-modification.php"
+              <a href="services/painting.php"
                 class="portrait-link-box w-inline-block">
-                <img alt="Home Modification"  src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/6509cca3967e879e06f38699_RLD_D4_1996.CR2.p.jpg"
+                <img alt="Painting work"  src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/painting.2106251439259.jpg"
                   sizes="(max-width: 479px) 90vw, (max-width: 767px) 92vw, (max-width: 991px) 91vw, (max-width: 1439px) 30vw, 396px"
-                  srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/6509cca3967e879e06f38699_RLD_D4_1996.CR2.p-p-500.jpg 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/6509cca3967e879e06f38699_RLD_D4_1996.CR2.p-p-800.jpg 800w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/6509cca3967e879e06f38699_RLD_D4_1996.CR2.p-p-1080.jpg 1080w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/6509cca3967e879e06f38699_RLD_D4_1996.CR2.p.jpg 1800w"
+                  srcset="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/painting.2106251439259.jpg 500w, 
+                  ../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/painting.2106251439259.jpg 800w, 
+                  ../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/painting.2106251439259.jpg 1080w, 
+                  ../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/painting.2106251439259.jpg 1800w"
                   class="main-image no-max" />
                 <div class="cards portrait-link-box-content">
-                  <div class="avatar avatar-small quote-box-avatar wrapper"><img width="40" height="40"
-                      alt="Home Modification"
-                      src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c942265b660971acbe5ad0_PhWheelchair Copy.svg"
-                      class="icon" /></div>
+                  <div class="avatar avatar-small quote-box-avatar wrapper">
+                    <img width="40" height="40"  alt="Painting work" src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/paintingicon.svg"
+                      class="icon" />
+                  </div>
                   <h3 class="portrait-link-box-heading">Painting Contracting </h3>
-                  <p class="f-paragraph-small black">We offers comprehensive painting contracting services to transform and refresh your spaces with vibrant, long-lasting finishes. 
+                  <p class="f-paragraph-small black">We offers painting contracting services to transform and refresh your spaces with vibrant,finishes. 
                     Interior and exterior painting for homes, offices, and commercial spaces. 
-                     </p>
+                  </p>
                   <div>Learn More</div>
                 </div>
-              </a></div>
+              </a>
+            </div>
             <div role="listitem" class="w-dyn-item">
-              <a href="service-categories/commercial-services.php"
+              <a href="services/plaster-work.php"
                 class="portrait-link-box w-inline-block">
-                <img alt="Commercial Services" src="../cdn.prod.website-files.com/srvsimgs/service_vacation_rental_cleaning.jpg" class="main-image no-max" />
+                <img alt="Plaster work Services" src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c955899cdb9a16c0348934_drywall-repair-4.2106251448374.jpg" class="main-image no-max" />
                 <div class="cards portrait-link-box-content">
                   <div class="avatar avatar-small quote-box-avatar wrapper">
-                    <img width="40" height="40"  alt="Commercial Services"
-                      src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c94263c4aa5fbe2fb955dc_PhBuildings Copy.svg"
-                      class="icon" /></div>
+                    <img width="40" height="40"  alt="Plaster work" src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c94263c4aa5fbe2fb955dc_PhBuildings Copy.svg"
+                      class="icon" />
+                  </div>
                   <h3 class="portrait-link-box-heading">Plaster Works</h3>
-                  <p class="f-paragraph-small black">Rashed Mazumdar  Technical Services delivers high-quality plastering solutions for residential, commercial & industrial
+                  <p class="f-paragraph-small black">RashedMTS delivers high-quality plastering solutions for residential, commercial & industrial
                projects. Our skilled professionals ensure smooth and durable finishes.</p>
                   <div>Learn More</div>
                 </div>
-              </a></div>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -125,8 +130,7 @@
       <div class="main-container">
         <div class="embed-full-width w-embed w-script">
           <div data-embed-placeholder="16012">
-            <script
-              src="#"></script>
+            <script src="#"></script>
           </div>
         </div>
       </div>
@@ -135,8 +139,8 @@
       <div class="main-container center">
         <h2 class="display-heading-2 bottom-margin"><strong>HVAC & Home Assembly Services</strong></h2>
         <div class="w-layout-grid _3-col-grid _1-on-mob">
-            <a href="services/drywall-repair.php" class="cards portrait-link-box-content v-flex w-inline-block">
-              <img alt="" src="../cdn.prod.website-files.com/srvsimgs/service_painting.jpg" class="main-image" />
+            <a href="services/hvac.php" class="cards portrait-link-box-content v-flex w-inline-block">
+              <img alt="" src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/hvac.svg" class="main-image" />
             <h3 class="portrait-link-box-heading"><strong>HVAC</strong></h3>
             <p class="f-paragraph-small black">We provide expert installation and maintenance services for air conditioning, ventilation, and air filtration systems. 
               Our technicians ensure efficient cooling and air quality control by designing and installing energy-efficient systems for residential, commercial, 
@@ -144,16 +148,16 @@
               Regular maintenance ensures optimal performance, reducing energy costs and extending the lifespan of your system.</p>
             <div>Learn More</div>
           </a>
-          <a href="services/furniture-assembly.php"   class="cards portrait-link-box-content v-flex w-inline-block">
-            <img alt=""  src="../cdn.prod.website-files.com/srvsimgs/service_moving_help.jpg" class="main-image" />
+          <a href="services/plumbing-fixtures.php"   class="cards portrait-link-box-content v-flex w-inline-block">
+            <img alt=""  src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64d537af51625db5a324c2dd_maxresdefault.jpg" class="main-image" />
             <h3 class="portrait-link-box-heading"><strong>Plumbing and Sanitary Contracting</strong></h3>
             <p class="f-paragraph-small black">We offer a full range of plumbing and sanitary contracting services, including installation, repairs, and maintenance. 
               From fixing leaks to installing water supply and drainage systems, we ensure that your plumbing works smoothly and efficiently. 
               Our experienced plumbers use the best materials to guarantee long-lasting solutions for both residential and commercial properties.</p>
             <div>Learn More</div> </a>
-            <a href="services/tv-mounting-installation.php"
+            <a href="services/solar-panel.php"
             class="cards portrait-link-box-content v-flex w-inline-block">
-            <img alt=""  src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/66479297ba63e78d75037e7e_tv-mounting-service-425x250.webp"  class="main-image" />
+            <img alt=""  src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/solar.svg"  class="main-image" />
             <h3 class="portrait-link-box-heading"><strong>Solar Panel Installation and Maintenance</strong></h3>
             <p class="f-paragraph-small black">We offer solar panel installation and maintenance services, helping you harness the power of the sun to reduce energy costs
                and minimize your carbon footprint.
@@ -162,26 +166,25 @@
           </a>
         </div>
         <div class="w-layout-grid _3-col-grid _1-on-mob">
-            <a href="services/drywall-repair.php" class="cards portrait-link-box-content v-flex w-inline-block">
-              <img alt="" src="../cdn.prod.website-files.com/srvsimgs/service_painting.jpg" class="main-image" />
-            <h3 class="portrait-link-box-heading"><strong>Drywall Repair Handyman</strong></h3>
-            <p class="f-paragraph-small black">Drywall repair services for your home and can handle cracks, holes,
-              dents, and more. Whether you have a major hole that needs to be covered up or simply want to repair
-              various scrapes and dents from years of wear and tear, our drywall repair experts are ready to get to
-              work.</p>
+            <a href="services/tank-cleaning.php" class="cards portrait-link-box-content v-flex w-inline-block">
+              <img alt="" src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/tank-cleaning.svg" class="main-image" />
+            <h3 class="portrait-link-box-heading"><strong>Tank Cleaning Services</strong></h3>
+            <p class="f-paragraph-small black">Our tank cleaning services ensure a thorough and professional cleaning for your water storage tanks, removing dirt, debris, 
+              and contaminants. Whether your tank needs a routine cleaning or a deep cleanse due to sediment buildup, 
+              our experts are equipped to provide safe and efficient solutions, ensuring clean and hygienic water storage.</p>
             <div>Learn More</div>
           </a>
-          <a href="services/furniture-assembly.php"   class="cards portrait-link-box-content v-flex w-inline-block">
-            <img alt=""  src="../cdn.prod.website-files.com/srvsimgs/service_moving_help.jpg" class="main-image" />
-            <h3 class="portrait-link-box-heading"><strong>Home Assembly Services</strong></h3>
-            <p class="f-paragraph-small black">We are a professional handyman service that can assist you with your
-              furniture assembly. Stop trying to follow confusing instructions and sit back and relax while our
-              Certified Craftsmen put it together for you.<br />From Ikea units to Gazebos we do it all!</p>
+          <a href="services/cleaning.php"   class="cards portrait-link-box-content v-flex w-inline-block">
+            <img alt=""  src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64f0e8721127a443050cd907_Screenshot_3[2].2110041455028.jpg" class="main-image" />
+            <h3 class="portrait-link-box-heading"><strong>Home Cleaning Services</strong></h3>
+            <p class="f-paragraph-small black">We are a professional home cleaning service dedicated to keeping your living space spotless and refreshed. 
+              Say goodbye to the hassle of scrubbing and dusting—our expert cleaners handle everything for you. 
+              From deep cleaning to routine maintenance, we ensure a clean, healthy, and comfortable home for you and your family.</p>
             <div>Learn More</div> </a>
-            <a href="services/tv-mounting-installation.php"
+            <a href="services/swimming-pool.php"
             class="cards portrait-link-box-content v-flex w-inline-block">
-            <img alt=""  src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/66479297ba63e78d75037e7e_tv-mounting-service-425x250.webp"  class="main-image" />
-            <h3 class="portrait-link-box-heading"><strong>TV Mounting Services</strong></h3>
+            <img alt=""  src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/pool-5055009_1280.jpg"  class="main-image" />
+            <h3 class="portrait-link-box-heading"><strong>Swimming Pool Maintenance </strong></h3>
             <p class="f-paragraph-small black">Though it may seem relatively simple, it’s important that your TV is
               mounted professionally. Not doing so could damage your wall or your TV – or possibly both. The last thing
               you want is your movie night to be interrupted by a falling television.</p>
@@ -216,27 +219,30 @@
           <div class="container-large align-center">
             <div class="common-service-grid w-dyn-list">
               <div role="list" class="icons-links-grid-halves _2 w-dyn-items">
-                <div role="listitem" class="w-dyn-item"><a href="services/drywall-repair.php"
+                <div role="listitem" class="w-dyn-item">
+                  <a href="services/tiling.php"
                     class="boxed icon-link-box-vertical w-inline-block">
-                    <div class="icon-circle icon-link-box-circle bg-primary-1"><img alt=""
-                        src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64cab3a2a47b190a73428e5a_construct.svg"
-                        class="icon _60" /></div>
+                    <div class="icon-circle icon-link-box-circle bg-primary-1">
+                      <img alt="" src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64cab3a2a47b190a73428e5a_construct.svg" class="icon _60" />
+                      </div>
                     <h3 class="icon-link-box-heading text-primary-1 med">Floor & Wall Tiling Work</h3>
-                  </a></div>
-                <div role="listitem" class="w-dyn-item"><a href="services/carpentry.php"
-                    class="boxed icon-link-box-vertical w-inline-block">
-                    <div class="icon-circle icon-link-box-circle bg-primary-1"><img alt=""
-                        src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64cab38ae67f84f8a912d451_saw.svg"
-                        class="icon _60" /></div>
+                  </a>
+                </div>
+                <div role="listitem" class="w-dyn-item">
+                  <a href="services/painting.php"  class="boxed icon-link-box-vertical w-inline-block">
+                    <div class="icon-circle icon-link-box-circle bg-primary-1">
+                      <img alt=""  src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64cab38ae67f84f8a912d451_saw.svg" class="icon _60" />
+                    </div>
                     <h3 class="icon-link-box-heading text-primary-1 med">Painting Work</h3>
-                  </a></div>
-                <div role="listitem" class="w-dyn-item"><a href="services/plumbing-fixtures.php"
-                    class="boxed icon-link-box-vertical w-inline-block">
-                    <div class="icon-circle icon-link-box-circle bg-primary-1"><img alt=""
-                        src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64cab373bc09b0536e691e53_PhToiletDuotone.svg"
-                        class="icon _60" /></div>
-                    <h3 class="icon-link-box-heading text-primary-1 med">Plumbing Fixtures</h3>
-                  </a></div>
+                  </a>
+                </div>
+                <div role="listitem" class="w-dyn-item">
+                  <a href="services/plumbing-fixtures.php" class="boxed icon-link-box-vertical w-inline-block">
+                    <div class="icon-circle icon-link-box-circle bg-primary-1">
+                      <img alt="" src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64cab373bc09b0536e691e53_PhToiletDuotone.svg" class="icon _60" /></div>
+                    <h3 class="icon-link-box-heading text-primary-1 med">Plumbing & Senitary Contracting</h3>
+                  </a>
+                </div>
                 <div role="listitem" class="w-dyn-item">
                   <a href="services/other-handyman-services.php"
                     class="boxed icon-link-box-vertical w-inline-block">
@@ -244,24 +250,27 @@
                         src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64d6892fcc633c62b182de74_wheelchair-ramp.svg"
                         class="icon _60" />
                       </div>
-                    <h3 class="icon-link-box-heading text-primary-1 med">Mobility Ramps</h3>
+                    <h3 class="icon-link-box-heading text-primary-1 med">Other Handyman Services</h3>
                   </a>
                 </div>
                 <div role="listitem" class="w-dyn-item">
-                  <a href="services/accessibility-lifts.php"
+                  <a href="services/cleaning.php"
                     class="boxed icon-link-box-vertical w-inline-block">
-                    <div class="icon-circle icon-link-box-circle bg-primary-1"><img alt=""
-                        src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64d689e9ffb138a4452db7e4_IcTwotoneElevator.svg"
-                        class="icon _60" /></div>
-                    <h3 class="icon-link-box-heading text-primary-1 med">Accessibility Lifts</h3>
-                  </a></div>
-                <div role="listitem" class="w-dyn-item"><a href="services/bathroom-accessibility-remodeling.php"
+                    <div class="icon-circle icon-link-box-circle bg-primary-1">
+                      <img alt="" src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64d689e9ffb138a4452db7e4_IcTwotoneElevator.svg" class="icon _60" />
+                    </div>
+                    <h3 class="icon-link-box-heading text-primary-1 med">General Cleaning</h3>
+                  </a>
+                </div>
+                <div role="listitem" class="w-dyn-item">
+                  <a href="services/swimming-pool.php"
                     class="boxed icon-link-box-vertical w-inline-block">
-                    <div class="icon-circle icon-link-box-circle bg-primary-1"><img alt=""
-                        src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64d6893f94400143527900a3_PhBathtubDuotone.svg"
-                        class="icon _60" /></div>
-                    <h3 class="icon-link-box-heading text-primary-1 med">Bathroom Repair & Remodeling</h3>
-                  </a></div>
+                    <div class="icon-circle icon-link-box-circle bg-primary-1">
+                      <img alt="" src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64d6893f94400143527900a3_PhBathtubDuotone.svg" class="icon _60" />
+                    </div>
+                    <h3 class="icon-link-box-heading text-primary-1 med">Swimming Pool Installation </h3>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
@@ -307,8 +316,8 @@
       <div class="main-container">
         <div class="w-layout-grid grid-halves">
           <div id="w-node-_5b45ae32-4e16-db06-25f8-9259001ffaca-87d0e205">
-            <div><img
-                src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/window-cleaner-4306918_1280.jpg"
+            <div>
+              <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/window-cleaner-4306918_1280.jpg"
                 sizes="(max-width: 479px) 90vw, (max-width: 767px) 92vw, (max-width: 898px) 89vw, 800px"
                 srcset="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/window-cleaner-4306918_1280.jpg 500w, ../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/window-cleaner-4306918_1280.jpg 800w"
                 alt="On-demand handyman" class="rounded-large" /></div>
@@ -403,7 +412,7 @@
                   </div>
                 </div>
               </div>
-              <div class="pricing-plan-action"><a href="#"
+              <div class="pricing-plan-action"><a href="contact-us.php"
                   class="button w-inline-block">
                   <div>Get Started</div>
                 </a></div>
@@ -433,10 +442,15 @@
         </div>
         <div id="w-node-_75237250-d57e-dbcd-6f97-6cb577fdd71b-87d0e205" class="container-large align-center no-padding-on-mob">
           <div class="video-wrapper rounded shadow-large">
-            <div style="padding-top:56.17021276595745%" class="w-embed-youtubevideo"><iframe
-                src="https://youtu.be/pzvzm047PLY?si=eWCHIUyBPeGSFM9u?rel=0&amp;controls=1&amp;autoplay=1&amp;mute=1&amp;start=0"
-                frameBorder="0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" 
-                allow="autoplay; encrypted-media" allowfullscreen="" title="Professional Handyman Services - Affordable Home Improvement"></iframe></div>
+            <div style="" class="w-embed-youtubevideo">
+            <div>
+              <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dd124591b3ca8e6316762b_content-12.2107121252494 (1).jpg"
+                sizes="(max-width: 479px) 90vw, (max-width: 767px) 92vw, (max-width: 898px) 89vw, 800px"
+                srcset="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dd124591b3ca8e6316762b_content-12.2107121252494 (1).jpg 500w, ../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dd124591b3ca8e6316762b_content-12.2107121252494 (1).jpg 800w"
+                alt="On-demand handyman" class="rounded-large" /></div>
+          </div>
+                
+              </div>
           </div>
         </div>
       </div>

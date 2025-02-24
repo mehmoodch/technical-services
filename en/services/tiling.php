@@ -45,13 +45,14 @@ include 'services-header.php';
 						<h1 class="display-heading-2">Wall and Floor Tiling</h1>
 							<div class="service-rich-text w-richtext">
 							<h2>Enhancing Your Home with Quality Tiling</h2>
-							<p>Purple Bricks specializes in professional wall and floor tiling services to transform the look and feel of your home or business. Whether you're upgrading your bathroom, kitchen, or any other space, our expert team ensures a flawless finish with precision and durability. Tiling not only enhances the aesthetic appeal of your property but also provides a long-lasting and low-maintenance solution for your surfaces.</p>
+							<p>Rashed Mazumdar specializes in professional wall and floor tiling services to transform the look and feel of your home or business. Whether you're upgrading your bathroom, kitchen, or any other space, our expert team ensures a flawless finish with precision and durability. Tiling not only enhances the aesthetic appeal of your property but also provides a long-lasting and low-maintenance solution for your surfaces.</p>
 							<p>We offer a wide selection of tile materials, including ceramic, porcelain, marble, granite, and mosaic, catering to various styles and preferences. Our skilled professionals will guide you in choosing the best tile option that suits your space, budget, and functional needs.</p>
-							<p>Purple Bricks provides customized tiling solutions, including installation, repairs, and replacements, ensuring high-quality craftsmanship and seamless results. Our commitment to excellence ensures that your walls and floors are beautifully finished and built to last.</p>
+							<p>Rashed Mazumdar provides customized tiling solutions, including installation, repairs, and replacements, ensuring high-quality craftsmanship and seamless results. Our commitment to excellence ensures that your walls and floors are beautifully finished and built to last.</p>
 							</div>
 							<div class="separator-div">
 							<div class="service-rich-text w-richtext">
-								<p><strong>Contact our tiling experts today at </strong><a href="tel:+97143373565" target="_blank"><strong>+971 43373565</strong></a> <strong>to learn more!</strong></p>
+								<p><strong>Contact our tiling experts today at </strong>
+								<a href="tel:971555199753" target="_blank"><strong>+971 55 519 9753</strong></a> <strong>to learn more!</strong></p>
 							</div>
 							</div>
 
@@ -61,7 +62,8 @@ include 'services-header.php';
 						<img width="585" id="w-node-_725063d0-9bc5-0e2d-54da-5b3626db6ef8-87d0e337" alt="" 
 						src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/tiling.svg" class="rounded shadow-large bottom-margin" />
 						<div class="separator-div">
-							<div class="button-wrapper"><a data-w-id="c07be486-b107-66b0-5a0f-4228d99045e9" href="../contact-us.php" class="button w-button">Contact Us</a></div>
+							<div class="button-wrapper">
+								<a data-w-id="c07be486-b107-66b0-5a0f-4228d99045e9" href="../contact-us.php" class="button w-button">Contact Us</a></div>
 						</div>
 					</div>
 				</div>
@@ -74,7 +76,8 @@ include 'services-header.php';
 						<div>No items found.</div>
 					</div>
 				</div>
-				<div class="button-wrapper center top-margin"><a href="../contact-us.php" target="_blank" class="button w-inline-block">
+				<div class="button-wrapper center top-margin">
+					<a href="../contact-us.php" target="_blank" class="button w-inline-block">
 						<div>Book Additional Services</div>
 					</a></div>
 			</div>

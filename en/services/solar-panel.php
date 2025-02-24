@@ -45,12 +45,13 @@ include 'services-header.php';
                 <h1 class="display-heading-2">Solar Panel Installation and Maintenance</h1>
                 <div class="service-rich-text w-richtext">
                     <h2>Efficient and Sustainable Energy Solutions for Your Home</h2>
-                    <p>Purple Bricks Technical Services LLC is your trusted partner in adopting renewable energy solutions. We specialize in solar panel installation and maintenance services that not only make your home more energy-efficient but also help you reduce your electricity bills. With years of expertise, we are dedicated to providing high-quality services to meet your energy needs.</p>
+                    <p>Rashed Mazumdar Technical Services LLC is your trusted partner in adopting renewable energy solutions. We specialize in solar panel installation and maintenance services that not only make your home more energy-efficient but also help you reduce your electricity bills. With years of expertise, we are dedicated to providing high-quality services to meet your energy needs.</p>
                     <p>Solar panels are a great way to harness the power of the sun and convert it into clean, renewable energy. They help you reduce your dependence on traditional energy sources while cutting down on utility costs. Our expert team ensures that each installation is tailored to your needs, and we offer reliable maintenance services to ensure your system continues to perform efficiently over the years.</p>
                 </div>
                 <div class="separator-div">
                     <div class="service-rich-text w-richtext">
-                        <p><strong>To learn more about our solar panel services, contact Purple Bricks Technical Services LLC today at </strong><a href="tel:97143373565" target="_blank"><strong>+971 4 337 3565</strong></a><strong>. We look forward to helping you make the transition to clean, renewable energy.</strong></p>
+                        <p><strong>To learn more about our solar panel services, contact Rashed Mazumdar Technical Services LLC today at </strong>
+						<a href="tel:971555199753" target="_blank"><strong>+971 55 519 9753</strong></a><strong>. We look forward to helping you make the transition to clean, renewable energy.</strong></p>
                     </div>
                 </div>
                 
@@ -91,7 +92,7 @@ include 'services-header.php';
                 <p>In addition to solar panel installation, our team offers maintenance services to ensure that your system continues to operate at peak efficiency. Regular maintenance can extend the life of your solar panels and ensure that you continue to benefit from renewable energy for years to come. If you’re unsure about which solar solutions are right for your home, our expert team is here to help you choose the best options tailored to your needs. As homeowners ourselves, we understand the importance of efficient, sustainable energy and are committed to providing long-term solutions.</p>
             </div>
             <div class="service-rich-text w-richtext">
-                <p><strong>Give us a call today at </strong><a href="tel:+97143373565"><strong>+971 4 337 3565</strong></a><strong> to learn more about how we can help you harness the power of the sun for your home’s energy needs.</strong></p>
+                <p><strong>Give us a call today at </strong><a href="tel:+971555199753"><strong>+971 55 519 9753</strong></a><strong> to learn more about how we can help you harness the power of the sun for your home’s energy needs.</strong></p>
             </div>
         </div>
         <div id="w-node-b7005c84-7de9-9f18-2ae2-2376c033a8b9-87d0e337" class="container-large">

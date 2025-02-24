@@ -65,7 +65,7 @@ include'services-header.php';
           <h2>Reliable Solutions for Your Home Improvement Needs</h2>
           <p>Your home requires regular maintenance and repairs to stay in top condition. Whether it's fixing minor issues, 
             installing new fixtures, or making improvements to enhance functionality, having a trusted handyman can make 
-            all the difference. At <strong>Purple Bricks Technical Services</strong>, we offer a wide range of professional handyman solutions 
+            all the difference. At <strong>Rashed Mazumdar Technical Services</strong>, we offer a wide range of professional handyman solutions 
             tailored to meet your specific needs.</p>
           <p>Our experienced team provides high-quality services to help keep your home well-maintained and hassle-free. 
             From minor repairs to more complex tasks, we ensure every job is completed with precision and care.</p>
@@ -78,11 +78,11 @@ include'services-header.php';
             <li>Plumbing and electrical repairs</li>  
             <li>Door and window repairs</li>
           </ul>
-          <p>These are just a few of the many services we provide to help keep your home in great shape. At <strong>Purple Bricks Technical Services</strong>, 
+          <p>These are just a few of the many services we provide to help keep your home in great shape. At <strong>Rashed Mazumdar Technical Services</strong>, 
             we offer free consultations to assess your needs and provide the best solutions. Our goal is to deliver professional, 
             efficient, and reliable handyman services to make your home a more comfortable place.</p>
           <p><br /></p>
-          <h3>Why Choose Purple Bricks Technical Services?</h3>
+          <h3>Why Choose Rashed Mazumdar Technical Services?</h3>
           <p>With years of experience in home repairs and maintenance, our skilled professionals are dedicated to delivering 
             high-quality work. Our commitment to excellent craftsmanship, customer satisfaction, and attention to detail 
             sets us apart. Whether it's a small repair or a larger project, we treat your home with the utmost care and respect.</p>

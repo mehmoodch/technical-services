@@ -18,7 +18,7 @@
       class="search-modal-cross" />
     <div class="container-large">
       <h4 class="large-heading">Search</h4>
-      <form action="https://www.purplebricks.com/search" class="form-horizontal w-form">
+      <form action="https://www.rashedmts.ae/search" class="form-horizontal w-form">
         <input class="form-input w-input"
           maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input
           type="submit" class="button form-horizontal-button w-button" value="Search" />
@@ -28,10 +28,10 @@
   <div class="page-wrapper">
     <header id="Page-Header" class="section bg-gray-3">
       <div class="main-container">
-        <div class="home-modification-handyman-services no-margin"><span class="text-span">Purple</span>Bricks<sup>®</sup>
+        <div class="home-modification-handyman-services no-margin"><span class="text-span">Rashed</span>MTS<sup>®</sup>
           <span class="text-span"></span></div>
         <h1 class="display-heading-2">Blog</h1>
-        <div class="text-large">Check out what people are saying about Purple Bricks. Browse through some of the blog posts
+        <div class="text-large">Check out what people are saying about Rashed MTS. Browse through some of the blog posts
           from our company!</div>
       </div>
     </header>
@@ -82,7 +82,7 @@
                     <div class="article-small-image-wrapper"><img alt="" src="#"
                         class="article-small-image w-dyn-bind-empty" /></div>
                     <div class="article-small-body">
-                      <div>purplebricks: The Trusted Choice for Home Modifications for Aging in Place and Disabilities</div>
+                      <div>RashedMTS: The Trusted Choice for Home Modifications for Aging in Place and Disabilities</div>
                     </div>
                   </a></div>
                 <div role="listitem" class="w-dyn-item"><a
@@ -215,7 +215,7 @@
                 <div><a href="#"
                     class="article-grid-heading w-inline-block">
                     <h3 class="article-grid-heading">Aging in Place: Enhancing Independence and Safety at Home with
-                      purplebricks</h3>
+                      RashedMTS</h3>
                   </a></div>
               </div>
             </div>
@@ -262,7 +262,7 @@
                 <div><a
                     href="#"
                     class="article-grid-heading w-inline-block">
-                    <h3 class="article-grid-heading">The Power of Partnership: Occupational Therapy Meets purplebrickss Home
+                    <h3 class="article-grid-heading">The Power of Partnership: Occupational Therapy Meets RashedMTSs Home
                       Modification Mastery</h3>
                   </a></div>
               </div>

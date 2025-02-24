@@ -58,16 +58,17 @@ include 'services-header.php';
 						<h1 class="display-heading-2">False Ceiling & Light Partition Installation</h1>
 						<div class="service-rich-text w-richtext">
             <h2>False Ceiling & Light Partition Installation</h2>
-              <p>Purple Bricks offers expert false ceiling and light partition installation services to enhance the aesthetics and functionality of your space. Our professional team specializes in installing gypsum ceilings, suspended ceilings, acoustic ceilings, and decorative partitions tailored to meet your specific requirements. With over 25 years of experience, we are one of the most trusted service providers in the industry, ensuring quality craftsmanship and durable solutions. Whether you need a modern ceiling design, improved acoustics, or an elegant partition, we are here to transform your space efficiently.</p>
-              <p>There are multiple types of false ceilings and light partitions available today. Each serves different purposes, from enhancing interior aesthetics to improving soundproofing and insulation. Explore the different options below and then reach out to our expert team at <a href="tel:+97143373565" target="_blank">+971 4 337 3565</a> with any questions.</p>
+              <p>Rashed Mazumdar offers expert false ceiling and light partition installation services to enhance the aesthetics and functionality of your space. Our professional team specializes in installing gypsum ceilings, suspended ceilings, acoustic ceilings, and decorative partitions tailored to meet your specific requirements. With over 25 years of experience, we are one of the most trusted service providers in the industry, ensuring quality craftsmanship and durable solutions. Whether you need a modern ceiling design, improved acoustics, or an elegant partition, we are here to transform your space efficiently.</p>
+              <p>There are multiple types of false ceilings and light partitions available today. Each serves different purposes, from enhancing interior aesthetics to improving soundproofing and insulation. Explore the different options below and then reach out to our expert team at 
+				<a href="tel:971555199753" target="_blank">+971 55 519 9753</a> with any questions.</p>
               <p><br /></p>
               <h3>A Better Interior is Just a Click Away</h3>
-              <p>Choosing the right false ceiling and partition solution for your space can be challenging. That’s why our team of experienced professionals is here to guide you through all available options. We have successfully helped numerous clients achieve their desired interior transformations. Our Environmental Fit™ ensures our installations are perfectly tailored to your needs. Purple Bricks is dedicated to providing high-quality solutions for your space.</p>
+              <p>Choosing the right false ceiling and partition solution for your space can be challenging. That’s why our team of experienced professionals is here to guide you through all available options. We have successfully helped numerous clients achieve their desired interior transformations. Our Environmental Fit™ ensures our installations are perfectly tailored to your needs. Rashed Mazumdar is dedicated to providing high-quality solutions for your space.</p>
               </div>
               <div class="separator-div">
               <div class="service-rich-text w-richtext">
-              <p><strong>Call Purple Bricks today at </strong><a href="tel:+97143373565" target="_blank"><strong>+971 4 337 3565</strong></a> 
-              <strong>for your free consultation! Let Purple Bricks help you enhance your space with expertly installed false ceilings and partitions.</strong></p>
+              <p><strong>Call Rashed Mazumdar today at </strong><a href="tel:971555199753" target="_blank"><strong>+971 55 519 9753</strong></a> 
+              <strong>for your free consultation! Let Rashed Mazumdar help you enhance your space with expertly installed false ceilings and partitions.</strong></p>
 
 							</div>
 						</div>
@@ -94,7 +95,7 @@ include 'services-header.php';
 					</div>
 				</div>
 				<div class="button-wrapper center top-margin">
-          <a href="#" target="_blank" class="button w-inline-block">
+          <a href="../contact-us.php" target="_blank" class="button w-inline-block">
 						<div>Book Additional Services</div>
 					</a>
         </div>

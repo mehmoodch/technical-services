@@ -66,7 +66,7 @@ include 'services-header.php';
           <p>Ensuring a comfortable and healthy indoor environment is essential for every home and workplace. Whether 
             you need a new air conditioning system, improved ventilation, or advanced air filtration, professional 
             solutions are available to enhance your indoor air quality and comfort.</p>
-          <p>At <strong>Purple Bricks Technical Services</strong>, we specialize in the installation and maintenance of AC, ventilation, 
+          <p>At <strong>Rashed Mazumdar Technical Services</strong>, we specialize in the installation and maintenance of AC, ventilation, 
             and air filtration systems to create a more energy-efficient and breathable space. Our experienced team is 
             dedicated to providing high-quality HVAC solutions tailored to your specific needs.</p>
           <h3>Customized Solutions for Optimal Air Quality and Comfort</h3>
@@ -79,8 +79,8 @@ include 'services-header.php';
         </div>
         <div class="separator-div">
           <div class="service-rich-text w-richtext">
-            <p><strong>Discover our HVAC services or get in touch with our experts at </strong><a href="tel:97143373565">
-              <strong>+971 43373565</strong></a>
+            <p><strong>Discover our HVAC services or get in touch with our experts at </strong><a href="tel:971555199753">
+              <strong>+971 55 519 9753</strong></a>
               <strong> to request a free consultation and estimate.</strong></p>
           </div>
         </div>

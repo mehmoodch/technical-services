@@ -63,7 +63,7 @@ include 'services-header.php';
             <h1 class="display-heading-2">Carpentry</h1>
             <div class="service-rich-text w-richtext">
             <h2>Cabinet &amp; Trim Installation, Door Repairs &amp; More</h2>
-              <p>If you have carpentry tasks on your to-do list, such as installing cabinets or shelves, repairing wooden doors or trim, or building or fixing a deck, you’ve come to the right place. The Certified Craftsmen at Purple Bricks are ready to assist. We are a professional handyman service offering a range of carpentry solutions, from repairs to new installations. With over 25 years of experience, our team has supported countless homeowners with various projects, delivering reliable and cost-effective services you can trust.</p>
+              <p>If you have carpentry tasks on your to-do list, such as installing cabinets or shelves, repairing wooden doors or trim, or building or fixing a deck, you’ve come to the right place. The Certified Craftsmen at Rashed Mazumdar are ready to assist. We are a professional handyman service offering a range of carpentry solutions, from repairs to new installations. With over 25 years of experience, our team has supported countless homeowners with various projects, delivering reliable and cost-effective services you can trust.</p>
               <p><strong>Here are just a few of the carpentry services we provide:</strong></p>
               <ul role="list">
                 <li>Door installation and repair</li>
@@ -74,14 +74,14 @@ include 'services-header.php';
               </ul>
               <p>As a homeowner, you’re familiar with the ongoing maintenance and improvements required to keep your home in top shape. From unexpected repairs to planned upgrades, your home is always evolving. Our carpentry and handyman services provide a convenient, all-in-one solution to help you stay on top of your home projects.</p>
               <h3>Equipped for Projects of All Sizes</h3>
-              <p>Purple Bricks’ carpentry services cater to a variety of repair and installation needs. Whether it’s a simple fix or a complex project, our team is ready to help. Our Certified Craftsmen specialize in everything from everyday repairs like shelving and crown molding installation to large-scale projects such as deck construction and flooring installations. Each member of our team is highly skilled, ensuring your home is always in expert hands.</p>
+              <p>Rashed Mazumdar’ carpentry services cater to a variety of repair and installation needs. Whether it’s a simple fix or a complex project, our team is ready to help. Our Certified Craftsmen specialize in everything from everyday repairs like shelving and crown molding installation to large-scale projects such as deck construction and flooring installations. Each member of our team is highly skilled, ensuring your home is always in expert hands.</p>
               <p>‍</p>
 
             </div>
             <div class="separator-div">
               <div class="service-rich-text w-richtext">
-                <p><strong>To learn more about our carpentry services, reach out to purplebricks today at </strong><a
-                    href="tel:97143373565"><strong>+971 43373565</strong></a><strong>.</strong></p>
+                <p><strong>To learn more about our carpentry services, reach out to RashedMazumdar today at </strong><a
+                    href="tel:971555199753"><strong>+971 55 519 9753</strong></a><strong>.</strong></p>
               </div>
             </div>
             <div class="separator-div bottom w-condition-invisible">
@@ -100,51 +100,7 @@ include 'services-header.php';
         </div>
       </div>
     </div>
-    <!-- <div class="section no-top-padding">
-      <div class="main-container">
-        <div class="w-dyn-list">
-          <div role="list" class="portrait-links-grid w-dyn-items">
-            <div role="listitem" class="w-dyn-item">
-              <div class="portrait-link-box"><img alt=""
-                  src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95588f1e1598ef0867553_carpentry-deck-repair.2106251448470.jpg"
-                  class="image" />
-                <div class="boxed portrait-link-box-content">
-                  <h3 class="portrait-link-box-heading">2-Hour Deck Repair</h3><a
-                    href="#"
-                    class="w-inline-block">
-                    <div>Book 2-Hour Deck Repair</div>
-                  </a><a href="../on-demand-services/2-hour-deck-repair.php"
-                    class="w-inline-block w-condition-invisible">
-                    <div>Book 2-Hour Deck Repair</div>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div role="listitem" class="w-dyn-item">
-              <div class="portrait-link-box"><img alt=""
-                  src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95588ca661ea36786a6d1_other-shelving-2.2106251449430.jpg"
-                  class="image" />
-                <div class="boxed portrait-link-box-content">
-                  <h3 class="portrait-link-box-heading">2-Hour Shelving Install</h3><a
-                    href="#"
-                    class="w-inline-block">
-                    <div>Book 2-Hour Shelving Install</div>
-                  </a><a href="../on-demand-services/2-hour-shelving-install.php"
-                    class="w-inline-block w-condition-invisible">
-                    <div>Book 2-Hour Shelving Install</div>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="button-wrapper center top-margin"><a
-            href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557" target="_blank"
-            class="button w-inline-block">
-            <div>Book Additional Services</div>
-          </a></div>
-      </div>
-    </div> -->
+    
     
 
   <?php

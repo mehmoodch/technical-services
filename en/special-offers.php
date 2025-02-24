@@ -24,7 +24,7 @@ include 'header.php';
       class="search-modal-cross" />
     <div class="container-large">
       <h4 class="large-heading">Search</h4>
-      <form action="https://www.purplebricks.ae/search" class="form-horizontal w-form">
+      <form action="https://www.rashedmts.ae/search" class="form-horizontal w-form">
         <input class="form-input w-input"  maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" />
           <input type="submit" class="button form-horizontal-button w-button" value="Search" />
         </form>
@@ -34,7 +34,7 @@ include 'header.php';
     <header id="Page-Header" class="section bg-gray-3">
       <div class="main-container">
         <div class="home-modification-handyman-services no-margin">
-          <span class="text-span">Purple</span>Bricks<sup>®</sup>
+          <span class="text-span">Rashed</span>MTS<sup>®</sup>
           <span class="text-span"></span>
         </div>
         <h1 class="display-heading-2">Special Offers</h1>
@@ -73,7 +73,7 @@ include 'header.php';
           <div class="boxed w-dyn-empty">
             <div class="w-richtext">
               <h2>Sorry, there are no specials to display at this time.</h2>
-              <p>If you would like more information, you can contact us at <a href="tel:97143373565">(+971) 43373565</a>.</p>
+              <p>If you would like more information, you can contact us at <a href="tel:971555199753">(+971) 55 519 9753</a>.</p>
               <p>Thank you!</p>
             </div>
           </div>

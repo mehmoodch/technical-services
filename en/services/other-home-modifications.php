@@ -65,7 +65,7 @@ include'services-header.php';
           <h2>Customized Solutions for a Safer and More Accessible Home</h2>
           <p>Home should be a place of comfort, but for individuals with mobility challenges, it can present obstacles. 
             Moving up and down stairs, accessing bathrooms, and navigating tight spaces can become difficult for seniors 
-            and those with disabilities or injuries. At <strong>Purple Bricks</strong>, we provide home modification solutions 
+            and those with disabilities or injuries. At <strong>Rashed Mazumdar</strong>, we provide home modification solutions 
             designed to enhance accessibility and safety while promoting independent living.</p>
           <p>Our team specializes in modifying homes using universal design principles to create spaces that are both functional 
             and comfortable. Whether you need accessibility ramps, bathroom modifications, or customized installations, we’re 
@@ -79,11 +79,11 @@ include'services-header.php';
             <li>Ceiling-to-floor poles</li>  
             <li>Bed rails</li>
           </ul>
-          <p>These are just some of the ways we can help make your home safer and more accessible. At <strong>Purple Bricks</strong>, 
+          <p>These are just some of the ways we can help make your home safer and more accessible. At <strong>Rashed Mazumdar</strong>, 
             we offer free home modification consultations to understand your specific needs. Our personalized approach ensures 
             that each solution is tailored to your home and lifestyle.</p>
           <p><br /></p>
-          <h3>Why Choose Purple Bricks?</h3>
+          <h3>Why Choose Rashed Mazumdar?</h3>
           <p>Experience matters, and our skilled professionals have years of expertise in home modifications. However, we believe 
             that quality craftsmanship, personalized service, and strong customer relationships are what truly set us apart. 
             Whether it’s a minor adjustment or a major installation, we take pride in delivering the same level of care and precision 
@@ -91,8 +91,8 @@ include'services-header.php';
         </div>
         <div class="separator-div w-condition-invisible">
           <div class="service-rich-text w-richtext">
-            <p><strong>Get in touch with us today at </strong><a href="tel:+97143373565" target="_blank">
-              <strong>+971 43373565</strong></a> <strong>to learn more about how we can enhance your home’s accessibility and comfort.</strong></p>
+            <p><strong>Get in touch with us today at </strong><a href="tel:971555199753" target="_blank">
+              <strong>+971 55 519 9753</strong></a> <strong>to learn more about how we can enhance your home’s accessibility and comfort.</strong></p>
           </div>
         </div>
         <div class="separator-div bottom w-condition-invisible">

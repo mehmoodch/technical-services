@@ -45,13 +45,14 @@ include 'services-header.php';
                 <h1 class="display-heading-2">Tanks & Container Cleaning</h1>
                 <div class="service-rich-text w-richtext">
                     <h2>Professional Cleaning for Tanks & Containers</h2>
-                    <p>Purple Bricks Technical Services LLC specializes in comprehensive tanks and container cleaning services, ensuring the cleanliness and hygiene of your storage systems. Over time, tanks and containers can accumulate dirt, debris, and bacteria, affecting the quality of the materials they store. Our expert team uses advanced cleaning techniques and eco-friendly solutions to thoroughly clean tanks, containers, and other storage units, ensuring they remain in top condition and free from contaminants.</p>
+                    <p>Rashed Mazumdar Technical Services LLC specializes in comprehensive tanks and container cleaning services, ensuring the cleanliness and hygiene of your storage systems. Over time, tanks and containers can accumulate dirt, debris, and bacteria, affecting the quality of the materials they store. Our expert team uses advanced cleaning techniques and eco-friendly solutions to thoroughly clean tanks, containers, and other storage units, ensuring they remain in top condition and free from contaminants.</p>
                     <p>We provide both residential and commercial cleaning services for various types of tanks and containers. Whether you require one-time deep cleaning or regular maintenance, our team delivers high-quality service to meet your needs. We are equipped to handle a wide range of cleaning projects, from water tanks to industrial containers.</p>
                     <p>Our services include detailed cleaning, inspection, and maintenance to ensure your tanks and containers remain fully operational and hygienic. We use specialized equipment and non-toxic cleaning agents to remove sediment, algae, rust, and other impurities, restoring your storage units to their optimal condition.</p>
                 </div>
                 <div class="separator-div">
                     <div class="service-rich-text w-richtext">
-                        <p><strong>Contact our tanks and container cleaning experts today at </strong><a href="tel:+97143373565" target="_blank"><strong>+971 43373565</strong></a> <strong>to schedule your service and learn more!</strong></p>
+                        <p><strong>Contact our tanks and container cleaning experts today at </strong>
+						<a href="tel:971555199753" target="_blank"><strong>+971 55 519 9753</strong></a> <strong>to schedule your service and learn more!</strong></p>
                     </div>
                 </div>
             </div>
@@ -66,82 +67,16 @@ include 'services-header.php';
     </div>
 </div>
 
-
-		<!-- <div class="section no-top-padding">
-			<div class="main-container">
-				<div class="w-dyn-list">
-					<div role="list" class="portrait-links-grid w-dyn-items">
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558b329b4bc1e5e5aaa5_exterior-door.2106251449333.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">2-Hour Exterior Door Repair</h3><a href="https://book.handypro.com/handyman/exteriordoorrepair?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
-										<div>Book Exterior Door Repair</div>
-									</a><a href="../on-demand-services/2-hour-exterior-door-repair.php" class="w-inline-block w-condition-invisible">
-										<div>Book Exterior Door Repair</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558c138fb3bc38dffe1b_exterior-storm-door.2106251449303.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Storm Door Install</h3><a href="https://book.handypro.com/handyman/stormdoorinstall?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
-										<div>Book Storm Door Install</div>
-									</a><a href="../on-demand-services/storm-door-install.php" class="w-inline-block w-condition-invisible">
-										<div>Book Storm Door Install</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558c1abcaf97c4552fe4_exterior-siding-repair.2106251449296.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">2-Hour Siding Repair</h3><a href="https://book.handypro.com/handyman/sidingrepair2hr?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
-										<div>Book Siding Repair</div>
-									</a><a href="../on-demand-services/2-hour-siding-repair.php" class="w-inline-block w-condition-invisible">
-										<div>Book Siding Repair</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558cb37471f8f21dd9b6_exterior-one-story-gutter.2106251449388.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">One-Story Gutter Cleaning</h3><a href="https://book.handypro.com/handyman/gutter?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
-										<div>Book One-Story Gutter Cleaning</div>
-									</a><a href="../on-demand-services/one-story-gutter-cleaning.php" class="w-inline-block w-condition-invisible">
-										<div>Book One-Story Gutter Cleaning</div>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div role="listitem" class="w-dyn-item">
-							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558c605c1acf75a9ea53_exterior-gutter-repair.2106251449350.jpg" class="image" />
-								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">2-Hour Gutter Repair</h3><a href="https://book.handypro.com/handyman/gutterrepair?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
-										<div>Book 2-Hour Gutter Repair</div>
-									</a><a href="../on-demand-services/2-hour-gutter-repair.php" class="w-inline-block w-condition-invisible">
-										<div>Book 2-Hour Gutter Repair</div>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="button-wrapper center top-margin"><a href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557" target="_blank" class="button w-inline-block">
-						<div>Book Additional Services</div>
-					</a></div>
-			</div>
-		</div> -->
 		<div class="section bg-gray-4">
     <div class="w-layout-grid grid-halves fullwidth-grid-halves reverse-direction">
         <div class="container align-center">
             <div class="service-rich-text w-richtext">
                 <h3><strong>Inside or Out, We’ve Got Your Tanks & Containers Covered</strong></h3>
-                <p>Say goodbye to the hassle of hiring multiple companies for your tank and container cleaning needs. Not only is this costly, but coordinating schedules with different service providers can be a challenge. With Purple Bricks Technical Services LLC, you can enjoy the convenience of making one call for all your tanks and container cleaning needs. We offer both residential and commercial tank cleaning services to ensure your tanks, water storage units, and containers are spotless and free from harmful contaminants. As homeowners and business owners ourselves, we understand how important it is to maintain clean and safe storage systems. We’re committed to delivering top-notch cleaning services that exceed your expectations.</p>
+                <p>Say goodbye to the hassle of hiring multiple companies for your tank and container cleaning needs. Not only is this costly, but coordinating schedules with different service providers can be a challenge. With Rashed Mazumdar Technical Services LLC, you can enjoy the convenience of making one call for all your tanks and container cleaning needs. We offer both residential and commercial tank cleaning services to ensure your tanks, water storage units, and containers are spotless and free from harmful contaminants. As homeowners and business owners ourselves, we understand how important it is to maintain clean and safe storage systems. We’re committed to delivering top-notch cleaning services that exceed your expectations.</p>
             </div>
             <div class="service-rich-text w-richtext">
-                <p><strong>When it’s time to clean your tanks or containers, Purple Bricks is ready to assist. Give us a call or </strong><a target="_blank" href="https://book.purplebricks.com/?sid=1619799557&amp;sid=1619799557"><strong>schedule your cleaning service online today!</strong></a></p>
+                <p><strong>When it’s time to clean your tanks or containers, Rashed Mazumdar is ready to assist. Give us a call or </strong>
+				<a target="_blank" href="../contact-us.php"><strong>schedule your cleaning service online today!</strong></a></p>
             </div>
         </div>
         <div id="w-node-b7005c84-7de9-9f18-2ae2-2376c033a8b9-87d0e337" class="container-large">
