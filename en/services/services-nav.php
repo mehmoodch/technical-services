@@ -273,7 +273,7 @@
                 <a href="../contact-us.php"  target="_blank" class="button nav w-inline-block">
                   <div>Book Now</div>
                 </a>
-                <a href="#" class="search-link w-inline-block">
+                <a href="https://rashedmts.ae/en/search" class="search-link w-inline-block">
                   <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e129_icon-search.svg" alt="" class="search-link-icon" />
                   <div>Search</div>
                 </a>

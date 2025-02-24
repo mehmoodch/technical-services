@@ -175,7 +175,7 @@
         class="search-modal-cross" />
       <div class="container-large">
         <h4 class="large-heading">Search</h4>
-        <form action="https://purplebricks.ae/en/search" class="form-horizontal w-form"><input class="form-input w-input"
+        <form action="https://rashedmts.ae/en/search" class="form-horizontal w-form"><input class="form-input w-input"
             maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input
             type="submit" class="button form-horizontal-button w-button" value="Search" /></form>
       </div>
