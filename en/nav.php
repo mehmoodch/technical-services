@@ -34,7 +34,7 @@
                     <div class="service-wrapper mob-only w-dyn-list">
                       <div role="list" class="navigation-link-wrapper mob-only w-dyn-items">
                         <div role="listitem" class="w-dyn-item">
-                          <a href="services/handyman-services.php"  class="navigation-link-l w-inline-block">
+                          <a href="services/other-handyman-services.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🏗️ Maintenance & Renovation Services</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -44,7 +44,7 @@
                           </a>
                         </div>
                         <div role="listitem" class="w-dyn-item">
-                          <a href="services/home-modification.php"  class="navigation-link-l w-inline-block">
+                          <a href="services/other-home-modifications.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🔧 Mechanical, Electrical & Plumbing (MEP)</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -54,7 +54,7 @@
                           </a>
                         </div>
                         <div role="listitem" class="w-dyn-item">
-                          <a href="services/commercial-services.php"  class="navigation-link-l w-inline-block">
+                          <a href="services/cleaning.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🏊‍♂️ Specialized Maintenance & Cleaning Services</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">

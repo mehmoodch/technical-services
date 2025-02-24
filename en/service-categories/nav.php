@@ -1,12 +1,12 @@
 <div class="navbar-container sticky-top bg-white">
     <div class="main-container right">
-      <a data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3c" href="tel:+97143373565"  class="grid-button w-inline-block">
+      <a data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3c" href="tel:+971555199753"  class="grid-button w-inline-block">
         <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3d-5da6ec3b" data-is-ix2-target="1" class="lottie-icon"
           data-w-id="44afdc1b-6a30-3e35-d66d-a8eb5da6ec3d" data-animation-type="lottie"
           data-src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64d67a4520567bb2db7aeeab_lottieflow-chat-17-6-f95603-easey.json"
           data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg"
           data-default-duration="1.4666666666666666" data-duration="0" data-ix2-initial-state="0"></div>
-        <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3e-5da6ec3b" class="phone-number-text">+971-43373565 | info@purplebricks.ae</div>
+        <div id="w-node-_44afdc1b-6a30-3e35-d66d-a8eb5da6ec3e-5da6ec3b" class="phone-number-text">+971-555199753 | info@purplebricks.ae</div>
       </a>
     </div>
     <div class="main-container">

@@ -89,8 +89,8 @@ include'services-header.php';
         </div>
         <div class="separator-div w-condition-invisible">
           <div class="service-rich-text w-richtext">
-            <p><strong>Contact us today at </strong><a href="tel:+97143373565" target="_blank">
-              <strong>+971 43373565</strong></a> <strong>to learn more about how we can assist you with your home improvement projects.</strong></p>
+            <p><strong>Contact us today at </strong><a href="tel:+971555199753" target="_blank">
+              <strong>+971 555199753</strong></a> <strong>to learn more about how we can assist you with your home improvement projects.</strong></p>
           </div>
         </div>
         <div class="separator-div bottom w-condition-invisible">

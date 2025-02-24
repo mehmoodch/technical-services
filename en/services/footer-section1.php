@@ -14,7 +14,7 @@
           <li>Electrical and lighting</li>
           <li>Furniture assembly</li>
         </ul>
-        <p>If you own a business, Rashed Mazumdar Technical Services also offers commercial handyman services. We are committed to helping you maintain your home or commercial space with reliable solutions and professional craftsmanship. Schedule a service online or call us at +971 43373565 to learn how we can assist you.</p>
+        <p>If you own a business, Rashed Mazumdar Technical Services also offers commercial handyman services. We are committed to helping you maintain your home or commercial space with reliable solutions and professional craftsmanship. Schedule a service online or call us at +971 555199753 to learn how we can assist you.</p>
       </div>
       <div class="service-rich-text w-richtext">
         <p>

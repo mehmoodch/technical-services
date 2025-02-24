@@ -158,7 +158,7 @@ include 'services-header.php';
             </div>
             <div class="service-rich-text w-richtext">
               <p>
-                <strong>We are homeowners ourselves and understand how stressful and time-consuming home projects can be. With the Rashed Mazumdar team, you can rest assured that a trusted solution is always just a </strong><a href="tel:+97143373565"><strong>call</strong></a><strong> or </strong>
+                <strong>We are homeowners ourselves and understand how stressful and time-consuming home projects can be. With the Rashed Mazumdar team, you can rest assured that a trusted solution is always just a </strong><a href="tel:+971555199753"><strong>call</strong></a><strong> or </strong>
               <a href="#" target="_blank"><strong>click</strong></a><strong> away.</strong></p>
             </div>
          </div>

@@ -67,7 +67,7 @@ include 'services-header.php';
 					</div>
 					<div class="separator-div w-condition-invisible">
 						<div class="service-rich-text w-richtext">
-							<p><strong>The Rashed Mazumdar team is ready to assist you.</strong> <a target="_blank" href="../contact-us.php"><strong>Schedule a cleaning service online</strong></a><strong> or call us at </strong><a href="tel:+97143373565"><strong>+971 43373565</strong></a><strong>!</strong></p>
+							<p><strong>The Rashed Mazumdar team is ready to assist you.</strong> <a target="_blank" href="../contact-us.php"><strong>Schedule a cleaning service online</strong></a><strong> or call us at </strong><a href="tel:+971555199753"><strong>+971 555199753</strong></a><strong>!</strong></p>
 						</div>
 					</div>
 					<div class="separator-div bottom w-condition-invisible">
