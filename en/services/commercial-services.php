@@ -114,10 +114,14 @@ include'services-header.php';
 		<div class="section bg-gray-4 w-condition-invisible">
 			<div class="w-layout-grid grid-halves fullwidth-grid-halves reverse-direction w-condition-invisible">
 				<div class="container align-center">
-					<div class="service-rich-text w-dyn-bind-empty w-richtext"></div>
-					<div class="button-wrapper"><a href="#" data-w-id="0575f5ee-5977-fc41-0922-86947bd21e17" class="button w-button">Call Now!</a></div>
+					<div class="service-rich-text w-dyn-bind-empty w-richtext">
+
+					</div>
+					<div class="button-wrapper">
+						<a href="#" data-w-id="0575f5ee-5977-fc41-0922-86947bd21e17" class="button w-button">Call Now!</a></div>
 				</div>
-				<div id="w-node-_9f7194f4-e3e9-2b93-0b86-a5194df635f2-87d0e336"><img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-right-large shadow-large" /></div>
+				<div id="w-node-_9f7194f4-e3e9-2b93-0b86-a5194df635f2-87d0e336">
+					<img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-right-large shadow-large" /></div>
 			</div>
 		</div>
 		<section class="section bg-gray-4 w-condition-invisible">
@@ -130,43 +134,51 @@ include'services-header.php';
 				<div class="container align-center">
 					<div class="service-rich-text w-dyn-bind-empty w-richtext"></div>
 				</div>
-				<div id="w-node-aeaa9d59-67c0-7904-8c08-46d32514f714-87d0e336"><img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-right-large shadow-large w-dyn-bind-empty" /></div>
+				<div id="w-node-aeaa9d59-67c0-7904-8c08-46d32514f714-87d0e336">
+					<img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-right-large shadow-large w-dyn-bind-empty" /></div>
 			</div>
 			<div class="w-layout-grid grid-halves fullwidth-grid-halves w-condition-invisible">
 				<div class="container align-center">
 					<div class="service-rich-text w-dyn-bind-empty w-richtext"></div>
 				</div>
-				<div id="w-node-_0ef321e0-d3b8-377f-d5c7-00b103a2b898-87d0e336" class="container vertical-center"><img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-left-large shadow-large w-dyn-bind-empty" /></div>
+				<div id="w-node-_0ef321e0-d3b8-377f-d5c7-00b103a2b898-87d0e336" class="container vertical-center">
+					<img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-left-large shadow-large w-dyn-bind-empty" /></div>
 			</div>
 			<div class="w-layout-grid grid-halves fullwidth-grid-halves reverse-direction w-condition-invisible">
 				<div class="container align-center">
 					<div class="service-rich-text w-dyn-bind-empty w-richtext"></div>
 				</div>
-				<div id="w-node-a1a1a263-a9c6-9e37-7dcd-f07d02fa4d93-87d0e336" class="container vertical-center"><img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-right-large shadow-large w-dyn-bind-empty" /></div>
+				<div id="w-node-a1a1a263-a9c6-9e37-7dcd-f07d02fa4d93-87d0e336" class="container vertical-center">
+					<img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-right-large shadow-large w-dyn-bind-empty" /></div>
 			</div>
 			<div class="w-layout-grid grid-halves fullwidth-grid-halves w-condition-invisible">
 				<div class="container align-center">
 					<div class="service-rich-text w-dyn-bind-empty w-richtext"></div>
 				</div>
-				<div id="w-node-_74baa979-7969-e6fb-f3c9-80bfb924a9e4-87d0e336" class="container vertical-center"><img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-left-large shadow-large w-dyn-bind-empty" /></div>
+				<div id="w-node-_74baa979-7969-e6fb-f3c9-80bfb924a9e4-87d0e336" class="container vertical-center">
+					<img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-left-large shadow-large w-dyn-bind-empty" /></div>
 			</div>
 			<div class="w-layout-grid grid-halves fullwidth-grid-halves reverse-direction w-condition-invisible">
 				<div class="container align-center">
 					<div class="service-rich-text w-dyn-bind-empty w-richtext"></div>
 				</div>
-				<div id="w-node-e4fe16f6-20db-97e8-9263-99f0fb9b738b-87d0e336" class="container vertical-center"><img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-right-large shadow-large w-dyn-bind-empty" /></div>
+				<div id="w-node-e4fe16f6-20db-97e8-9263-99f0fb9b738b-87d0e336" class="container vertical-center">
+					<img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-right-large shadow-large w-dyn-bind-empty" /></div>
 			</div>
 			<div class="w-layout-grid grid-halves fullwidth-grid-halves w-condition-invisible">
 				<div class="container align-center">
 					<div class="service-rich-text w-dyn-bind-empty w-richtext"></div>
 				</div>
-				<div id="w-node-_3046587b-f0ae-dbe7-c7ba-5ba2725f8815-87d0e336" class="container vertical-center"><img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-left-large shadow-large w-dyn-bind-empty" /></div>
+				<div id="w-node-_3046587b-f0ae-dbe7-c7ba-5ba2725f8815-87d0e336" class="container vertical-center">
+					<img src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c9587fe6396fb775618728_content-06.2107121250507%20(1).jpg" alt="" class="rounded-left-large shadow-large w-dyn-bind-empty" /></div>
 			</div>
-			<div class="button-wrapper center"><a href="tel:(800)942-6394" data-w-id="921d087a-64dd-6205-f72f-0512fcfe28c5" class="button w-button">Call Us</a><a href="#" data-w-id="921d087a-64dd-6205-f72f-0512fcfe28c7" class="button w-button">Book Now</a></div>
+			<div class="button-wrapper center">
+				<a href="tel:(800)942-6394" data-w-id="921d087a-64dd-6205-f72f-0512fcfe28c5" class="button w-button">Call Us</a><a href="#" data-w-id="921d087a-64dd-6205-f72f-0512fcfe28c7" class="button w-button">Book Now</a></div>
 		</div>
 		<section class="section bg-gray-4 w-condition-invisible">
 			<div class="container-large">
-				<div class="button-wrapper center"><a href="../contact-us.html" data-w-id="8bfce983-e889-7917-bd81-6232e5d7bde1" class="button w-button">Contact Rashed Mazumdar Today!</a></div>
+				<div class="button-wrapper center">
+					<a href="../contact-us.html" data-w-id="8bfce983-e889-7917-bd81-6232e5d7bde1" class="button w-button">Contact Rashed Mazumdar Today!</a></div>
 				<div class="service-rich-text w-dyn-bind-empty w-richtext"></div>
 			</div>
 		</section>

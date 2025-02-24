@@ -64,7 +64,7 @@ include 'services-header.php';
 						</div>
 						<div class="separator-div w-condition-invisible">
 							<div class="service-rich-text w-richtext">
-								<p><strong>For your convenience, you can </strong><a target="_blank" href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557"><strong>schedule a service online</strong></a><strong>or using our mobile app, </strong><a href="../our-story/truztpro-app/index.html"><strong>TruztPro</strong></a><strong>. If you have any questions about our services, give us a call at </strong><a href="tel:(248)780-8950"><strong>(248) 780-8950</strong></a><strong>so that we can assist you.</strong></p>
+								<p><strong>For your convenience, you can </strong><a target="_blank" href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557"><strong>schedule a service online</strong></a><strong>or using our mobile app, </strong><a href="../our-story/truztpro-app/index.html"><strong>TruztPro</strong></a><strong>. If you have any questions about our services, give us a call at </strong><a href="tel:(248)780-8950"><strong>(248) 780-8950</strong></a><strong>so that we can assist you.</strong></p>
 							</div>
 						</div>
 						<div class="separator-div bottom w-condition-invisible">
@@ -86,7 +86,7 @@ include 'services-header.php';
 						<div role="listitem" class="w-dyn-item">
 							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95588746e9d136dc7a265_electrical-ceiling-fan-over-10%5b1%5d.2106291657524.jpg" class="image" />
 								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Ceiling Fan Replace Under 10&#x27;</h3><a href="https://book.handypro.com/electrical/ceilingfan?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
+									<h3 class="portrait-link-box-heading">Ceiling Fan Replace Under 10&#x27;</h3><a href="https://book.rashedmts.ae/electrical/ceilingfan?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
 										<div>Book Ceiling Fan Replace Under 10&#x27;</div>
 									</a><a href="../on-demand-services/ceiling-fan-replace-under-10.html" class="w-inline-block w-condition-invisible">
 										<div>Book Ceiling Fan Replace Under 10&#x27;</div>
@@ -97,7 +97,7 @@ include 'services-header.php';
 						<div role="listitem" class="w-dyn-item">
 							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558a322b8db19c1c6c69_electrical-switch-replacement.2106292056210.jpg" class="image" />
 								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Switch Replace</h3><a href="https://book.handypro.com/electrical/outlet?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
+									<h3 class="portrait-link-box-heading">Switch Replace</h3><a href="https://book.rashedmts.ae/electrical/outlet?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
 										<div>Book Switch Replacement</div>
 									</a><a href="../on-demand-services/switch-replace.html" class="w-inline-block w-condition-invisible">
 										<div>Book Switch Replacement</div>
@@ -108,7 +108,7 @@ include 'services-header.php';
 						<div role="listitem" class="w-dyn-item">
 							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9537ea91f83a68cc990a0_electrical-outlet.2106292057040.jpg" class="image" />
 								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Outlet/GFCI Replace</h3><a href="https://book.handypro.com/electrical/gfci?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
+									<h3 class="portrait-link-box-heading">Outlet/GFCI Replace</h3><a href="https://book.rashedmts.ae/electrical/gfci?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
 										<div>Book Outlet/GFCI Replace</div>
 									</a><a href="../on-demand-services/outlet-gfci-replace.html" class="w-inline-block w-condition-invisible">
 										<div>Book Outlet/GFCI Replace</div>
@@ -119,7 +119,7 @@ include 'services-header.php';
 						<div role="listitem" class="w-dyn-item">
 							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9537dcc018afaae434a25_electrical-smoke.2106292056365.jpg" class="image" />
 								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Smoke Detector Install</h3><a href="https://book.handypro.com/electrical/smokedetector?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
+									<h3 class="portrait-link-box-heading">Smoke Detector Install</h3><a href="https://book.rashedmts.ae/electrical/smokedetector?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
 										<div>Book Smoke Detector Install</div>
 									</a><a href="../on-demand-services/smoke-detector-install.html" class="w-inline-block w-condition-invisible">
 										<div>Book Smoke Detector Install</div>
@@ -130,7 +130,7 @@ include 'services-header.php';
 						<div role="listitem" class="w-dyn-item">
 							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558bc1cdf7d6d34e0946_electrical-exhaust-fan.2106292057280.jpg" class="image" />
 								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Exhaust Fan Install</h3><a href="https://book.handypro.com/electrical/exhaustfan?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
+									<h3 class="portrait-link-box-heading">Exhaust Fan Install</h3><a href="https://book.rashedmts.ae/electrical/exhaustfan?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
 										<div>Book Exhaust Fan Install</div>
 									</a><a href="../on-demand-services/exhaust-fan-install.html" class="w-inline-block w-condition-invisible">
 										<div>Book Exhaust Fan Install</div>
@@ -141,7 +141,7 @@ include 'services-header.php';
 						<div role="listitem" class="w-dyn-item">
 							<div class="portrait-link-box"><img alt="" src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558bd33964717d04cd97_electrical-recessed-light.2106292056546.jpg" class="image" />
 								<div class="boxed portrait-link-box-content">
-									<h3 class="portrait-link-box-heading">Light Replace Under 10&#x27;</h3><a href="https://book.handypro.com/electrical/light-10?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
+									<h3 class="portrait-link-box-heading">Light Replace Under 10&#x27;</h3><a href="https://book.rashedmts.ae/electrical/light-10?sid=1619799557&amp;sid=1619799557" class="w-inline-block">
 										<div>Book Light Replace Under 10&#x27;</div>
 									</a><a href="../on-demand-services/light-replace-under-10.html" class="w-inline-block w-condition-invisible">
 										<div>Book Light Replace Under 10&#x27;</div>
@@ -151,7 +151,7 @@ include 'services-header.php';
 						</div>
 					</div>
 				</div>
-				<div class="button-wrapper center top-margin"><a href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557" target="_blank" class="button w-inline-block">
+				<div class="button-wrapper center top-margin"><a href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557" target="_blank" class="button w-inline-block">
 						<div>Book Additional Services</div>
 					</a></div>
 			</div>

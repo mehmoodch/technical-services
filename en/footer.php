@@ -3,7 +3,7 @@
         <div class="footer-1-top-row bottom-margin">
           <a href="index.php" aria-current="page"  class="footer-2-logo w-inline-block w--current"> 
             <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/rashedmts.jpeg" alt="Handyman Services by Rashed MTS" /></a>
-            <a href="#" target="_blank"  class="button w-inline-block">
+            <a href="contact-us.php" target="_blank"  class="button w-inline-block">
             <div>Book Now</div>
           </a></div>
         <div class="footer-1-top-row bottom-margin">
@@ -190,7 +190,8 @@
   </div>
   <script src="../d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c89101.js?site=64c93da6f9f661cffa20dfee" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
   </script>  
-  <script src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/js/handypro.1b2f4fff.cec9473d751b51ef.js" type="text/javascript"></script><!--Start of Tawk.to Script-->
+  <script src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/js/handypro.1b2f4fff.cec9473d751b51ef.js" type="text/javascript"></script>
+  <!--Start of Tawk.to Script-->
   <!--Start of Tawk.to Script-->
 <!-- <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();

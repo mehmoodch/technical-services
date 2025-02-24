@@ -33,7 +33,7 @@
                     Rashed Mazumdar Technical Services LLC
                 </div>
                 <div class="home-modification-handyman-services top-margin medium dark">
-                    Contact: +971 4 337 3565
+                    Contact: +971 55 519 9753
                 </div>
             </div>
             <div class="container align-center">
@@ -399,7 +399,7 @@
                 data-src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dfb3137fe352abbc7a6249_lottieflow-chat-17-6-ffffff-easey.json"
                 data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg"
                 data-default-duration="1.4666666666666666" data-duration="0" data-ix2-initial-state="0"></div>
-              <div id="w-node-_1c4c104e-f1d7-0e68-0c0c-53a31fc79568-87d0e3f9" class="phone-number-text">(+971) 43373565
+              <div id="w-node-_1c4c104e-f1d7-0e68-0c0c-53a31fc79568-87d0e3f9" class="phone-number-text">(+971) 55 519 9753
               </div>
             </a><a href="contact-us.php" class="link-with-arrow adjacent-to-button w-inline-block">
               <div class="text-white">Contact us</div><img

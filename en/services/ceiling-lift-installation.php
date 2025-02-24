@@ -90,7 +90,7 @@ include 'services-header.php';
                 <p><strong>Reach out to us today at </strong><a href="tel:(248)780-8950"><strong>(248)
                       780-8950</strong></a><strong> to learn about how we can customize a solution for your home with
                     our Individual Environmental Fit™ service. You can also </strong><a
-                    href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557"><strong>schedule a service
+                    href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557"><strong>schedule a service
                       online</strong></a><strong> or using our </strong><a
                     href="../our-story/truztpro-app/index.html"><strong>TruztPro app</strong></a><strong>!</strong></p>
               </div>
@@ -119,7 +119,7 @@ include 'services-header.php';
           </div>
         </div>
         <div class="button-wrapper center top-margin"><a
-            href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557" target="_blank"
+            href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557" target="_blank"
             class="button w-inline-block">
             <div>Book Additional Services</div>
           </a></div>
@@ -144,7 +144,7 @@ include 'services-header.php';
         <div class="footer-1-top-row bottom-margin"><a href="../index.html" class="footer-2-logo w-inline-block"><img
               src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93ecf583591b233e7f535_HandyPro Logo.webp"
               alt="Handyman Services by HandyPro" /></a><a
-            href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557" target="_blank"
+            href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557" target="_blank"
             class="button w-inline-block">
             <div>Book Now</div>
           </a></div>
@@ -316,7 +316,7 @@ include 'services-header.php';
         </a></div>
     </div>
   </div>
-  <div class="mob-cta-wrapper-2"><a href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557" target="_blank"
+  <div class="mob-cta-wrapper-2"><a href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557" target="_blank"
       class="button w-inline-block">
       <div> Book Now</div>
     </a></div>
@@ -325,7 +325,7 @@ include 'services-header.php';
       class="search-modal-cross" />
     <div class="container-large">
       <h4 class="large-heading">Search</h4>
-      <form action="https://www.handypro.com/search" class="form-horizontal w-form"><input class="form-input w-input"
+      <form action="https://www.rashedmts.ae/search" class="form-horizontal w-form"><input class="form-input w-input"
           maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input
           type="submit" class="button form-horizontal-button w-button" value="Search" /></form>
     </div>
@@ -352,6 +352,6 @@ include 'services-header.php';
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 </body>
-<!-- Mirrored from www.handypro.com/services/ceiling-lift-installation by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Feb 2025 11:52:05 GMT -->
+<!-- Mirrored from www.rashedmts.ae/services/ceiling-lift-installation by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Feb 2025 11:52:05 GMT -->
 
 </html>

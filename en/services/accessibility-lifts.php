@@ -112,7 +112,7 @@ include 'services-header.php';
           </div>
         </div>
         <div class="button-wrapper center top-margin"><a
-            href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557" target="_blank"
+            href="https://book.rashedmts.ae/?sid=1619799557&amp;sid=1619799557" target="_blank"
             class="button w-inline-block">
             <div>Book Additional Services</div>
           </a></div>
