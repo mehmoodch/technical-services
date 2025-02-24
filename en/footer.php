@@ -32,15 +32,16 @@
 </p>
 </div>
             </div>
-            <div class="button-wrapper grid _6"><a id="w-node-ae8bed50-d87c-8c8d-360f-a0d358aa7a61-9d3b08c6" href="#"
+            <div class="button-wrapper grid _6"><a id="w-node-ae8bed50-d87c-8c8d-360f-a0d358aa7a61-9d3b08c6" href="contact-us.php"
                 target="_blank" class="social-button w-inline-block">
-                <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
+                <div class="icon-embed-xsmall-2 w-embed">
+                  <svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"
                     class="iconify iconify--simple-icons" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
                     <path fill="currentColor" d="M21.543 7.104c.015.211.015.423.015.636c0 6.507-4.954 14.01-14.01 14.01v-.003A13.94 13.94 0 0 1 0 19.539a9.88 9.88 0 0 0 7.287-2.041a4.93 4.93 0 0 1-4.6-3.42a4.9 4.9 0 0 0 2.223-.084A4.926 4.926 0 0 1 .96 9.167v-.062a4.9 4.9 0 0 0 2.235.616A4.93 4.93 0 0 1 1.67 3.148a13.98 13.98 0 0 0 10.15 5.144a4.929 4.929 0 0 1 8.39-4.49a9.9 9.9 0 0 0 3.128-1.196a4.94 4.94 0 0 1-2.165 2.724A9.8 9.8 0 0 0 24 4.555a10 10 0 0 1-2.457 2.549">
                     </path> </svg>
                 </div>  </a>
-                <a id="w-node-d98ec0bc-7883-b8cf-57ed-58c46963d909-9d3b08c6" href="#" target="_blank"
+                <a id="w-node-d98ec0bc-7883-b8cf-57ed-58c46963d909-9d3b08c6" href="contact-us.php" target="_blank"
                 class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--ic"
@@ -49,7 +50,7 @@
                       d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95">
                     </path>
                   </svg></div>
-              </a><a id="w-node-_534b135c-0c76-a3ab-5226-6911e11ceaca-9d3b08c6" href="#" target="_blank"
+              </a><a id="w-node-_534b135c-0c76-a3ab-5226-6911e11ceaca-9d3b08c6" href="contact-us.php" target="_blank"
                 class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--bx"
@@ -62,7 +63,7 @@
                       d="M20.533 6.111A4.605 4.605 0 0 0 17.9 3.479a6.606 6.606 0 0 0-2.186-.42c-.963-.042-1.268-.054-3.71-.054s-2.755 0-3.71.054a6.554 6.554 0 0 0-2.184.42a4.6 4.6 0 0 0-2.633 2.632a6.585 6.585 0 0 0-.419 2.186c-.043.962-.056 1.267-.056 3.71c0 2.442 0 2.753.056 3.71c.015.748.156 1.486.419 2.187a4.61 4.61 0 0 0 2.634 2.632a6.584 6.584 0 0 0 2.185.45c.963.042 1.268.055 3.71.055s2.755 0 3.71-.055a6.615 6.615 0 0 0 2.186-.419a4.613 4.613 0 0 0 2.633-2.633c.263-.7.404-1.438.419-2.186c.043-.962.056-1.267.056-3.71s0-2.753-.056-3.71a6.581 6.581 0 0 0-.421-2.217zm-1.218 9.532a5.043 5.043 0 0 1-.311 1.688a2.987 2.987 0 0 1-1.712 1.711a4.985 4.985 0 0 1-1.67.311c-.95.044-1.218.055-3.654.055c-2.438 0-2.687 0-3.655-.055a4.96 4.96 0 0 1-1.669-.311a2.985 2.985 0 0 1-1.719-1.711a5.08 5.08 0 0 1-.311-1.669c-.043-.95-.053-1.218-.053-3.654c0-2.437 0-2.686.053-3.655a5.038 5.038 0 0 1 .311-1.687c.305-.789.93-1.41 1.719-1.712a5.01 5.01 0 0 1 1.669-.311c.951-.043 1.218-.055 3.655-.055s2.687 0 3.654.055a4.96 4.96 0 0 1 1.67.311a2.991 2.991 0 0 1 1.712 1.712a5.08 5.08 0 0 1 .311 1.669c.043.951.054 1.218.054 3.655c0 2.436 0 2.698-.043 3.654h-.011z"
                       fill="currentColor"></path>
                   </svg></div>
-              </a><a id="w-node-_8cadb9ac-e1c9-68e1-1d4d-3a99e1c3807f-9d3b08c6" href="#" target="_blank"
+              </a><a id="w-node-_8cadb9ac-e1c9-68e1-1d4d-3a99e1c3807f-9d3b08c6" href="contact-us.php" target="_blank"
                 class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--bx"
@@ -71,7 +72,7 @@
                       d="M21.593 7.203a2.506 2.506 0 0 0-1.762-1.766C18.265 5.007 12 5 12 5s-6.264-.007-7.831.404a2.56 2.56 0 0 0-1.766 1.778c-.413 1.566-.417 4.814-.417 4.814s-.004 3.264.406 4.814c.23.857.905 1.534 1.763 1.765c1.582.43 7.83.437 7.83.437s6.265.007 7.831-.403a2.515 2.515 0 0 0 1.767-1.763c.414-1.565.417-4.812.417-4.812s.02-3.265-.407-4.831zM9.996 15.005l.005-6l5.207 3.005l-5.212 2.995z"
                       fill="currentColor"></path>
                   </svg></div>
-              </a><a id="w-node-_23613b17-8f16-5f05-0944-fc63834582c7-9d3b08c6" href="#" target="_blank"
+              </a><a id="w-node-_23613b17-8f16-5f05-0944-fc63834582c7-9d3b08c6" href="contact-us.php" target="_blank"
                 class="social-button w-inline-block">
                 <div class="icon-embed-xsmall-2 w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--bx"
@@ -155,15 +156,18 @@
           </div>
         </div>
         <div class="footer-bottom-row">
-          <div class="footer-bottom-links"><a href="privacy-policy.php" class="row-link">Privacy Policy</a><a
-              href="terms-of-use.php" class="row-link">Terms of Use</a><a href="accessibility.php"
-              class="row-link">Accessibility</a><a href="disclaimer.php" class="row-link">Disclaimer</a><a
-              href="site-map.php" class="row-link">Site Map</a></div>
+          <div class="footer-bottom-links">
+            <a href="privacy-policy.php" class="row-link">Privacy Policy</a>
+            <a href="terms-of-use.php" class="row-link">Terms of Use</a>
+            <a href="accessibility.php" class="row-link">Accessibility</a>
+            <a href="disclaimer.php" class="row-link">Disclaimer</a>
+            <a href="site-map.php" class="row-link">Site Map</a></div>
         </div>
         
         <div class="footer-bottom-row second">
           <div>
-            <a href="index.php" aria-current="page" class="w--current"><span class="handyman">Rashed MTS Technical Services LLC</span></a>
+            <a href="index.php" aria-current="page" class="w--current">
+              <span class="handyman">Rashed MTS Technical Services LLC</span></a>
              © 2025 All rights reserved. | <a href="privacy-policy.php">Privacy Policy</a> | <a href="terms-of-service.php">Terms of Service</a>
             </div>
         </div>
@@ -172,7 +176,7 @@
     <div class="alert-bar">
       <div class="alert-bar-text">Here&#x27;s a dismissible notice for cookies notices etc.</div>
       <div class="alert-bar-dismiss">
-        <a href="#" class="button bg-gray-3 button-small w-inline-block">
+        <a href="contact-us.php" class="button bg-gray-3 button-small w-inline-block">
           <div>Dismiss</div>
         </a>
       </div>

@@ -9,7 +9,7 @@
     </div>
   </div>
   <div class="mob-cta-wrapper-2">
-    <a href="#" target="_blank"  class="button w-inline-block">
+    <a href="contact-us.php" target="_blank"  class="button w-inline-block">
       <div> Book Now</div>
     </a>
   </div>
@@ -35,7 +35,7 @@
           <p class="display-heading-1"><span class="thin">Giving you more time</span> to make memories</p>
           <p class="text-large">Your trusted partner for handyman and home modification services for over 05
             years<br /><br />Specializing in home modification services &amp; DDA-Compliant accessibility solutions to
-            fit your individual needs</p><a href="#"
+            fit your individual needs</p><a href="contact-us.php"
             target="_blank" class="button w-inline-block">
             <div> Book Now</div>
           </a>
@@ -130,7 +130,7 @@
       <div class="main-container">
         <div class="embed-full-width w-embed w-script">
           <div data-embed-placeholder="16012">
-            <script src="#"></script>
+            <script src="contact-us.php"></script>
           </div>
         </div>
       </div>
