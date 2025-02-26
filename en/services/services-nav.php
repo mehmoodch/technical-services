@@ -24,6 +24,7 @@
           <div class="navbar-right-contents">
             <nav role="navigation" class="nav-menu nav-menu-right-aligned w-nav-menu">
               <a href="../index.php" aria-current="page" class="nav-link w-nav-link w--current">Home</a>
+              <a href="../our-story.php" aria-current="page" class="nav-link w-nav-link w--current">Our Story</a>
               <div data-hover="false" data-delay="0" class="dropdown w-dropdown">
                 <div class="nav-link w-dropdown-toggle">
                   <div>Services</div><img

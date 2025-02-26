@@ -45,7 +45,7 @@ include 'services-header.php';
         <div class="service-rich-text w-richtext">
           <h2>Expert Repairs, Installations &amp; Bathroom Upgrades</h2>
           <p>Your home's plumbing system plays a crucial role in your daily routine. From sinks and showers to toilets and faucets, these fixtures are essential for convenience and functionality. At <strong>Rashed Mazumdar</strong>, we offer professional plumbing fixture repair, installation, and bathroom remodeling services tailored to your needs. Whether you're dealing with a leaking sink, a malfunctioning toilet, or planning a complete bathroom upgrade, our skilled team is ready to assist. With just a call or a click, you can count on us for reliable and cost-effective plumbing solutions.</p>
-          <p><a href="../handyman-services/plumbing-fixtures/index.php#OnDemand"><strong>Choose an On-Demand Service and Book Online Today!</strong></a></p>
+          <p><a href="../contact-us.php"><strong>Choose an On-Demand Service and Book Online Today!</strong></a></p>
           <h3>Seamless Fixture Installations</h3>
           <p>Enhancing your bathroom? Let <strong>Rashed Mazumdar</strong> bring your vision to life. With over 25 years of industry experience, our expert team ensures flawless installations for a modern and functional space. We take pride in our craftsmanship and attention to detail, making sure your new bathroom meets your expectations.</p>
           <p><strong>Our plumbing fixture installation services include:</strong></p>

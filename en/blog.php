@@ -16,22 +16,15 @@
   <div class="search-modal"><img
       src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt=""
       class="search-modal-cross" />
-    <div class="container-large">
-      <h4 class="large-heading">Search</h4>
-      <form action="https://www.purplebricks.com/search" class="form-horizontal w-form">
-        <input class="form-input w-input"
-          maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input
-          type="submit" class="button form-horizontal-button w-button" value="Search" />
-        </form>
-    </div>
+    
   </div>
   <div class="page-wrapper">
     <header id="Page-Header" class="section bg-gray-3">
       <div class="main-container">
-        <div class="home-modification-handyman-services no-margin"><span class="text-span">Purple</span>Bricks<sup>®</sup>
+        <div class="home-modification-handyman-services no-margin"><span class="text-span">Rashed</span>MTS<sup>®</sup>
           <span class="text-span"></span></div>
         <h1 class="display-heading-2">Blog</h1>
-        <div class="text-large">Check out what people are saying about Purple Bricks. Browse through some of the blog posts
+        <div class="text-large">Check out what people are saying about Rashed Mazumdar. Browse through some of the blog posts
           from our company!</div>
       </div>
     </header>
