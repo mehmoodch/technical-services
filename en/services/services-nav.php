@@ -35,7 +35,7 @@
                     <div class="service-wrapper mob-only w-dyn-list">
                       <div role="list" class="navigation-link-wrapper mob-only w-dyn-items">
                         <div role="listitem" class="w-dyn-item">
-                          <a href="service-categories/handyman-services.php"  class="navigation-link-l w-inline-block">
+                          <a href="other-handyman-services.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🏗️ Maintenance & Renovation Services</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -45,7 +45,7 @@
                           </a>
                         </div>
                         <div role="listitem" class="w-dyn-item">
-                          <a href="other-home-modification.php"  class="navigation-link-l w-inline-block">
+                          <a href="other-home-modifications.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🔧 Mechanical, Electrical & Plumbing (MEP)</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
