@@ -32,17 +32,25 @@
           <ol role="list">
             <li><strong>Acceptance of Terms</strong></li>
           </ol>
-          <p>By visiting the website of <a href="https//:www.rashedmts.ae/" target="_blank"> Rashed Mazumdar Technical Services LLC </a>, viewing, accessing, or otherwise using any of the services or information provided, you agree to be bound by the following Terms and Conditions of Service. If you do not agree to these Terms, you must refrain from using our website. Your continued use of this site constitutes a legally binding agreement between you and Rashed Mazumdar Technical Services LLC.</p>
+          <p>By visiting the website of <a href="https://www.rashedmts.ae" target="_blank"> Rashed Mazumdar Technical Services LLC </a>, viewing, accessing, or 
+          otherwise using any of the services or information provided, you agree to be bound by the following Terms and Conditions of Service. 
+          If you do not agree to these Terms, you must refrain from using our website. Your continued use of this site constitutes a legally binding agreement 
+          between you and Rashed Mazumdar Technical Services LLC.</p>
           
           <ol start="2" role="list">
             <li><strong>Provision of Services</strong></li>
           </ol>
-          <p>Rashed Mazumdar Technical Services LLC reserves the right to modify, improve, or discontinue any of its services at its sole discretion and without prior notice. This may include limiting or restricting access to certain features or content. Additionally, services may be provided through subsidiaries or affiliated entities.</p>
+          <p>Rashed Mazumdar Technical Services LLC reserves the right to modify, improve, or discontinue any of its services at its sole discretion and without prior
+             notice. This may include limiting or restricting access to certain features or content. Additionally, services may be provided through subsidiaries or
+              affiliated entities.</p>
           
           <ol start="3" role="list">
             <li><strong>Intellectual Property Rights</strong></li>
           </ol>
-          <p>All content, including trademarks, service marks, and proprietary information on this website, is protected by intellectual property laws. You are permitted to view and use the content for personal, non-commercial purposes only. Any reproduction, distribution, or sale of content without prior written consent from Rashed Mazumdar Technical Services LLC is strictly prohibited. Any third-party trademarks or logos remain the property of their respective owners.</p>
+          <p>All content, including trademarks, service marks, and proprietary information on this website, is protected by intellectual property laws. 
+            You are permitted to view and use the content for personal, non-commercial purposes only. Any reproduction, distribution, or sale of content without prior 
+            written consent from Rashed Mazumdar Technical Services LLC is strictly prohibited. Any third-party trademarks or logos remain the property of their 
+            respective owners.</p>
           
           <ol start="4" role="list">
             <li><strong>Submitted Content</strong></li>
