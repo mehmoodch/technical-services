@@ -5,16 +5,20 @@
         <h3>
           <strong>Let Us Take Care of Your To-Do List</strong>
         </h3>
-        <p>There are always home improvement tasks that need attention, and finding different companies for each job can be time-consuming. At Rashed Mazumdar Technical Services, we offer a one-stop solution for all your maintenance and repair needs. With just a single call, our skilled professionals handle everything efficiently, saving you time and effort.</p>
+        <p>There are always home improvement tasks that need attention, and finding different companies for each job can be time-consuming.
+           At Rashed Mazumdar Technical Services, we offer a one-stop solution for all your maintenance and repair needs. With just a single call,
+            our skilled professionals handle everything efficiently, saving you time and effort.</p>
         <p>Our additional handyman services include:</p>
         <ul role="list">
           <li>Painting</li>
           <li>Plumbing</li>
-          <li>Drywall repair</li>
+          <li>False Ceiling repair</li>
           <li>Electrical and lighting</li>
           <li>Furniture assembly</li>
         </ul>
-        <p>If you own a business, Rashed Mazumdar Technical Services also offers commercial handyman services. We are committed to helping you maintain your home or commercial space with reliable solutions and professional craftsmanship. Schedule a service online or call us at +971 555199753 to learn how we can assist you.</p>
+        <p>If you own a business, Rashed Mazumdar Technical Services also offers commercial handyman services. We are committed to helping you maintain your
+           home or commercial space with reliable solutions and professional craftsmanship. Schedule a service online or call us at +971 55 519 9753 to learn how 
+           we can assist you.</p>
       </div>
       <div class="service-rich-text w-richtext">
         <p>

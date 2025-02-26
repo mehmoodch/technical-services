@@ -167,7 +167,7 @@
         <div class="footer-bottom-row second">
           <div>
             <a href="../index.php" aria-current="page" class="w--current"><span class="handyman">Rashed MTS Technical Services LLC</span></a>
-             © 2025 All rights reserved. | <a href="../privacy-policy.php">Privacy Policy</a> | <a href="../terms-of-service.php">Terms of Service</a>
+             © 2025 All rights reserved. | <a href="../privacy-policy.php">Privacy Policy</a> | <a href="../terms-of-use.php">Terms of Service</a>
             </div>
         </div>
       </div>
@@ -194,26 +194,6 @@
   <script src="../../d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c89101.js?site=64c93da6f9f661cffa20dfee" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
   </script>  
   <script src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/js/handypro.1b2f4fff.cec9473d751b51ef.js" type="text/javascript"></script>
-  <!--Start of Tawk.to Script-->
-  <!--Start of Tawk.to Script-->
-<!-- <script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/67b5e5d1c756b2190a98393b/1ikf8jfe9';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script> -->
-<!--End of Tawk.to Script-->
-  <!-- Google Tag Manager (noscript) -->
-  <!-- <noscript>
-    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMHJV9MF" height="0" width="0"
-      style="display:none;visibility:hidden">
-    </iframe>
-  </noscript> -->
-  <!-- End Google Tag Manager (noscript) -->
+  
 </body>
 </html>
