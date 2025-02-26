@@ -53,7 +53,7 @@ include'header.php';
     <section>
       <div class="w-richtext">
         <div class="code-embed-3 w-embed w-script">
-          <script src="../../static.elfsight.com/platform/platform.js" async></script>
+          <!-- <script src="../../static.elfsight.com/platform/platform.js" async></script> -->
           <div class="elfsight-app-eea0ae4a-520b-4d53-91c9-4c75ba879fb4" data-elfsight-app-lazy></div>
         </div>
       </div>
