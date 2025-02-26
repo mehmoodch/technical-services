@@ -12,10 +12,7 @@ include'header.php';
     <?php
     include'nav.php';
     ?>
-    <div class="mob-cta-wrapper-2">
-      <a href="contact-us.php"  target="_blank" class="button w-inline-block">
-        <div> Book Now</div>
-      </a>
+    
     </div>
     <header id="Page-Header" class="section bg-gray-3">
       <div class="main-container">
