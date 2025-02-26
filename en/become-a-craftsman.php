@@ -197,7 +197,7 @@ include 'header.php';
 							<li>Wish to work with a well-established company that offers flexibility and benefits</li>
 						</ul>
 						<h3>Our Commitment to Ethical Standards</h3>
-						<p>When RashedMTS was founded, owners Keith and Deb quickly realized the need for a company where craftsmen could be treated with respect, paid fairly, and valued for their skills. They envisioned a workplace built on trust and appreciation for artisans. To uphold these values, they introduced a <a href="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dfc2e41e2774d101c6eb4d_HPG-Code-of-Ethics-Final.docx.pdf" target="_blank">Code of Ethics</a>. This commitment led them to expand the company nationally, benefiting both homeowners and skilled craftsmen.</p>
+						<p>When RashedMTS was founded, owners Keith and Deb quickly realized the need for a company where craftsmen could be treated with respect, paid fairly, and valued for their skills. They envisioned a workplace built on trust and appreciation for artisans. To uphold these values, they introduced a <a href="#" target="_blank">Code of Ethics</a>. This commitment led them to expand the company nationally, benefiting both homeowners and skilled craftsmen.</p>
 					</div>
 				</div>
 			</div>
