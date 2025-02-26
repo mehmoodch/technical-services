@@ -73,14 +73,14 @@ include 'services-header.php';
 											<li>and more...</li>
 									</ul>
 							<p>
-								<a href="../handyman-services/plaster-work/index.php#OnDemand">
+								<a href="../contact-us.php">
 									<strong>Select an On-Demand Service to Book Online Now!</strong></a></p>
 							<p>Have another plastering need? Reach out to Rashed Mazumdar! We have experience handling a wide variety of plaster work 
 								and would love to assist you if we can.</p>
 							</div>
 							<div class="separator-div">
 							<div class="service-rich-text w-richtext">
-							<p><a target="_blank" href="#"><strong>Book now</strong></a>
+							<p><a target="_blank" href="../contact-us.php"><strong>Book now</strong></a>
 							<strong> or contact us at </strong><a href="tel:971555199753"><strong>+971 55 519 9753</strong></a>
 							<strong> to learn more about our plaster work and other handyman services.</strong>
 						</p>
