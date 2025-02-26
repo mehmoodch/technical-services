@@ -85,7 +85,7 @@
           <p><strong>CHANGES TO THIS POLICY</strong></p>
           <p>We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the updated policy on the Site or through other communication methods. Your continued use of the Platform after such changes constitutes your acceptance of the updated policy.</p>
           <p><strong>CONTACT US</strong></p>
-          <p>If you have any questions about this Privacy Policy or our practices, please contact us at <a target="_blank" href="https://rashedmts.ae/en/contact-us.php/">Contact us</a>.</p>
+          <p>If you have any questions about this Privacy Policy or our practices, please contact us at <a target="_blank" href="https://rashedmts.ae/en/contact-us.php">Contact us</a>.</p>
         </div>
       </div>
     </div>
