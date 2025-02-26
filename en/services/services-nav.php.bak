@@ -185,11 +185,16 @@
                 <nav class="dropdown-list w-dropdown-list">
                   <div class="w-layout-grid dropdown-grid">
                     <a href="../our-story.php" class="dropdown-link w-dropdown-link">Our Story</a>
-                    <a href="../faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
-                    <a href="../blog.php"  class="dropdown-link w-dropdown-link">Blog</a>
-                    <a href="../become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
-                    <a href="../project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
-                    <a href="../special-offers.php"  class="dropdown-link w-dropdown-link">Special Offers</a>
+                    <a href="our-story/become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
+                    
+                   
+                    <a href="our-story/faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
+                    <a href="our-story/project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
+                    <a href="our-story/in-the-news.php"  class="dropdown-link hide w-dropdown-link">Meet The Team</a>
+                    <a href="our-story/in-the-news.php"  class="dropdown-link w-dropdown-link">In The News</a>
+                    <a href="our-story/video-center.php"  class="dropdown-link w-dropdown-link">Video Center</a>
+                    <a href="our-story/blog.php"  class="dropdown-link w-dropdown-link">Blog</a>
+                    <a href="our-story/special-offers.php"  class="dropdown-link w-dropdown-link">Special Offers</a>
                   </div>
                 </nav>
               </div>
@@ -236,14 +241,15 @@
                         <div class="w-layout-grid dropdown-grid">
                           <div class="dropdown-grid-column">
                             <a href="../our-story.php"  class="dropdown-link w-dropdown-link">Our Story</a>
-                            
+                            <a  href="../become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
                             <a  href="../faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
                             <a  href="../project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
                           </div>
                           <div class="dropdown-grid-column">
-                          <a  href="../become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
-                            <a href="../blog.php" class="dropdown-link w-dropdown-link">Blog</a>
-                            <a href="../special-offers.php"  class="dropdown-link w-dropdown-link">Special Offers</a>
+                            <a href="#" class="dropdown-link w-dropdown-link">In The  News</a>
+                            <a href="../video-center.php" class="dropdown-link w-dropdown-link">Video  Center</a>
+                            <a href="#" class="dropdown-link w-dropdown-link">Blog</a>
+                            <a href="#"  class="dropdown-link w-dropdown-link">Special Offers</a>
                             
                           </div>
                         </div>
@@ -260,7 +266,8 @@
                   </div>
                 </nav>
               </div>
-              
+              <a href="locations.php" class="nav-link w-nav-link">Locations</a>
+              <a href="financing.php"  class="nav-link w-nav-link">Financing</a>
               <a href="../contact-us.php" class="nav-link w-nav-link">Contact Us</a>
               <div class="navbar-functions">
                 <a href="../contact-us.php"  target="_blank" class="button nav w-inline-block">

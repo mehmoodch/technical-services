@@ -140,7 +140,7 @@
                 <span><strong>📞 Phone:</strong></span><a href="971555199753"> +971 55 519 9753 </a> <br></br>
                 <span><strong>📲 WhatsApp:</strong></span> <a href="https://wa.me/971505936597" target="_blank">+971 50 593 6597 </a> <br></br>
                 <span><strong>📧 Email:</strong></span> <a href="info@rashedmts.ae"> info@rashedmts.ae </a> <br></br>
-                <span><strong>🌐 Website:</strong></span> <a href="https://www.rashedmts.ae" target="_blank">rashedmts.ae </a> <br></br>
+                <span><strong>🌐 Website:</strong></span> <a href="https://www.rashedmts.ae" target="_blank">www.rashedmts.ae </a> <br></br>
                 <span><strong>📍 Office Address:</strong></span> Dubai Investment Park First, Office#04, Dubai, UAE. <br></br>
                 <span><strong>⏰ Office Hours:</strong></span> Monday - Saturday: 9:00 AM - 6:00 PM <br></br>
                 <span><strong>📩 Send Your Inquiry: </strong></span>  <a href="contact-us.php" target="_blank">Click Here </a>
