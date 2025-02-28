@@ -15,6 +15,8 @@
     <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt="" class="search-modal-cross" />
     <div class="container-large">
       <h4 class="large-heading">Search</h4>
+      
+      
       <form action="#" class="form-horizontal w-form">
         <input class="form-input w-input"
           maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" />
@@ -36,9 +38,11 @@
         <div class="w-layout-grid grid-halves align-top">
           <div class="container-large align-center">
             <div class="form-block w-form">
-              <form id="wf-form-Contact-Us-Contact-Page" name="wf-form-Contact-Us-Contact-Page"   data-name="Contact Us (Contact Page)" method="get" class="form-grid-halves"
-                data-wf-page-id="65fd82d8b2eb03f687d0e2c9" data-wf-element-id="f116c3ad-ea31-d300-24a9-7809979f8cf4">
-                <div>
+              
+            <form id="wf-form-Contact-Us-Contact-Page" name="wf-form-Contact-Us-Contact-Page"
+                data-name="Contact Us (Contact Page)" method="post" action="process-form.php"
+                class="form-grid-halves">
+          <div>
                   <label for="First-Name" class="text-small form-input-label">First Name <span class="text-danger">*</span></label>
                   <input class="form-input w-input" maxlength="256"
                     name="First-Name-3" data-name="First Name 3" placeholder="" type="text" id="First-Name-3"
