@@ -42,11 +42,14 @@
         </div><a href="#Guarantee" class="badge hero w-inline-block"><img
             src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/GURANTEE (1).svg"
             loading="lazy" alt="1 year guarantee Rashed Mazumdar Technical Services" class="guarantee-badge" /></a>
-        <div class="bg-overlay"></div><img
-          src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c95ea7a08ca890cde6001e_mainstage-img.2109231317026.webp"
-          loading="lazy" sizes="100vw"
-          srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c95ea7a08ca890cde6001e_mainstage-img.2109231317026-p-500.webp 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c95ea7a08ca890cde6001e_mainstage-img.2109231317026-p-800.webp 800w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c95ea7a08ca890cde6001e_mainstage-img.2109231317026-p-1080.webp 1080w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c95ea7a08ca890cde6001e_mainstage-img.2109231317026-p-1600.webp 1600w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c95ea7a08ca890cde6001e_mainstage-img.2109231317026.webp 1920w"
-          alt="Handyman" class="background-video" />
+        <div class="bg-overlay"></div>
+        <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/home-banner.jpg" loading="lazy" sizes="100vw"
+          srcset="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/home-banner.jpg 500w, 
+          ../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/home-banner.jpg 800w,
+           ../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/home-banner.jpg 1080w, 
+           ../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/home-banner.jpg 1600w, 
+           ../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/home-banner.jpg 1920w"
+          alt="RashedMTS" class="background-video" />
       </div>
     </div>
     <div class="section reduced-padding less-padding bg-gray-3">
