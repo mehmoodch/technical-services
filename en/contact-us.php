@@ -106,7 +106,7 @@
 
                   </div>
                   <input  id="HandyPro-Newsletter" type="checkbox" name="HandyPro-Newsletter" data-name="HandyPro Newsletter"  style="opacity:0;position:absolute;z-index:-1" />
-                    <span for="HandyPro-Newsletter"  class="selectable-label w-form-label">Purple Bricks Newsletter</span>
+                    <span for="HandyPro-Newsletter"  class="selectable-label w-form-label">Rashed Mazumdar Newsletter</span>
                 </label>
                 <label id="w-node-_49eb7f2a-8ae9-b999-8965-2f828dc4b2c5-87d0e2c9"  class="w-checkbox selectable-field">
                   <div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox">
@@ -137,16 +137,16 @@
               </div>
               <div class="justify-content-left hide">
                 <h4>Address</h4>
-                <p>1821 23rd Street,<br />Noe Valley, San Francisco<br />California</p>
-                <div class="w-layout-grid list-grid-vertical"><a href="#" class="horizontal-link w-inline-block"><img
-                      src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e128_envelope-small.svg"
-                      alt="" class="horizontal-link-icon" />
-                    <div>support@spark.io</div>
-                  </a><a href="#" class="horizontal-link w-inline-block"><img
-                      src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e261_phone-2-small.svg"
-                      alt="" class="horizontal-link-icon" />
-                    <div>1800 832 993</div>
-                  </a></div>
+                <p>Dubai Investment Park First,<br /> Office#04, <br />Dubai, UAE.</p>
+                <div class="w-layout-grid list-grid-vertical"><a href="#" class="horizontal-link w-inline-block">
+                  <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e128_envelope-small.svg" alt="" class="horizontal-link-icon" />
+                    <div>info@rashedmts.ae</div>
+                  </a>
+                  <a href="#" class="horizontal-link w-inline-block">
+                    <img  src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e261_phone-2-small.svg" alt="" class="horizontal-link-icon" />
+                    <div>+971 55 519 9753</div>
+                  </a>
+                </div>
               </div>
               <div class="justify-content-left">
                 <h4>Social Media</h4>
