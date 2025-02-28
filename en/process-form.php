@@ -43,7 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Set headers for email
     $headers = "MIME-Version: 1.0" . "\r\n";
     $headers .= "Content-Type: text/html; charset=ISO-8859-1" . "\r\n";
-    $headers .= "From: no-reply@example.com" . "\r\n";  // Replace with your sender email
+    $headers .= "From: info@rashedmts.ae" . "\r\n";  // Replace with your sender email
 
     // Send the email
     if (mail($to, $subject, $message, $headers)) {
