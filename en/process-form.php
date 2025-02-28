@@ -1,4 +1,8 @@
 <?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+?>
+<?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $to = "info@rashedmts.ae";  // Replace with the webmaster's email
     $subject = "New Contact Form Submission";
