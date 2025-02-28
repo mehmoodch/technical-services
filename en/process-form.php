@@ -8,18 +8,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $subject = "New Contact Form Submission";
 
     // Collect form data
-    $firstName = $_POST['First-Name-3'];
-    $lastName = $_POST['Last-Name-3'];
-    $email = $_POST['Email-Address-2'];
-    $phone = $_POST['Phone-2'];
-    $address = $_POST['Address'];
-    $state = $_POST['State-4'];
-    $zipCode = $_POST['Zip-Code-2'];
-    $newClient = $_POST['Are-you-a-new-client'];
-    $helpMessage = $_POST['How-May-We-Help-You'];
+    $firstName = isset($_POST['First-Name-3']) ? $_POST['First-Name-3'] : '';
+    $lastName = isset($_POST['Last-Name-3']) ? $_POST['Last-Name-3'] : '';
+    $email = isset($_POST['Email-Address-2']) ? $_POST['Email-Address-2'] : '';
+    $phone = isset($_POST['Phone-2']) ? $_POST['Phone-2'] : '';
+    $address = isset($_POST['Address']) ? $_POST['Address'] : '';
+    $state = isset($_POST['State-4']) ? $_POST['State-4'] : '';
+    $zipCode = isset($_POST['Zip-Code-2']) ? $_POST['Zip-Code-2'] : '';
+    $newClient = isset($_POST['Are-you-a-new-client']) ? $_POST['Are-you-a-new-client'] : '';
+    $helpMessage = isset($_POST['How-May-We-Help-You']) ? $_POST['How-May-We-Help-You'] : '';
     $newsletter = isset($_POST['HandyPro-Newsletter']) ? "Subscribed" : "Not Subscribed";
     $giftCertificate = isset($_POST['50-Gift-Certificate']) ? "Requested" : "Not Requested";
     $smsConsent = isset($_POST['I-agree-to-receive-messaging']) ? "Agreed" : "Not Agreed";
+
 
     // Construct email message
     $message = "
