@@ -166,7 +166,7 @@
         
         <div class="footer-bottom-row second">
           <div>
-            <a href="../index.php" aria-current="page" class="w--current"><span class="handyman">Rashed MTS Technical Services LLC</span></a>
+            <a href="../index.php" aria-current="page" class="w--current"><span class="handyman">Rashed Mazumdar Technical Services LLC</span></a>
              © 2025 All rights reserved. | <a href="../privacy-policy.php">Privacy Policy</a> | <a href="../terms-of-use.php">Terms of Service</a>
             </div>
         </div>
