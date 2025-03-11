@@ -67,31 +67,538 @@ include'header.php';
                 
               <div role="listitem" class="gallery-item w-dyn-item">
                   <a href="#" class="project-link-block w-inline-block w-lightbox">
-                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558a322b8db19c1c6c69_electrical-switch-replacement.2106292056210.jpg);" class="project-image" >
-
-                    
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0048.jpg);" class="project-image" >
                       <div class="gallery-preview-indicator">
                         <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
                         </div>
                     </div>
-                  <script type="application/json" class="w-json">{
+                    <script type="application/json" class="w-json">{
                       "items": [
                         {
-                          "url": "local-gallery/_https_/cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558a322b8db19c1c6c69_electrical-switch-replacement.2106292056210.jpg",
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0048.jpg",
                           "type": "image"
                         }
                       ],
                       "group": "gallery"
                     }
-                  </script>
+                    </script>
                 </a>
                 <div class="gallery-more-link">
-                    <div>Electrical Fixtures</div>
-                  </div>
+                    <div>Carpentry Work</div>
+                </div>
               </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0053.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0053.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0054.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0054.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0056.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0056.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0057.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0057.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0060.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0060.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0061.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0061.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0062.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0062.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0064.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0064.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0066.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0066.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0067.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0067.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0068.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0068.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0069.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0069.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0070.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0070.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0071.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0071.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0072.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0072.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250311-WA0001.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250311-WA0001.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0073.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0073.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0065.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0065.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0063.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0063.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0059.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0059.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0058.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0058.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              <div role="listitem" class="gallery-item w-dyn-item">
+                  <a href="#" class="project-link-block w-inline-block w-lightbox">
+                    <div style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0051.jpg);" class="project-image" >
+                      <div class="gallery-preview-indicator">
+                        <img  src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
+                        </div>
+                    </div>
+                    <script type="application/json" class="w-json">{
+                      "items": [
+                        {
+                          "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0051.jpg",
+                          "type": "image"
+                        }
+                      ],
+                      "group": "gallery"
+                    }
+                    </script>
+                </a>
+                <div class="gallery-more-link">
+                    <div>Carpentry Work</div>
+                </div>
+              </div>
+
+              
+              
                 <div role="listitem" class="gallery-item w-dyn-item">
                   <a href="#"  class="project-link-block w-inline-block w-lightbox">
-                    <div  style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558aec4f8b0ae5583103_plumbing-toilet-replace.2106251448534.jpg);"
+                    <div  style="background-image: url(local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0050.jpg);"
                       class="project-image">
                       <div class="gallery-preview-indicator">
                         <img src="https://cdn.prod.website-files.com/64dbb85b7c1587d75d8ce181/64dbb85c7c1587d75d8ce261_icon-search.svg" alt="" />
@@ -100,7 +607,7 @@ include'header.php';
                         <script type="application/json" class="w-json">{
                             "items": [
                               {
-                                "url": "local-gallery/_https_/cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c9558aec4f8b0ae5583103_plumbing-toilet-replace.2106251448534.jpg",
+                                "url": "local-gallery/_https_/cdn.prod.website-files.com/images/IMG-20250309-WA0050.jpg",
                                 "type": "image"
                               }
                             ],
@@ -109,7 +616,7 @@ include'header.php';
                         </script>
                   </a>
                   <div class="gallery-more-link">
-                    <div>Bathroom Remodeling </div>
+                    <div>Cupboard Remodeling </div>
                   </div>
                 </div>
                 <div role="listitem" class="gallery-item w-dyn-item">

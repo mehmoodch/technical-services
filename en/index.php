@@ -73,7 +73,7 @@
           <div role="list" class="_3-col-grid _1-on-mob w-dyn-items">
             <div role="listitem" class="w-dyn-item">
               <a href="services/carpentry.php"  class="portrait-link-box w-inline-block">
-                <img alt="Handyman Services" src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c95588d2a382a69e76d061_other-8-hour.2106251449488.jpg" class="main-image no-max" />
+                <img alt="Handyman Services" src="../cdn.prod.website-files.com/64c93da6f9f661cffa20e087/IMG-20250309-WA0073.jpg" class="main-image no-max" />
                 <div class="cards portrait-link-box-content">
                   <div class="avatar avatar-small quote-box-avatar wrapper">
                     <img width="40" height="40"  alt="False Ceiling & Light Partition Installation" src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20e087/64c941fdc3fb0bc370850182_IconoirHammer Copy.svg"
